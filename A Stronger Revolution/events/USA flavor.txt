@@ -179,6 +179,41 @@ country_event = {
 }
 
 country_event = {
+	id = 1659
+	title = "EVTNAME16400"
+	desc = "EVTDESC16400"
+	picture = "Administration"
+	
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "EVTOPTA16400"
+		RIO = {
+			any_owned = {
+			remove_core = RIO
+			add_core = RIO
+			}
+			}
+		inherit = RIO
+		}
+		ai_chance = {
+			factor = 10
+		}
+	
+	option = {
+		name = "EVTOPTB16400"
+		relation = {
+			who = RIO
+			value = -100
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+country_event = {
     id = 1646
     title = "The Yucatan Intervention"
     desc = "YUC_event_2"
