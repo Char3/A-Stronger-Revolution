@@ -6,6 +6,7 @@ political_decisions = {
 			any_owned_province = {
 				is_core = TXS
 			}
+			NOT = { tag = USA }
 		}
 		allow = {
 			any_owned_province = {
