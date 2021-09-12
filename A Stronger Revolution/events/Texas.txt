@@ -1,0 +1,111 @@
+country_event = {
+	id = 73848
+	title = "Texan Settlers"
+	desc = "TEX1"
+	picture = "Administration"
+	trigger = {
+		NOT = { has_country_flag = texans_blocked }
+		any_owned_province = {
+			is_core = TXS
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 1
+	}
+	
+	
+	option = {
+		name = "Concerning but welcome."
+		any_owned = { 
+			any_pop = {
+				limit = { culture = texan }
+				reduce_pop = 1.30
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 73849
+	title = "Texan Settlers"
+	desc = "TEX1"
+	picture = "Administration"
+	trigger = {
+		NOT = { has_country_flag = texans_blocked }
+		any_owned_province = {
+			is_core = TXS
+		}
+		in_sphere = USA
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	
+	option = {
+		name = "Concerning but welcome."
+		any_owned = { 
+			any_pop = {
+				limit = { culture = texan }
+				reduce_pop = 1.40
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 73850
+	title = "Texans Take Power"
+	desc = "TEX2"
+	picture = "Administration"
+	trigger = {
+		NOT = { has_country_flag = texans_blocked }
+		NOT = { primary_culture = texan }
+		any_owned_province = {
+			is_core = TXS
+		}
+		any_owned_province = {
+			culture = texan
+		}
+		in_sphere = USA
+		NOT = { tag = TEX }
+	}
+	
+	mean_time_to_happen = {
+		months = 4
+	}
+	
+	
+	option = {
+		name = "We love our Texans.."
+		primary_culture = texan
+		add_accepted_culture = mexican
+	}
+}
+
+country_event = {
+	id = 73851
+	title = "Texan Settlers"
+	desc = "TEX3"
+	picture = "Administration"
+	trigger = {
+		tag = TEX
+	}
+	
+	mean_time_to_happen = {
+		months = 6
+	}
+	
+	
+	option = {
+		name = "Welcome!"
+		any_owned = { 
+			any_pop = {
+				limit = { culture = texan }
+				reduce_pop = 1.15
+			}
+		}
+	}
+}

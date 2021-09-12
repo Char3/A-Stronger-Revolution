@@ -1,0 +1,28 @@
+political_decisions = {
+	dominican_apply_for_US_statehood = {
+		potential = {	
+			exists = USA
+			tag = DOM
+			exists = HAI
+		}
+		allow = {
+			war = no
+			year = 1867
+			USA = {
+				war = no
+			}
+			NOT = {
+				has_country_flag = annexation_requesst
+			}
+		}
+		effect = {
+		set_country_flag = annexation_requesst
+			USA = {
+				country_event = { id=16653 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+}

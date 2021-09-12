@@ -1,0 +1,22 @@
+political_decisions = {
+	claim_greater_armenia = {
+		potential = {	
+			tag = ARM
+		}
+		allow = {
+			1098 = { owned_by = ARM }
+			war_policy = jingoism
+		}
+		effect = {
+		853 = { remove_core = GRE }
+		relation = {
+		who = ALB
+		value = 100
+		}
+		badboy = -6
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+}

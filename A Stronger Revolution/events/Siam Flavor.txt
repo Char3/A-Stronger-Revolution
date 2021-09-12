@@ -1,0 +1,28 @@
+country_event = {
+	id = 1979
+	title = "The Growth of the Siamese Working Class"
+	desc = "The opening of factories throughout Siam has resulted in the growth of the working class in Siam."
+	picture = "Administration"
+	trigger = {
+		is_civilized = yes
+		NOT = { has_country_flag = siam2012 }
+		tag = SIA
+	}
+	
+	mean_time_to_happen = {
+		months = 48
+	}
+	
+	
+	option = {
+		name = "Very good."
+		set_country_flag = siam2012
+		1346 = { 
+			any_pop = {
+				limit = { type = craftsmen }
+				reduce_pop = 3.00
+				militancy = -5
+				}
+			}
+	}
+}

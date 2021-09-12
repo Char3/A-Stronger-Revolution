@@ -1,0 +1,32 @@
+leader = {
+	name = "Alexander Abkhazi"
+	date = 1816.1.1
+	type = land
+	personality = openminded
+	background = war_college
+	prestige = 0.1
+}
+
+army = {
+	name = "Yucatan Regiments"
+	location = 1090
+	regiment = {
+		name= "1st Caucasian Unit"
+		type = infantry
+		home = 1090
+	}
+	
+	regiment = {
+		name= "2nd Caucasian Unit"
+		type = infantry
+		home = 1102
+	}
+	
+	regiment = {
+		name= "1st Caucasian Artillery Unit"
+		type = artillery
+		home = 1096
+	}
+
+
+}
