@@ -133,3 +133,5 @@ RIO_ADJ;Rio Grandese;
 TXS;Texan Settlers;
 TXS_ADJ;Texan Settlers;
 TEX1;Settlers from Texas and the wider USA have flocked to the lands of our country. These Texans provide a boon to our greater economy and local economy alike, but also cause cultural issues.;
+block_texans_title;Block the Texans;
+block_texans_desc;The troublesome American settlers have caused cultural conflict with the native Mexicans in our country. We must stop the settlers from coming to our country.;
