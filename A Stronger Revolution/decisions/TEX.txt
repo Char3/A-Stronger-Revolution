@@ -2,6 +2,7 @@ political_decisions = {
 	block_texans = {
 		picture = "form_union_nation"
 		potential = {	
+			NOT = { has_country_flag = texans_blocked }
 			any_owned_province = {
 				is_core = TXS
 			}
