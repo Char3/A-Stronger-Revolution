@@ -1,0 +1,21 @@
+political_decisions = {
+	block_texans = {
+		picture = "form_union_nation"
+		potential = {	
+			any_owned_province = {
+				is_core = TXS
+			}
+		}
+		allow = {
+			any_owned_province = {
+				is_core = TXS
+			}
+		}
+		effect = {
+			set_country_flag = texans_blocked
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}
