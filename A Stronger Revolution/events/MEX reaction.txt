@@ -71,10 +71,12 @@ country_event = {
 		tag = MEX
 		year = 1840
 		2148 = { owned_by = MEX }
+		NOT = { has_country_flag = rio_grande_rebellion }
 	}
 	
 	option = {
 		name = "The Texans shall not win this time!"
+		set_country_flag = rio_grande_rebellion
 		2144 = { secede_province = RIO add_core = RIO }
 		2152 = { secede_province = RIO add_core = RIO }
 		2147 = { secede_province = RIO add_core = RIO }
