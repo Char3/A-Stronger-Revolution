@@ -197,7 +197,7 @@ country_event = {
 		RIO = {
 			any_owned = {
 			remove_core = RIO
-			add_core = RIO
+			add_core = USA
 			}
 			}
 		inherit = RIO
