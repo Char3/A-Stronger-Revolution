@@ -43,8 +43,8 @@ country_event = {
 	trigger = {
 		tag = USA
 		year = 1854
-		OR = { NOT = { has_country_flag = sonora_annexation  }
-		NOT = { has_country_flag = no_sonora }
+		NOT = { OR = { has_country_flag = sonora_annexation 
+		has_country_flag = no_sonora }
 		}
 	}
 	
