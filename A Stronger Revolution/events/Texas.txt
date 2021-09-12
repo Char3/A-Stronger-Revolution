@@ -23,6 +23,12 @@ country_event = {
 				reduce_pop = 1.30
 			}
 		}
+		any_owned = {
+			any_pop = {
+				limit = { culture = mexican }
+				militancy = 0.2
+			}
+		}
 	}
 }
 
@@ -50,6 +56,12 @@ country_event = {
 			any_pop = {
 				limit = { culture = texan }
 				reduce_pop = 1.40
+			}
+		}
+		any_owned = {
+			any_pop = {
+				limit = { culture = mexican }
+				militancy = 0.4
 			}
 		}
 	}
@@ -82,6 +94,12 @@ country_event = {
 		name = "We love our Texans.."
 		primary_culture = texan
 		add_accepted_culture = mexican
+		any_owned = {
+			any_pop = {
+				limit = { culture = mexican }
+				militancy = 1
+			}
+		}
 	}
 }
 
@@ -103,8 +121,8 @@ country_event = {
 		name = "Welcome!"
 		any_owned = { 
 			any_pop = {
-				limit = { culture = texan }
-				reduce_pop = 1.15
+				limit = { culture = mexican }
+				militancy = 0.2
 			}
 		}
 	}
