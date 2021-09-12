@@ -113,12 +113,18 @@ country_event = {
 	}
 	
 	mean_time_to_happen = {
-		months = 6
+		months = 4
 	}
 	
 	
 	option = {
 		name = "Welcome!"
+		any_owned = { 
+			any_pop = {
+				limit = { culture = texan }
+				reduce_pop = 1.25
+			}
+		}
 		any_owned = { 
 			any_pop = {
 				limit = { culture = mexican }
