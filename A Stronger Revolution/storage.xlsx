@@ -1,0 +1,53 @@
+country_event = {
+	id = 22661
+	title = "EVTNAME22661"
+	desc = "EVTDESC22661"
+	picture = "private_banks"
+	
+	trigger = {
+		iron_railroad = 1
+		steam_turbine = 1
+		NOT = {
+			government = proletarian_dictatorship
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 600
+		modifier = {
+			factor = 1.2
+			economic_policy = laissez_faire
+		}
+		modifier = {
+			factor = 1.4
+			steel_railroad = 1
+		}
+		modifier = {
+			factor = 1.2
+			business_banks = 1
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA22530"
+		random_state = {
+			any_owned = {
+				limit = { 
+					can_build_in_province = {
+						building = railroad
+						limit_to_world_greatest_level = yes # optional
+					}
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB22530"
+		random_state = {
+			any_pop = {
+				militancy = -1
+			}
+		}
+	}
+}

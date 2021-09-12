@@ -1,0 +1,22 @@
+owner = QUE
+controller = QUE
+add_core = QUE
+add_core = CAN
+trade_goods = grain
+naval_base = 1
+life_rating = 48
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = lumber_mill
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}

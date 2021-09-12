@@ -1,0 +1,125 @@
+political_decisions = {
+	two_land_of_the_free = {
+		picture = "apply_for_USA_statehood"
+		potential = {
+			tag = usa
+			NOT = { has_country_flag = two_land_of_the_free }
+		}
+		allow = {
+			is_greater_power = yes
+		}
+		effect = {
+			add_country_modifier = {
+			name = usa_land_of_the_free
+			duration = 36500
+			} 
+		set_country_flag = two_land_of_the_free
+		}
+	}
+	
+	expel_britain_from_belize = {
+		picture = "apply_for_USA_statehood"
+		potential = {	
+			tag = USA
+			2190 = { owned_by = ENG }
+			2185 = { owned_by = USA }
+		}
+		allow = {
+			war = no
+			NOT = {
+				has_country_flag = belize_annexation
+			}
+		}
+		effect = {
+		set_country_flag = belize_annexation
+		2190 = { add_core = USA }
+			ENG = {
+				country_event = { id=1894 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+	
+	southern_manifest_destiny = {
+		picture = "apply_for_USA_statehood"
+		potential = {	
+			NOT = {
+				has_country_flag = southern_manifest_destiny
+			}
+			tag = USA
+		}
+		allow = {
+			war = no
+			2182 = { owned_by = USA }
+			138 = { owned_by = USA }
+			136 = { owned_by = USA }			
+		}
+		effect = {
+			set_country_flag = southern_manifest_destiny
+			any_owned = { limit = { is_core_of = MEX }
+			add_core = USA
+			}
+			MEX = { any_owned = { add_core = USA } }
+			prestige = 25
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+	
+	liberate_newfoundland = {
+		picture = "apply_for_USA_statehood"
+		potential = {	
+			tag = USA
+			74 = { owned_by = ENG }
+		}
+		allow = {
+			war = no
+			NOT = {
+				has_country_flag = newfoundlandlibre
+			}
+		}
+		effect = {
+	    set_country_flag = newfoundlandlibre
+		74 = { add_core = USA remove_core = ENG remove_core = CAN remove_core = NEW }
+		75 = { add_core = USA remove_core = ENG remove_core = CAN remove_core = NEW }
+		76 = { add_core = USA remove_core = ENG remove_core = CAN remove_core = NEW }
+		2625 = { add_core = USA remove_core = ENG remove_core = CAN remove_core = NEW }
+		war = {
+			target = ENG
+			add_attacker =QUE
+			attacker_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 74
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+			ENG = {
+				country_event = { id=1994 days=0 }
+			}
+			call_ally = yes
+		}
+		ai_will_do = {
+			factor = -5
+			modifier = {
+				factor = 4
+				war_policy = jingoism
+			}
+			
+			modifier = {
+				factor = -3
+				war_policy = pacifism
+			}
+			
+			modifier = {
+				factor = 6
+				84 = { owned_by = USA }
+			}
+		}
+	}
+}

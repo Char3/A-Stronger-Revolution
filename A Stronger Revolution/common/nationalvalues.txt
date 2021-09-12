@@ -1,0 +1,32 @@
+nv_order = {
+	mobilisation_size = 0.04
+	mobilisation_economy_impact = 1.0
+	global_pop_militancy_modifier = -0.01
+}
+
+nv_liberty = {
+	mobilisation_size = 0.02
+	mobilisation_economy_impact = 0.75
+	global_immigrant_attract = 0.15
+}
+
+nv_equality = {
+	mobilisation_size = 0.06
+	mobilisation_economy_impact = 1.25
+	global_assimilation_rate = 0.05
+}
+
+nv_productivity = {
+	mobilisation_size = 0.04
+	mobilisation_economy_impact = 0.70
+	factory_throughput = 0.1
+	rgo_output = 0.05
+}
+
+nv_libertarian = {
+	mobilisation_size = 0.04
+	mobilisation_economy_impact = 0.65
+	factory_throughput = 0.1
+	global_immigrant_attract - 0.15
+	rgo_output = 0.05
+}

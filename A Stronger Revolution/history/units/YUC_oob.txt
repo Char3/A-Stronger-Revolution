@@ -1,0 +1,29 @@
+leader = {
+	name = "Santiago Iman"
+	date = 1816.1.1
+	type = land
+	personality = moral_crusader
+	background = gifted
+	prestige = 0.1
+}
+
+army = {
+	name = "Yucatan Regiments"
+	location = 2183
+	regiment = {
+		name= "1st Yucatan Regiment"
+		type = infantry
+		home = 2183
+	}
+	regiment = {
+		name= "2nd Yucatan Regiment"
+		type = infantry
+		home = 2184
+	}
+	regiment = {
+		name= "3rd Yucatan Regiment"
+		type = infantry
+		home = 2185
+	}
+
+}
