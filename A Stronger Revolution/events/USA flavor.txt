@@ -104,6 +104,11 @@ country_event = {
     desc = "YUC_event_1"
 	picture = "Administration"
 	trigger = {
+		NOT = { OR = { 
+		has_country_flag = yuc_sanctions_removed
+		has_country_flag = yuc_sanctions_kept
+		}
+		}
 		tag = USA
 		YUC = { war_with = MEX } 
 		2184 = { owned_by = YUC }
