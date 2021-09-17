@@ -195,17 +195,16 @@ country_event = {
 	option = {
 		name = "EVTOPTA16400"
 		RIO = {
-			any_owned = {
+			any_owned_province = {
 			remove_core = RIO
 			add_core = USA
 			}
-			}
-		inherit = RIO
 		}
+		inherit = RIO
 		ai_chance = {
 			factor = 10
 		}
-	
+	}
 	option = {
 		name = "EVTOPTB16400"
 		relation = {
