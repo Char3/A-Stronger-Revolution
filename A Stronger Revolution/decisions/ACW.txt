@@ -577,10 +577,16 @@ political_decisions = {
 		
 		effect = {
 			badboy = 6
-			any_greater_power = {
+			SPA = {
 				relation = {
 					who = USA
 					value = -150
+				}
+			}
+			any_greater_power = {
+				relation = {
+					who = USA
+					value = -50
 				}
 			}
 			SPA_2209 = {

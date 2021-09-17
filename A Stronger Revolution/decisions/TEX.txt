@@ -26,6 +26,7 @@ political_decisions = {
 			tag = RIO
 		}
 		allow = {
+			primary_culture = texan
 			138 = { is_owned_by = USA }
 			war = no
 			USA = {
