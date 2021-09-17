@@ -1,0 +1,78 @@
+political_decisions = { 
+	switzerland_expansionism_ita = {
+		picture = form_ita
+		potential = { 
+			tag = SWI
+			NOT = { has_country_flag = swiss_iridentia_ita }
+		}
+		allow = {
+			war_with = ITA
+		}
+		effect = {
+			727 = { add_core = SWI }
+			734 = { add_core = SWI }
+			735 = { add_core = SWI }
+			set_country_flag = swiss_iridentia_ita
+			prestige = 10
+		}
+	}
+	switzerland_expansionism_aus = {
+		picture = austrian_form_south_german_confederation
+		potential = { 
+			tag = SWI
+			NOT = { has_country_flag = swiss_iridentia_aus }
+		}
+		allow = {
+			war_with = AUS
+		}
+		effect = {
+			612 = { add_core = SWI }
+			613 = { add_core = SWI }
+			614 = { add_core = SWI }
+			615 = { add_core = SWI }
+			set_country_flag = swiss_iridentia_aus
+			prestige = 10
+		}
+	}
+	switzerland_expansionism_sgf = {
+		picture = austrian_form_south_german_confederation
+		potential = { 
+			tag = SWI
+			NOT = { has_country_flag = swiss_iridentia_sgf }
+		}
+		allow = {
+			OR = { 
+			war_with = SGF
+			war_with = GER
+			}
+		}
+		effect = {
+			587 = { add_core = SWI }
+			588 = { add_core = SWI }
+			592 = { add_core = SWI }
+			593 = { add_core = SWI }
+			594 = { add_core = SWI }
+			599 = { add_core = SWI }
+			set_country_flag = swiss_iridentia_sgf
+			prestige = 10
+		}
+	}
+	switzerland_expansionism_fra = {
+		picture = austrian_form_south_german_confederation
+		potential = { 
+			tag = SWI
+			NOT = { has_country_flag = swiss_iridentia_fra }
+		}
+		allow = {
+			war_with = FRA
+		}
+		effect = {
+			410 = { add_core = SWI }
+			432 = { add_core = SWI }
+			465 = { add_core = SWI }
+			466 = { add_core = SWI }
+			set_country_flag = swiss_iridentia_fra
+			prestige = 10
+		}
+	}
+}
