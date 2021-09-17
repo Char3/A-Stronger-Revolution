@@ -27,17 +27,18 @@ political_decisions = {
 		}
 		allow = {
 			primary_culture = texan
-			138 = { is_owned_by = USA }
 			war = no
 			USA = {
 				war = no
 			}
+			OR = {
+			AND = { 
 			relation = {
 				who = USA
 				value = 175
 			}
-			OR = { 
 			in_sphere = USA
+			}
 			is_vassal_of = USA
 			}
 		}
