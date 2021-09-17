@@ -20,7 +20,7 @@ country_event = {
 		any_owned = { 
 			any_pop = {
 				limit = { culture = texan }
-				reduce_pop = 1.30
+				reduce_pop = 1.20
 			}
 		}
 		any_owned = {
@@ -55,7 +55,7 @@ country_event = {
 		any_owned = { 
 			any_pop = {
 				limit = { culture = texan }
-				reduce_pop = 1.40
+				reduce_pop = 1.30
 			}
 		}
 		any_owned = {
@@ -122,7 +122,7 @@ country_event = {
 		any_owned = { 
 			any_pop = {
 				limit = { culture = texan }
-				reduce_pop = 1.25
+				reduce_pop = 1.20
 			}
 		}
 		any_owned = { 
