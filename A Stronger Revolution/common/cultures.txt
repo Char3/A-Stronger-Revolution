@@ -43,6 +43,14 @@ germanic = {
 		last_names = { Abramovitch Ashkenazi Bernstein Birnbaum Bloch Cantor Cohen Frank Friedländer Ginsberg Goldstein Horowitz Israel Jacobsohn Kagan Kaplan Klein
 		Levin Luria Morgenstern Nathan Oren Rosenthal Sachs Schapiro Schwartz Weinstein Weiss }
 	}
+	swiss_german = { 
+		color = { 140 30 20}
+		first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
+		Melchior Robert Rudolf Ulrich Wilhelm Augusto }
+		
+		last_names = { Brenner Deucher Funk Haab Herzog Knüsel Munzinger Näff Schneider Siegwart-Müller
+		"von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" }
+	}
 	
 	union = GER
 }
@@ -147,21 +155,6 @@ beneluxian = {
 		Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand 
 		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
 		Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
-	}
-}
-
-pan_swiss = {
-	leader = european
-	unit = EuropeanGC
-	swiss = { 
-		color = { 180 40 40}
-		first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
-		Melchior Robert Rudolf Ulrich Wilhelm Augusto Enrico Flavio Giuseppe Vincenzo
-		Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
-		
-		last_names = { Brenner Deucher Funk Haab Herzog Knüsel Munzinger Näff Schneider Siegwart-Müller
-		"von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" Wille Celio Cotti Fogliardi Motta Zeni
-		Ador Calonder Chaudet Comtesse "de Prangins" Dufour Fornerod Guisan Ruchet Ruchonnet }
 	}
 }
 	
