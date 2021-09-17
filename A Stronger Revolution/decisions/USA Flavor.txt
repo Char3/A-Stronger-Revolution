@@ -58,7 +58,7 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = southern_manifest_destiny
-			any_owned = { limit = { is_core_of = MEX }
+			any_owned = { limit = { is_core = MEX }
 			add_core = USA
 			}
 			MEX = { any_owned = { add_core = USA } }
