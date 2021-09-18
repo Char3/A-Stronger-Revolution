@@ -1,0 +1,68 @@
+country_event = {
+	id = 67534
+	title = "The Czechoslovakia proposal"
+	desc = "czechoslovakia1"
+	picture = "Administration"
+	trigger = {
+		NOT = { has_global_flag = bohemia_approves }
+		NOT = { has_global_flag = bohemia_denies }
+		tag = BOH
+		SLV = { exists = yes }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	
+	option = {
+		name = "Bohemia approves."
+		set_global_flag = bohemia_approves
+		ai_chance = {
+			factor = 10
+		}
+	}
+	option = {
+		name = "No."
+		set_global_flag = bohemia_denies
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+country_event = {
+	id = 67535
+	title = "The Czechoslovakia proposal"
+	desc = "czechoslovakia1"
+	picture = "Administration"
+	trigger = {
+		tag = SLV
+		has_global_flag = bohemia_approves
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	major = yes
+	
+	option = {
+		name = "Slovakia approves."
+		change_tag_no_core_switch = BOH
+		BOH = { 
+			inherit = SLV 
+			change_tag = CZH
+		}
+		CZH = { prestige = 50 }
+		ai_chance = {
+			factor = 10
+		}
+	}
+	option = {
+		name = "No."
+		set_global_flag = slovakia_denies
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
