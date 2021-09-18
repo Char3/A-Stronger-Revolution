@@ -1411,6 +1411,18 @@
 #ruled by Mexico 1836
 #Santa Fe (32000/8000 POPS)
 103 = {
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 1045
+	}
+
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 3599
+	}
+	
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -1444,7 +1456,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 4485
+		size = 2485
 	}
 
 	aristocrats = {
@@ -1474,7 +1486,7 @@
 	farmers = {
 		culture = pueblo
 		religion = animist
-		size = 1800
+		size = 1300
 	}
 
 	aristocrats = {
@@ -1506,6 +1518,7 @@
 		religion = animist
 		size = 900
 	}
+	
 }
 #Albuquerque (20000/5000 POPS)
 104 = {
@@ -1568,6 +1581,18 @@
 		religion = catholic
 		size = 1800
 	}
+	
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 145
+	}
+
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 329
+	}
 }
 #Las Cruces (4000/1000 POPS)
 105 = {
@@ -1599,6 +1624,19 @@
 		culture = native_american_minor
 		religion = animist
 		size = 900
+	}
+	
+
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 309
+	}
+	
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 309
 	}
 }
 #Colorado Region (20000)
@@ -2492,6 +2530,18 @@
 		religion = animist
 		size = 1800
 	}
+	
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 509
+	}
 }
 #Kansas Region (24000)
 #"ruled" by the USA/de facto under Native Control
@@ -2525,6 +2575,18 @@
 		culture = native_american_minor
 		religion = animist
 		size = 1800
+	}
+	
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 500
 	}
 }
 #Goodland (8000/2000 POPS)
@@ -2760,6 +2822,18 @@
 		religion = animist
 		size = 1800
 	}
+	
+	soldiers = {
+		culture = dixie
+		religion = protestant
+		size = 125
+	}
+
+	farmers = {
+		culture = dixie
+		religion = protestant
+		size = 509
+	}
 }
 #Texas Region (67400)
 #ruled by Texas in 1836
@@ -2786,13 +2860,13 @@
 	soldiers = {
 		culture = texan
 		religion = protestant
-		size = 1300
+		size = 1400
 	}
 
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 3075
+		size = 3575
 	}
 
 	slaves = {
@@ -2866,7 +2940,7 @@
 	soldiers = {
 		culture = texan
 		religion = protestant
-		size = 2400
+		size = 3000
 	}
 
 	farmers = {
@@ -3173,13 +3247,13 @@
 	soldiers = {
 		culture = texan
 		religion = protestant
-		size = 156
+		size = 166
 	}
 
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 990
+		size = 1090
 	}
 
 	slaves = {
@@ -3253,11 +3327,78 @@
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 110
+		size = 550
+	}
+	
+	artisans = {
+		culture = texan
+		religion = protestant
+		size = 20
+	}
+	
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 100
 	}
 }
 #El Paso (9000/2250 POPS)
 136 = {
+
+	aristocrats = {
+		culture = texan
+		religion = catholic
+		size = 7
+	}
+
+	clergymen = {
+		culture = texan
+		religion = catholic
+		size = 9
+	}
+
+	artisans = {
+		culture = texan
+		religion = catholic
+		size = 30
+	}
+	
+	farmers = {
+		culture = texan
+		religion = catholic
+		size = 685
+	}
+	
+	aristocrats = {
+		culture = texan
+		religion = protestant
+		size = 12
+	}
+
+	clergymen = {
+		culture = texan
+		religion = protestant
+		size = 15
+	}
+
+	artisans = {
+		culture = texan
+		religion = protestant
+		size = 50
+	}
+	
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 1195
+	}
+	
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 300
+	}
+	
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
@@ -3318,53 +3459,6 @@
 		size = 225
 	}
 	
-	aristocrats = {
-		culture = texan
-		religion = catholic
-		size = 7
-	}
-
-	clergymen = {
-		culture = texan
-		religion = catholic
-		size = 9
-	}
-
-	artisans = {
-		culture = texan
-		religion = catholic
-		size = 30
-	}
-	
-	farmers = {
-		culture = texan
-		religion = catholic
-		size = 685
-	}
-	
-	aristocrats = {
-		culture = texan
-		religion = protestant
-		size = 12
-	}
-
-	clergymen = {
-		culture = texan
-		religion = protestant
-		size = 15
-	}
-
-	artisans = {
-		culture = texan
-		religion = protestant
-		size = 50
-	}
-	
-	farmers = {
-		culture = texan
-		religion = protestant
-		size = 1195
-	}
 }
 #Louisiana Region (280000)
 #ruled by USA in 1836
