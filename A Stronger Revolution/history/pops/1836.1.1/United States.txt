@@ -2768,31 +2768,31 @@
 	aristocrats = {
 		culture = texan
 		religion = protestant
-		size = 50
+		size = 60
 	}
 
 	clergymen = {
 		culture = texan
 		religion = protestant
-		size = 50
+		size = 60
 	}
 
 	artisans = {
 		culture = texan
 		religion = protestant
-		size = 150
+		size = 200
 	}
 
 	soldiers = {
 		culture = texan
 		religion = protestant
-		size = 1100
+		size = 1300
 	}
 
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 2675
+		size = 3075
 	}
 
 	slaves = {
@@ -2836,43 +2836,43 @@
 	aristocrats = {
 		culture = texan
 		religion = protestant
-		size = 25
+		size = 50
 	}
 
 	bureaucrats = {
 		culture = texan
 		religion = protestant
-		size = 75
+		size = 150
 	}
 
 	officers = {
 		culture = texan
 		religion = protestant
-		size = 20
+		size = 40
 	}
 
 	clergymen = {
 		culture = texan
 		religion = protestant
-		size = 50
+		size = 100
 	}
 
 	artisans = {
 		culture = texan
 		religion = protestant
-		size = 125
+		size = 250
 	}
 
 	soldiers = {
 		culture = texan
 		religion = protestant
-		size = 1100
+		size = 2400
 	}
 
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 2220
+		size = 4400
 	}
 
 	slaves = {
@@ -3102,43 +3102,84 @@
 		size = 450
 	}
 	
-	farmers = {
+	aristocrats = {
 		culture = texan
 		religion = catholic
-		size = 55
+		size = 3
+	}
+
+	clergymen = {
+		culture = texan
+		religion = catholic
+		size = 3
+	}
+
+	artisans = {
+		culture = texan
+		religion = catholic
+		size = 25
 	}
 	
 	farmers = {
 		culture = texan
-		religion = protestant
-		size = 305
+		religion = catholic
+		size = 540
 	}
-}
-#"ruled" by Texas/de facto under Native Control
-#Dallas (4400/1100 POPS)
-134 = {
+	
+	aristocrats = {
+		culture = texan
+		religion = protestant
+		size = 4
+	}
+
 	clergymen = {
 		culture = texan
 		religion = protestant
-		size = 5
+		size = 7
 	}
 
 	artisans = {
 		culture = texan
 		religion = protestant
-		size = 5
+		size = 50
+	}
+	
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 1525
+	}
+}
+#ruled by Texas
+#Dallas (4400/1100 POPS)
+134 = {
+	aristocrats = {
+		culture = texan
+		religion = protestant
+		size = 25
+	}
+	clergymen = {
+		culture = texan
+		religion = protestant
+		size = 78
+	}
+
+	artisans = {
+		culture = texan
+		religion = protestant
+		size = 102
 	}
 
 	soldiers = {
 		culture = texan
 		religion = protestant
-		size = 5
+		size = 156
 	}
 
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 75
+		size = 990
 	}
 
 	slaves = {
@@ -3277,16 +3318,52 @@
 		size = 225
 	}
 	
+	aristocrats = {
+		culture = texan
+		religion = catholic
+		size = 7
+	}
+
+	clergymen = {
+		culture = texan
+		religion = catholic
+		size = 9
+	}
+
+	artisans = {
+		culture = texan
+		religion = catholic
+		size = 30
+	}
+	
 	farmers = {
 		culture = texan
 		religion = catholic
-		size = 75
+		size = 685
+	}
+	
+	aristocrats = {
+		culture = texan
+		religion = protestant
+		size = 12
+	}
+
+	clergymen = {
+		culture = texan
+		religion = protestant
+		size = 15
+	}
+
+	artisans = {
+		culture = texan
+		religion = protestant
+		size = 50
 	}
 	
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 525
+		size = 1195
 	}
 }
 #Louisiana Region (280000)
