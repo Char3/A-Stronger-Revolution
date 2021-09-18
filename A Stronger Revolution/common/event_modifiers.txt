@@ -761,7 +761,7 @@ liberian_research_boost = {
 
 texas_black_gold = {
 	immigrant_attract = 10
-	population_growth = 0.03
+	population_growth = 0.020
 	icon = 11
 }
 
