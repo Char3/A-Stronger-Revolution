@@ -77,6 +77,7 @@ country_event = {
 	option = {
 		name = "The Texans shall not win this time!"
 		set_country_flag = rio_grande_rebellion
+		2143 = { secede_province = RIO add_core = RIO }
 		2144 = { secede_province = RIO add_core = RIO }
 		2152 = { secede_province = RIO add_core = RIO }
 		2147 = { secede_province = RIO add_core = RIO }
@@ -117,6 +118,7 @@ country_event = {
 	option = {
 		name = "Glory to Rio Grande!!"
 		set_country_flag = rio_grande_rebellion
+		2143 = { secede_province = RIO add_core = RIO }
 		2144 = { secede_province = RIO add_core = RIO }
 		2152 = { secede_province = RIO add_core = RIO }
 		2147 = { secede_province = RIO add_core = RIO }
