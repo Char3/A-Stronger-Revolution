@@ -45,6 +45,19 @@ political_decisions = {
 		add_accepted_culture = polish
 		}
 	}
+	zap_annex_poland = {
+		picture = poland_czh
+		potential = { 
+			tag = ZAP
+			exists = POL 
+		}
+		allow = {
+			POL = { in_sphere = ZAP } 
+		}
+		effect = {
+		inherit = POL 
+		}
+	}
 	liberation_of_daruvar = {
 		picture = daruvar
 		potential = { 
