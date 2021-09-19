@@ -104,6 +104,7 @@ country_event = {
 		value = 300
 		}
 		}
+		YUC = { create_alliance = TEX } 
 		war = {
 			target = RIO
 			attacker_goal = {
