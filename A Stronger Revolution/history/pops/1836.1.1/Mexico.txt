@@ -581,25 +581,25 @@
 	soldiers = {
 		culture = texan
 		religion = protestant
-		size = 100
+		size = 200
 	}
 
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 320
+		size = 660
 	}
 	
 	soldiers = {
 		culture = texan
 		religion = catholic
-		size = 100
+		size = 200
 	}
 
 	farmers = {
 		culture = texan
 		religion = catholic
-		size = 320
+		size = 660
 	}
 }
 #Saltillo (44000/11000 POPS)
@@ -673,25 +673,25 @@
 	soldiers = {
 		culture = texan
 		religion = protestant
-		size = 25
+		size = 40
 	}
 
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 130
+		size = 150
 	}
 	
 	soldiers = {
 		culture = texan
 		religion = catholic
-		size = 25
+		size = 40
 	}
 
 	farmers = {
 		culture = texan
 		religion = catholic
-		size = 130
+		size = 150
 	}
 }
 #Monclova (48000/12000 POPS)
