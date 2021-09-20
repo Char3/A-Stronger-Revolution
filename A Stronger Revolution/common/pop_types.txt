@@ -342,16 +342,18 @@ migration_chance =
 			}
 	}
 	
-	modifier = {
-		factor = 0.2
-		is_core = yes
+	group = { 
+		modifier = {
+			factor = 0.2
+			is_core = yes
+		}
+	
+		modifier = {
+			factor = 0.2
+			is_coastal = yes
+		}
 	}
 	
-	modifier = {
-		factor = 0.2
-		is_coastal = yes
-	}
-
 	group = {
 		modifier = {
 			factor = 0.5
@@ -465,7 +467,7 @@ emigration_chance =
 	group = {
 	
 		modifier = {
-			factor = 0.2
+			factor = 0.1
 			militancy = 4
 		}
 		modifier = {
@@ -493,7 +495,7 @@ emigration_chance =
 	group = {
 	
 		modifier = {
-			factor = -0.1
+			factor = -0.2
 			not = { consciousness = 4 }
 		}
 		modifier = {
@@ -533,19 +535,24 @@ emigration_chance =
 
 
 	modifier = {
-		factor = -0.2
+		factor = -0.1
 		state_scope = {
 			has_factories = yes
 			}
 	}
+	
+	modifier = {
+		factor = -0.1
+		NOT = { year = 1850 }
+	}
 
 	group = {
 		modifier = {
-			factor = 0.2
+			factor = 0.3
 			unemployment = 0.1
 		}
 		modifier = {
-			factor = 0.2
+			factor = 0.3
 			unemployment = 0.2
 		}
 		modifier = {
@@ -560,19 +567,25 @@ emigration_chance =
 	}
 
 	modifier = {
-		factor = 0.1
+		factor = 0.2
 		country = { religious_policy = moralism }
 		not = { religion = this }
 	}
 
 	modifier = {
-		factor = 0.1
+		factor = 0.6
 		country = { citizenship_policy = residency }
+		not = { culture = this }
+	}
+	
+	modifier = {
+		factor = 0.3
+		country = { citizenship_policy = limited_citizenship }
 		not = { culture = this }
 	}
 
 	modifier = {
-		factor = -2.0
+		factor = -1.5
 		OR = { 
 			continent = north_america
 			continent = south_america
