@@ -33,30 +33,30 @@
 	aristocrats = {
 		culture = armenian
 		religion = orthodox
-		size = 50
+		size = 60
 	}
 
 	clergymen = {
 		culture = armenian
 		religion = orthodox
-		size = 25
+		size = 30
 	}
 
 	artisans = {
 		culture = armenian
 		religion = orthodox
-		size = 150
+		size = 200
 	}
 
 	soldiers = {
 		culture = armenian
 		religion = orthodox
-		size = 38
+		size = 44
 	}
 
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 2737
+		size = 2980
 	}
 }

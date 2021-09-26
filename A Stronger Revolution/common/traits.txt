@@ -181,7 +181,11 @@ personality = {
 		attack = 2
 	}
 	unflinching = {
-		attack = 3
+		attack = 2
+		defence = 2
+		morale = 0.10
+		organisation = 0.10
+		reliability = 0.05
 	}
 	bold = {
 		attack = 1
@@ -210,6 +214,7 @@ personality = {
 	}
 	steadfast = {
 		attack = 2
+		defence = 10
 	}
 	chivalrous = {
 		attack = 2
@@ -238,7 +243,9 @@ personality = {
 		defence = 1
 	}
 	spirited = {
+		attack = 1
 		defence = 2
+		morale = 0.2
 	}
 	resolute = {
 		defence = 2
@@ -246,7 +253,7 @@ personality = {
 	}
 	defiant = {
 		defence = 3
-		morale = 0.20
+		morale = 0.30
 	}
 	able = {
 		organisation = 0.05
@@ -406,6 +413,10 @@ personality = {
 	shrinking_violet = {
 		morale = -0.30
 		reliability = -0.03
+	}
+	shy = {
+		attack = -3
+		morale = -0.2
 	}
 }
 

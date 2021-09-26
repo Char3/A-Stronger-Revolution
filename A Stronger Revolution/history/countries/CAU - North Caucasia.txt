@@ -1,6 +1,8 @@
 capital = 1052
 primary_culture = north_caucasian
-culture = chechne
+culture = chechen
+culture = dagestani
+culture = circassian
 religion = sunni
 government = hms_government
 plurality = 0.2

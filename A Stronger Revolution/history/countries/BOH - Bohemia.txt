@@ -3,16 +3,16 @@ primary_culture = czech
 culture = slovak
 culture = south_german
 religion = catholic
-government = absolute_monarchy
+government = hms_government
 plurality = 0.0
-nationalvalue = nv_order
+nationalvalue = nv_libertarian
 literacy = 0.7
 civilized = yes
 
 # Political reforms
 slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
+upper_house_composition = state_equal_weight
+vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions

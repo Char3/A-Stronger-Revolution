@@ -1,0 +1,83 @@
+leader = {
+    name = "Seferbiy Zaneqo"
+    date = 1816.1.1
+    type = land
+    personality = moral_crusader
+    background = gifted
+    prestige = 0.1
+}
+
+army = {
+	name = "Circassian Army"
+	location = 1051
+	regiment = {
+		name= "4.Chernomoriya"
+		type = cavalry
+		home = 1051
+	}
+	regiment = {
+		name= "5.Chernomoriya"
+		type = cavalry
+		home = 1056
+	}
+	regiment = {
+		name= "6.Chernomoriya"
+		type = cavalry
+		home = 1056
+	}
+	regiment = {
+		name= "7.Chernomoriya"
+		type = cavalry
+		home = 1050
+	}
+	regiment = {
+		name= "10.Chernomoriya"
+		type = cavalry
+		home = 1056
+	}
+	regiment = {
+		name= "11.Chernomoriya"
+		type = cavalry
+		home = 1051
+	}
+	regiment = {
+		name= "12.Chernomoriya"
+		type = cavalry
+		home = 1051
+	}
+
+}
+army = {
+	name = "Chernomoriya"
+	location = 1050
+	regiment = {
+		name= "1.Chernomoriya"
+		type = cavalry
+		home = 1049
+	}
+
+	regiment = {
+		name= "2.Chernomoriya"
+		type = cavalry
+		home = 1050
+	}
+
+	regiment = {
+		name= "3.Chernomoriya"
+		type = cavalry
+		home = 1050
+	}
+	
+	regiment = {
+		name= "8.Chernomoriya"
+		type = cavalry
+		home = 1049
+	}
+	
+	regiment = {
+		name= "9.Chernomoriya"
+		type = cavalry
+		home = 1050
+	}
+
+}

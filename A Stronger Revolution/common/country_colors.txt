@@ -1078,15 +1078,15 @@ TYR = {
     color3= { 109 172 102  }
 }
 
-SUD = {
+TXS = {
     color1= { 164 50 58  }
     color2= { 1 1 1  }
     color3= { 205 205 205  }
 }
 
-TXS = {
-    color1= { 164 50 58  }
+CIR = {
+    color1= { 41 105 18  }
     color2= { 1 1 1  }
-    color3= { 205 205 205  }
+    color3= { 253 252 2  }
 }
 

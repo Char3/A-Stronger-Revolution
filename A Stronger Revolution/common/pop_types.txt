@@ -623,6 +623,14 @@ assimilation_chance =
 		has_culture_core = yes
 	}
 	modifier = {
+    	factor = -8
+		culture = ashkenazi
+	}
+	modifier = {
+    	factor = -10
+		culture = afro_american
+	}
+	modifier = {
 		factor = 10
 		AND = {
 			is_accepted_culture = no

@@ -42,7 +42,15 @@ luxury_needs = {
 country_migration_target =
 {
 	factor = 1
-
+	
+	modifier = {
+		factor = 30
+		primary_culture = THIS 
+	}
+	modifier = {
+		factor = 30
+		accepted_culture = THIS 
+	}
 	modifier = {
 		factor = 0.9
 		unemployment = 0.05

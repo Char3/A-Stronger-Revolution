@@ -1,0 +1,22 @@
+name = "Circassian Genocide"
+
+1829.1.1 = {
+	add_attacker = RUS
+	add_defender = CIR
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest
+		actor = RUS
+		receiver = CIR
+	}
+	
+}
+1864.1.1 = {
+	rem_attacker = RUS
+	rem_defender = CIR
+}

@@ -132,6 +132,9 @@ country_event = {
 			who = MEX
 			value = -50
 		}
+		ai_chance = {
+			factor = 10
+		}
     }
 	
 	option = {
@@ -166,7 +169,6 @@ country_event = {
 			}
 			}
 		inherit = QUE
-		}
 		ai_chance = {
 			factor = 10
 		}

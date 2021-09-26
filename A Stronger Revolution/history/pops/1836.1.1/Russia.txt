@@ -4575,7 +4575,7 @@
 	soldiers = {
 		culture = circassian
 		religion = sunni
-		size = 1100
+		size = 2200
 	}
 
 	farmers = {
@@ -4586,6 +4586,42 @@
 }
 #Stavropol (188000/47000 POPS)
 1050 = {
+	aristocrats = {
+		culture = circassian
+		religion = sunni
+		size = 290
+	}
+
+	officers = {
+		culture = circassian
+		religion = sunni
+		size = 102
+	}
+
+	clergymen = {
+		culture = circassian
+		religion = sunni
+		size = 155
+	}
+
+	artisans = {
+		culture = circassian
+		religion = sunni
+		size = 900
+	}
+
+	soldiers = {
+		culture = circassian
+		religion = sunni
+		size = 4000
+	}
+
+	farmers = {
+		culture = circassian
+		religion = sunni
+		size = 17075
+	}
+	
 	clergymen = {
 		culture = ukrainian
 		religion = orthodox
@@ -4601,7 +4637,7 @@
 	soldiers = {
 		culture = ukrainian
 		religion = orthodox
-		size = 150
+		size = 500
 	}
 
 	farmers = {
@@ -4643,49 +4679,13 @@
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 3700
+		size = 370
 	}
 
 	farmers = {
 		culture = russian
 		religion = orthodox
 		size = 11075
-	}
-
-	aristocrats = {
-		culture = circassian
-		religion = sunni
-		size = 290
-	}
-
-	officers = {
-		culture = circassian
-		religion = sunni
-		size = 102
-	}
-
-	clergymen = {
-		culture = circassian
-		religion = sunni
-		size = 155
-	}
-
-	artisans = {
-		culture = circassian
-		religion = sunni
-		size = 900
-	}
-
-	soldiers = {
-		culture = circassian
-		religion = sunni
-		size = 360
-	}
-
-	farmers = {
-		culture = circassian
-		religion = sunni
-		size = 15775
 	}
 
 	aristocrats = {
@@ -4795,7 +4795,7 @@
 	soldiers = {
 		culture = circassian
 		religion = sunni
-		size = 200
+		size = 5000
 	}
 
 	farmers = {
@@ -5121,37 +5121,37 @@
 	aristocrats = {
 		culture = circassian
 		religion = sunni
-		size = 675
+		size = 700
 	}
 
 	clergymen = {
 		culture = circassian
 		religion = sunni
-		size = 350
+		size = 400
 	}
 
 	officers = {
 		culture = circassian
 		religion = sunni
-		size = 50
+		size = 200
 	}
 
 	artisans = {
 		culture = circassian
 		religion = sunni
-		size = 1700
+		size = 1900
 	}
 
 	soldiers = {
 		culture = circassian
 		religion = sunni
-		size = 350
+		size = 3000
 	}
 
 	farmers = {
 		culture = circassian
 		religion = sunni
-		size = 30875
+		size = 33875
 	}
 	
 	aristocrats = {

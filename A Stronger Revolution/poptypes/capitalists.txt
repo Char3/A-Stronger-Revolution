@@ -59,6 +59,14 @@ country_migration_target =
 	factor = 1
 
 	modifier = {
+		factor = 20
+		primary_culture = THIS 
+	}
+	modifier = {
+		factor = 20
+		accepted_culture = THIS 
+	}
+	modifier = {
 		factor = 2
 		unemployment = 0.1
 	}

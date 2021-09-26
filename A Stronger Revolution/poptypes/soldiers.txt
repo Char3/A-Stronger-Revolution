@@ -74,6 +74,14 @@ country_migration_target =
 		has_pop_culture = THIS
 	}
 	modifier = {
+		factor = 20
+		primary_culture = THIS 
+	}
+	modifier = {
+		factor = 20
+		accepted_culture = THIS 
+	}
+	modifier = {
 		factor = 1.2
 		is_greater_power = yes
 	}
@@ -95,6 +103,12 @@ country_migration_target =
 			continent = north_america
 			continent = south_america
 			continent = oceania
+		}
+	}
+	modifier = {
+		factor = 1.0
+		OR = { 
+			continent = europe
 		}
 	}
 	modifier = {

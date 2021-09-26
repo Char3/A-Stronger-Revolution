@@ -27,6 +27,6 @@ nv_libertarian = {
 	mobilisation_size = 0.04
 	mobilisation_economy_impact = 0.65
 	factory_throughput = 0.1
-	global_immigrant_attract - 0.15
+	global_immigrant_attract = 0.15
 	rgo_output = 0.05
 }
