@@ -41,6 +41,10 @@ country_event = {
 			secede_province = SLV
 		}
 		any_owned = {
+			limit = { is_core = CRO }
+			secede_province = CRO
+		}
+		any_owned = {
 			limit = { is_core = HUN }
 			secede_province = HUN
 		}
