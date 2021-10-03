@@ -1157,7 +1157,7 @@ ideologies = {
 			luxury_needs = 1
 		}		
 		modifier = {
-			factor = 1.05
+			factor = 1.1
 			state_scope = {
 				middle_strata_everyday_needs = 0.9
 			}
