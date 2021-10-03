@@ -1,6 +1,6 @@
 owner = KAL
 controller = KAL
 add_core = KAL
-add_core = IND
+add_core = RAJ
 trade_goods = wool
 life_rating = 35
