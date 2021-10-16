@@ -5,6 +5,7 @@ country_event = {
 	picture = "Administration"
 	trigger = {
 		NOT = { has_country_flag = texans_blocked }
+		NOT = { tag = USA }
 		any_owned_province = {
 			is_core = TXS
 		}
