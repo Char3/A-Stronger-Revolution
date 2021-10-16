@@ -61,6 +61,12 @@ country_event = {
 				militancy = 3
 			}
 		}
+		HUN = {
+			capital = 641
+		}
+		CRO = {
+			capital = 771
+		}
 	}
 	option = {
 		name = "Glory to Bohemia!"
@@ -101,6 +107,12 @@ country_event = {
 			any_pop = {
 				militancy = 3
 			}
+		}
+		HUN = {
+			capital = 641
+		}
+		CRO = {
+			capital = 771
 		}
 		change_tag_no_core_switch = BOH
 	}
@@ -144,6 +156,12 @@ country_event = {
 				militancy = 3
 			}
 		}
+		HUN = {
+			capital = 641
+		}
+		CRO = {
+			capital = 771
+		}
 		change_tag_no_core_switch = RUT
 	}
 	option = {
@@ -185,6 +203,12 @@ country_event = {
 			any_pop = {
 				militancy = 3
 			}
+		}
+		HUN = {
+			capital = 641
+		}
+		CRO = {
+			capital = 771
 		}
 		change_tag_no_core_switch = SLV
 	}
@@ -228,6 +252,12 @@ country_event = {
 				militancy = 3
 			}
 		}
+		HUN = {
+			capital = 641
+		}
+		CRO = {
+			capital = 771
+		}
 		change_tag_no_core_switch = HUN
 	}
 	option = {
@@ -269,6 +299,12 @@ country_event = {
 			any_pop = {
 				militancy = 3
 			}
+		}
+		HUN = {
+			capital = 641
+		}
+		CRO = {
+			capital = 771
 		}
 		change_tag_no_core_switch = CRO
 	}
@@ -312,6 +348,12 @@ country_event = {
 				militancy = 3
 			}
 		}
+		HUN = {
+			capital = 641
+		}
+		CRO = {
+			capital = 771
+		}
 		change_tag_no_core_switch = LOM
 	}
 	option = {
@@ -353,6 +395,12 @@ country_event = {
 			any_pop = {
 				militancy = 3
 			}
+		}
+		HUN = {
+			capital = 641
+		}
+		CRO = {
+			capital = 771
 		}
 		change_tag_no_core_switch = VEN
 	}
