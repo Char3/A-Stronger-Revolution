@@ -102,7 +102,7 @@ country_event = {
 				militancy = 3
 			}
 		}
-		change_tag = BOH
+		change_tag_no_core_switch = BOH
 	}
 	option = {
 		name = "Ruthenia will prevail!"
@@ -144,7 +144,7 @@ country_event = {
 				militancy = 3
 			}
 		}
-		change_tag = RUT
+		change_tag_no_core_switch = RUT
 	}
 	option = {
 		name = "Defend Slovakia!"
@@ -186,7 +186,7 @@ country_event = {
 				militancy = 3
 			}
 		}
-		change_tag = SLV
+		change_tag_no_core_switch = SLV
 	}
 	option = {
 		name = "Magyarország my beloved."
@@ -228,7 +228,7 @@ country_event = {
 				militancy = 3
 			}
 		}
-		change_tag = HUN
+		change_tag_no_core_switch = HUN
 	}
 	option = {
 		name = "Zagreb shall not fall."
@@ -270,7 +270,7 @@ country_event = {
 				militancy = 3
 			}
 		}
-		change_tag = CRO
+		change_tag_no_core_switch = CRO
 	}
 	option = {
 		name = "Italy will be free!"
@@ -312,7 +312,7 @@ country_event = {
 				militancy = 3
 			}
 		}
-		change_tag = LOM
+		change_tag_no_core_switch = LOM
 	}
 	option = {
 		name = "Defend Venice!"
@@ -354,7 +354,7 @@ country_event = {
 				militancy = 3
 			}
 		}
-		change_tag = VEN
+		change_tag_no_core_switch = VEN
 	}
 }
 
