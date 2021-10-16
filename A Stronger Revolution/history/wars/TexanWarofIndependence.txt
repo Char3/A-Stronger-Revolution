@@ -1,23 +1,29 @@
-name = "Texan War of Independence"
+name = "North American War"
 
-1835.10.2 = {
-	add_attacker = MEX
-	add_defender = TEX
+1836.1.1 = {
+    add_defender = USA
+    add_defender = TEX
+    add_attacker = MEX
+	add_attacker = SPA
+	add_attacker = ENG
+
+    war_goal = {
+        casus_belli = humiliate
+        actor = ENG
+        receiver = USA
+    }
 	
-	# actor
-	# receiver
-	# casus_belli - cb type
-	# country - 3rd party
-	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = conquest
 		actor = MEX
 		receiver = TEX
 	}
+	
+	war_goal = {
+        casus_belli = acquire_core_state
+        actor = USA
+        receiver = SPA
+        state_province_id = 2209
+    }
 
-}
-
-1836.4.21 = {
-	rem_attacker = MEX
-	rem_defender = TEX
 }
