@@ -29,7 +29,7 @@
 	aristocrats = {
 		culture = baltic_german
 		religion = protestant
-		size = 925
+		size = 1025
 	}
 
 	bureaucrats = {
@@ -41,7 +41,7 @@
 	officers = {
 		culture = baltic_german
 		religion = protestant
-		size = 380
+		size = 370
 	}
 
 	clergymen = {
@@ -59,7 +59,7 @@
 	farmers = {
 		culture = baltic_german
 		religion = protestant
-		size = 2100
+		size = 8900
 	}
 
 	soldiers = {
@@ -395,43 +395,43 @@
 	clergymen = {
 		culture = baltic_german
 		religion = protestant
-		size = 50
+		size = 200
 	}
 
 	artisans = {
 		culture = baltic_german
 		religion = protestant
-		size = 750
+		size = 3000
 	}
 
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size = 50
+		size = 200
 	}
 
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 25
+		size = 75
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 200
+		size = 600
 	}
 
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 25
+		size = 75
 	}
 
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 750
+		size = 2250
 	}
 }
 #Ventspils (140000/35000 POPS) #uralic = Livonian 
@@ -463,25 +463,25 @@
 	aristocrats = {
 		culture = baltic_german
 		religion = protestant
-		size = 1200
+		size = 2400
 	}
 
 	clergymen = {
 		culture = baltic_german
 		religion = protestant
-		size = 50
+		size = 200
 	}
 
 	artisans = {
 		culture = baltic_german
 		religion = protestant
-		size = 700
+		size = 2800
 	}
 
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size = 50
+		size = 200
 	}
 
 	farmers = {
@@ -493,25 +493,25 @@
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 25
+		size = 75
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 250
+		size = 750
 	}
 
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 25
+		size = 75
 	}
 
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 950
+		size = 2850
 	}
 }
 #Liepaja (96000/24000 POPS)  
@@ -543,49 +543,49 @@
 	aristocrats = {
 		culture = baltic_german
 		religion = protestant
-		size = 550
+		size = 2200
 	}
 
 	clergymen = {
 		culture = baltic_german
 		religion = protestant
-		size = 25
+		size = 100
 	}
 
 	artisans = {
 		culture = baltic_german
 		religion = protestant
-		size = 400
+		size = 1600
 	}
 
 	soldiers = {
 		culture = baltic_german
 		religion = protestant
-		size = 25
+		size = 100
 	}
 
 	clergymen = {
 		culture = ashkenazi
 		religion = jewish
-		size = 25
+		size = 75
 	}
 
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 200
+		size = 600
 	}
 
 	soldiers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 25
+		size = 75
 	}
 
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
-		size = 750
+		size = 2250
 	}
 
 }

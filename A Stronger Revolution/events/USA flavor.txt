@@ -28,9 +28,9 @@ country_event = {
 		inherit = DOM
 		add_accepted_culture = caribeno
 		add_accepted_culture = afro_caribeno
-			any_owned = {
-			limit = { is_core = DOM } 
-				add_core = USA
+		any_owned = {
+		limit = { is_core = DOM } 
+			add_core = USA
 		}
     }
 }
@@ -186,7 +186,7 @@ country_event = {
 }
 
 country_event = {
-	id = 1659
+	id = 16590
 	title = "EVTNAME16400"
 	desc = "EVTDESC16400"
 	picture = "Administration"
@@ -274,12 +274,12 @@ country_event = {
         name = "Yeehaw!"
 		set_country_flag = Texas_1
         any_owned = { limit = { region = TEX_132 } 
-		add_province_modifier = {
-			name = "texas_black_gold"
-			duration = 3640
-		}
-    }
-}
+			add_province_modifier = {
+				name = "texas_black_gold"
+				duration = 3640
+			}
+		}	
+	}
 }
 
 country_event = {

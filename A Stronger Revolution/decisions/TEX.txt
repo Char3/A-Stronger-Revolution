@@ -45,7 +45,7 @@ political_decisions = {
 		effect = {
 		set_country_flag = usstatehood_we_have_applied
 			USA = {
-				country_event = { id=1659 days=0 }
+				country_event = { id=16590 days=0 }
 			}
 		}
 		ai_will_do = {

@@ -3379,13 +3379,25 @@
 	soldiers = {
 		culture = french_canadian
 		religion = catholic
-		size = 800
+		size = 1600
 	}
 
 	farmers = {
 		culture = french_canadian
 		religion = catholic
 		size = 72000
+	}
+	
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 400
 	}
 }
 #Chicoutimi (11200/2800 POPS)
@@ -3617,7 +3629,7 @@
 	soldiers = {
 		culture = french_canadian
 		religion = catholic
-		size = 1203
+		size = 2203
 	}
 
 	farmers = {
@@ -4150,6 +4162,23 @@
 		religion = animist
 		size = 450
 	}
+	
+	bureaucrats = {
+		culture = french_canadian
+		religion = catholic
+		size = 5
+	}
+	soldiers = {
+		culture = french_canadian
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = french_canadian
+		religion = catholic
+		size = 100
+	}
 
 }
 #Cartwright (6000/1500 POPS)
@@ -4241,25 +4270,25 @@
 	}
 	
 	clergymen = {
-		culture = anglo_canadian
+		culture = yankee
 		religion = protestant
 		size = 48
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = yankee
 		religion = protestant
 		size = 350
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = yankee
 		religion = protestant
 		size = 90
 	}
 
 	farmers = {
-		culture = anglo_canadian
+		culture = yankee
 		religion = protestant
 		size = 4250
 	}

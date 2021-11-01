@@ -628,6 +628,10 @@ assimilation_chance =
 	}
 	modifier = {
     	factor = -10
+		culture = sephardic
+	}
+	modifier = {
+    	factor = -10
 		culture = afro_american
 	}
 	modifier = {

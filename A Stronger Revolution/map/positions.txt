@@ -17583,7 +17583,7 @@ naval_base=
 	}
 	military_construction=
 	{
-		x=3182.000000
+		x=3190.000000
 		y=1822.000000
 	}
 	factory=
@@ -132568,5 +132568,54 @@ railroad=
 			y=1433.349951
 		}
 
+	}
+}
+#Wiek
+3253 = 
+{
+	unit=
+	{
+		x=3178.000000
+		y=1821.000000
+	}
+	text_position=
+	{
+		x=3179.000000
+		y=1819.000000
+	}
+	text_scale=3
+	building_construction=
+	{
+		x=3178.000000
+		y=1821.000000
+	}
+	military_construction=
+	{
+		x=3182.000000
+		y=1822.000000
+	}
+	factory=
+	{
+		x=3180.000000
+		y=1820.000000
+	}
+building_position = 
+	{
+fort=
+		{
+		x=3178.000000
+		y=1818.000000
+		}
+
+naval_base=
+		{
+			x=3174.699951
+			y=1819.400024
+		}
+
+	}
+building_rotation = 
+	{
+naval_base=0.134464
 	}
 }

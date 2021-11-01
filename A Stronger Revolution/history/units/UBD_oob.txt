@@ -1,0 +1,14 @@
+leader = {
+	name = "Christoph Engelbrecht von Brevern"
+	type = land
+	date="1827.1.1"
+	personality = cautious
+	background = drillmaster
+}
+leader = {
+	name = "Georg Friedrich von Fölkersahm"
+	type = land
+	date="1827.1.1"
+	personality = unflinching
+	background = natural_born_leader
+}

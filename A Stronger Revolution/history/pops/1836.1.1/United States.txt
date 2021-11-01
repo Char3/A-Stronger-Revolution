@@ -8863,7 +8863,7 @@
 	soldiers = {
 		culture = dixie
 		religion = protestant
-		size = 550
+		size = 1200
 	}
 
 	farmers = {
@@ -9125,7 +9125,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 1900
+		size = 9500
 	}
 
 	farmers = {
@@ -9275,7 +9275,7 @@
 	soldiers = {
 		culture = pennsylvania_dutch
 		religion = protestant
-		size = 721
+		size = 3021
 	}
 
 	farmers = {
@@ -9833,7 +9833,7 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 2000
+		size = 9000
 	}
 
 	farmers = {
@@ -9857,7 +9857,7 @@
 	soldiers = {
 		culture = yankee
 		religion = catholic
-		size = 50
+		size = 2000
 	}
 
 	farmers = {

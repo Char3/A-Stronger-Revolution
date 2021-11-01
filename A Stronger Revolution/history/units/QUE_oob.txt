@@ -1,0 +1,42 @@
+leader = {
+	name = "Charles de Salaberry"
+	date = 1836.1.1
+	type = land
+	personality = spirited
+	background = cavalry_school
+	prestige = 0.5
+}
+
+army = {
+	name = "Régiments de Dragons Québécois"
+	location = 62
+	regiment = {
+		name= "1st Dragons Régiment"
+		type = dragoon
+		home = 58
+	}
+
+	regiment = {
+		name= "2nd Dragons Régiment"
+		type = dragoon
+		home = 65
+	}
+
+}
+
+army = {
+	name = "Régiments de Dragons Québécois"
+	location = 59
+	regiment = {
+		name= "1st Régiment D'infanterie Québécois"
+		type = infantry
+		home = 67
+	}
+
+	regiment = {
+		name= "2nd Régiment D'infanterie Québécois"
+		type = infantry
+		home = 65
+	}
+
+}

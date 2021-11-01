@@ -1,9 +1,10 @@
 capital = 220
 primary_culture = yankee
-culture = dixie
-culture = texan
 culture = french_canadian
+culture = cuban
+culture = dixie
 culture = pennsylvania_dutch
+culture = texan
 religion = protestant
 government = democracy
 plurality = 25.0

@@ -148,7 +148,7 @@ leader = {
 
 army = {
 	name = "US Dragoons"
-	location = 199
+	location = 137
 	regiment = {
 		name= "1st Cavalry Regiment"
 		type = dragoon
@@ -220,18 +220,42 @@ army = {
 		type = infantry
 		home = 235
 	}
-
+	
+	regiment = {
+		name= "11th Regiment of Infantry"
+		type = artillery
+		home = 232
+	}
+	
 	regiment = {
 		name= "2nd Regiment of Artillery"
 		type = artillery
 		home = 234
+	}
+	
+	regiment = {
+		name= "3rd Regiment of Artillery"
+		type = artillery
+		home = 232
+	}
+	
+	regiment = {
+		name= "10th Regiment of Infantry"
+		type = artillery
+		home = 232
+	}
+	
+	regiment = {
+		name= "5th Regiment of Artillery"
+		type = artillery
+		home = 223
 	}
 
 }
 
 army = {
 	name = "Army of Observation"
-	location = 144
+	location = 137
 	regiment = {
 		name= "7th Regiment of Infantry"
 		type = infantry
@@ -248,6 +272,29 @@ army = {
 		name= "9th Regiment of Infantry"
 		type = infantry
 		home = 247
+	}
+
+}
+
+army = {
+	name = "Army of the Caribbean"
+	location = 2210
+	regiment = {
+		name= "11th Regiment of Infantry"
+		type = infantry
+		home = 232
+	}
+	
+	regiment = {
+		name= "12th Regiment of Infantry"
+		type = infantry
+		home = 220
+	}
+	
+	regiment = {
+		name= "6th Regiment of Artillery"
+		type = artillery
+		home = 223
 	}
 
 }

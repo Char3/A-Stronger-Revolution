@@ -67,6 +67,8 @@ unification_humiliate_cb
 unification_release_puppet_cb
 unification_casus_belli
 unification_annex_casus_belli
+take_capital
+demand_concession_capital
 rude_boy
 annex
 install_communist_gov_cb
@@ -231,7 +233,7 @@ gunboat = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 	
@@ -265,7 +267,7 @@ status_quo = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 	
@@ -329,7 +331,7 @@ conquest = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 	
@@ -374,7 +376,7 @@ civil_war = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -421,7 +423,7 @@ add_to_sphere = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -471,7 +473,7 @@ take_from_sphere = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -522,7 +524,7 @@ acquire_core_state = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -571,7 +573,7 @@ annex_core_country = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -627,7 +629,7 @@ acquire_substate_region = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -640,7 +642,7 @@ acquire_state = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 2.2
+	badboy_factor = 2
 	prestige_factor = 2
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -703,7 +705,7 @@ acquire_state = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -758,7 +760,7 @@ place_in_the_sun = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -793,7 +795,7 @@ colonial_competition = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -832,7 +834,7 @@ cut_down_to_size = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -873,7 +875,7 @@ cut_down_to_size_boxer = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -955,7 +957,7 @@ free_peoples = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -1038,7 +1040,7 @@ liberate_country = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -1089,7 +1091,7 @@ dismantle_forts = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -1137,7 +1139,7 @@ release_puppet = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -1186,7 +1188,7 @@ make_puppet = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -1237,7 +1239,7 @@ become_independent = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 		add_war_goal = {
 			casus_belli = make_puppet
@@ -1282,7 +1284,7 @@ humiliate = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -1504,7 +1506,7 @@ unification_release_puppet_cb = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -1740,7 +1742,7 @@ install_communist_gov_cb = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 	
@@ -1799,7 +1801,7 @@ uninstall_communist_gov_cb = {
 		move_issue_percentage = {
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
 }
@@ -1844,8 +1846,268 @@ great_war_penalty_cb = {
 		move_issue_percentage = { 
 			from = jingoism 
 			to = pro_military
-			value = 0.25
+			value = 0.2
 		}
 	}
+}
+
+#Take Capital
+take_capital = {
+    sprite_index = 6
+    is_triggered_only = yes
+    months = 12
+    construction_speed = 0.5
+
+    badboy_factor = 3
+    prestige_factor = 10
+    peace_cost_factor = 1
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 2
+    break_truce_militancy_factor = 2
+    truce_months = 36
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    can_use = {
+        THIS = {
+            NOT = {
+                has_country_flag = in_great_war
+            }
+        }
+        OR = {
+            war_with = THIS
+            THIS = { total_amount_of_divisions = 1 }
+        }
+        is_vassal = no
+        OR = {
+            AND = {
+                THIS = { total_amount_of_ships = 5 }
+                any_owned_province = { port = yes }
+            }
+            neighbour = THIS
+            war_with = THIS
+        }
+        number_of_states = 2 # annex if you want their last state
+        any_owned_province = {
+            not = { is_core = THIS }
+            is_colonial = no
+        }
+        OR = {
+                neighbour = THIS
+                AND = {
+                    THIS = { any_owned_province = { port = yes } }
+                    any_owned_province = { port = yes }
+                }
+        }
+        OR = {
+            AND = {
+                civilized = yes
+                THIS = {
+                    civilized = yes
+                }
+            }
+            AND = {
+                civilized = no
+                THIS = {
+                    civilized = no
+                }
+            }
+        }
+        is_independant = yes
+    }
+
+    allowed_states = {
+        is_colonial = no
+        any_owned_province = {
+            not = {    is_core = THIS }
+            is_colonial = no
+        }
+        any_owned_province = { is_capital = yes }
+    }
+
+    allowed_states_in_crisis = {
+        any_owned_province = {
+            any_neighbor_province = {
+                owner = { tag = THIS }
+            }
+        }
+    }
+
+    po_demand_state = yes
+
+    war_name = WAR_TAKE_NAME
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.2
+        }
+    }
+}
+
+demand_concession_capital = {
+    sprite_index = 7
+    is_triggered_only = yes
+    months = 12
+    construction_speed = 1
+
+    badboy_factor = 2.3
+    prestige_factor = 2
+    peace_cost_factor = 1
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 2
+    break_truce_militancy_factor = 2
+    truce_months = 60
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    can_use = {
+        THIS = {
+            NOT = {
+                has_country_flag = in_great_war
+            }
+        }
+        NOT = { is_our_vassal = THIS }
+        number_of_states = 2 # annex if you want their last state
+        any_owned_province = {
+            not = { is_core = THIS }
+            is_colonial = no
+        }
+        civilized = no
+        THIS = { civilized = yes }
+        OR = {
+                neighbour = THIS
+                AND = {
+                    THIS = { any_owned_province = { port = yes } }
+                    any_owned_province = { port = yes }
+                }
+        }
+    }
+
+    allowed_states = {
+        any_owned_province = { is_colonial = no }
+        any_owned_province = { is_capital = yes }
+        OR = {
+            any_owned_province = { any_neighbor_province = { owned_by = THIS } }
+            AND = {
+                THIS = { ai = no }
+                owner = { war_with = THIS }
+            }
+            AND = {
+                any_owned_province = { port = yes }
+                THIS = { any_owned_province = { port = yes } }
+            }
+        }
+        OR = {
+            any_owned_province = {
+                NOT = {
+                    any_core = {
+                        exists = yes
+                        alliance_with = THIS
+                    }
+                }
+            }
+            THIS = { ai = no }
+        }
+
+        #Restrictions to non-African State conquering
+        OR = {
+            continent = africa
+            continent = central_africa
+            continent = west_africa
+            continent = east_africa
+            continent = south_west_africa
+
+            NOT = { total_pops = 500000 }
+
+            AND = {
+                NOT = { total_pops = 1000000 }
+                OR = {
+                    any_owned_province = { is_overseas = no }
+                    THIS = {
+                        ai = no
+                        naval_logistics = 1
+                    }
+                    THIS = {
+                        ai = yes
+                        raider_group_doctrine = 1
+                        iron_steamers = 1
+                    }
+                }
+            }
+
+            AND = {
+                NOT = { total_pops = 2000000 }
+                THIS = { machine_guns = 1 }
+                OR = {
+                    any_owned_province = { is_overseas = no }
+                    THIS = {
+                        ai = no
+                        naval_directionism = 1
+                    }
+                    THIS = {
+                        ai = yes
+                        steam_turbine_ships = 1
+                    }
+                }
+            }
+            AND = {
+                NOT = { total_pops = 3000000 }
+                THIS = {
+                    bolt_action_rifles = 1
+                    army_risk_management = 1
+                }
+                OR = {
+                    any_owned_province = { is_overseas = no }
+                    THIS = {
+                        ai = no
+                        naval_integration = 1
+                    }
+                    THIS = {
+                        ai = yes
+                        oil_driven_ships = 1
+                    }
+                }
+            }
+            AND = {
+                total_pops = 3000000
+                THIS = {
+                    modern_divisional_structure = 1
+                    army_nco_training = 1
+                }
+            }
+        } ###End of Non-African Restrictions
+
+    }
+
+
+    allowed_states_in_crisis = {
+        any_owned_province = {
+            any_neighbor_province = {
+                owner = { tag = THIS }
+            }
+        }
+    }
+
+    po_demand_state = yes
+
+    war_name = WAR_CONCESSION_NAME
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.2
+        }
+    }
 }
 

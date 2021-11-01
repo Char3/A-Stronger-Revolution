@@ -3,6 +3,7 @@ name = "North American War"
 1836.1.1 = {
     add_defender = USA
     add_defender = TEX
+	add_defender = QUE
     add_attacker = MEX
 	add_attacker = SPA
 	add_attacker = ENG
@@ -24,6 +25,38 @@ name = "North American War"
         actor = USA
         receiver = SPA
         state_province_id = 2209
+    }
+	
+	war_goal = {
+        casus_belli = acquire_core_state
+        actor = USA
+        receiver = SPA
+        state_province_id = 2222
+    }
+	
+	war_goal = {
+        casus_belli = acquire_core_state
+        actor = QUE
+        receiver = ENG
+        state_province_id = 76
+    }
+	
+	war_goal = {
+        casus_belli = humiliate
+        actor = USA
+        receiver = SPA
+    }
+	
+	war_goal = {
+        casus_belli = humiliate
+        actor = USA
+        receiver = ENG
+    }
+	
+	war_goal = {
+        casus_belli = humiliate
+        actor = USA
+        receiver = MEX
     }
 
 }
