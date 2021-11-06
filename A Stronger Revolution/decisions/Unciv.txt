@@ -1,0 +1,27 @@
+political_decisions = {	
+	adopt_christianity = {
+		potential = {
+			civilized = no
+		}
+		
+		allow = {
+			civilization_progress = 50
+			OR = { 
+				AND = {
+					in_sphere = FROM
+					FROM = { 
+						OR = { 
+							has_religion = orthodox
+							has_religion = catholic
+							has_religion = protestant
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 10
+		}
+	}
+}

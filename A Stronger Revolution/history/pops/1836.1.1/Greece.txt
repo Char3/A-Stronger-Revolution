@@ -1406,19 +1406,19 @@
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 75
+		size = 80
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 500
+		size = 600
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 9425
+		size = 11425
 	}
 }
 #Rhodes (32000/8000 POPS)
