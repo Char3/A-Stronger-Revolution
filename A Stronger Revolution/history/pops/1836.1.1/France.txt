@@ -1240,37 +1240,37 @@
 	aristocrats = {
 		culture = french
 		religion = catholic
-		size = 850
+		size = 820
 	}
 
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 850
+		size = 820
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 7000
+		size = 6800
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 7000
+		size = 6800
 	}
 
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 885
+		size = 865
 	}
 
 	labourers = {
 		culture = french
 		religion = catholic
-		size = 67450
+		size = 66450
 	}
 	
 	aristocrats = {
@@ -1288,13 +1288,13 @@
 	artisans = {
 		culture = breton
 		religion = catholic
-		size = 3200
+		size = 3400
 	}
 
 	artisans = {
 		culture = breton
 		religion = catholic
-		size = 3200
+		size = 3400
 	}
 
 	soldiers = {
@@ -1306,7 +1306,7 @@
 	labourers = {
 		culture = breton
 		religion = catholic
-		size = 34550
+		size = 35550
 	}
 }
 #Rennes (548000/137000 POPS)
