@@ -317,6 +317,16 @@ italian = {
 		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
 		radicalism = 10
 	}
+	corsican = {
+		color = {140 180 140}
+		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
+		Ferdinando Francesco François Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Jacques Leopoldo Lorenzo
+		Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Paul Sigismondo Tommasso Vincenzo }
+		
+		last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
+		"della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Hoche Lanza Lombardo
+		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
+	}
 	maltese = { 
 		color = {100 150 120}
 		first_names = { Alessandru Beru Duminku Enrico Fernardu Frangisku Gabriel Ferlad Gorg Joseph
