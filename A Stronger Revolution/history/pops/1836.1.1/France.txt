@@ -1238,39 +1238,75 @@
 #Nantes (476000/119000 POPS)
 423 = {
 	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 850
+	}
+
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 850
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 7000
+	}
+
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 7000
+	}
+
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 885
+	}
+
+	labourers = {
+		culture = french
+		religion = catholic
+		size = 67450
+	}
+	
+	aristocrats = {
 		culture = breton
 		religion = catholic
-		size = 1100
+		size = 340
 	}
 
 	clergymen = {
 		culture = breton
 		religion = catholic
-		size = 1200
+		size = 390
 	}
 
 	artisans = {
 		culture = breton
 		religion = catholic
-		size = 10000
+		size = 3200
 	}
 
 	artisans = {
 		culture = breton
 		religion = catholic
-		size = 10000
+		size = 3200
 	}
 
 	soldiers = {
 		culture = breton
 		religion = catholic
-		size = 1250
+		size = 420
 	}
 
 	labourers = {
 		culture = breton
 		religion = catholic
-		size = 95450
+		size = 34550
 	}
 }
 #Rennes (548000/137000 POPS)
