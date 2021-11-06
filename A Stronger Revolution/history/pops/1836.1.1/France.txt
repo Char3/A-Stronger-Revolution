@@ -1282,31 +1282,31 @@
 	clergymen = {
 		culture = breton
 		religion = catholic
-		size = 390
+		size = 460
 	}
 
 	artisans = {
 		culture = breton
 		religion = catholic
-		size = 3400
+		size = 3500
 	}
 
 	artisans = {
 		culture = breton
 		religion = catholic
-		size = 3400
+		size = 3500
 	}
 
 	soldiers = {
 		culture = breton
 		religion = catholic
-		size = 420
+		size = 460
 	}
 
 	labourers = {
 		culture = breton
 		religion = catholic
-		size = 35550
+		size = 37550
 	}
 }
 #Rennes (548000/137000 POPS)
