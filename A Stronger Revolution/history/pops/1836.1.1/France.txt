@@ -3457,45 +3457,87 @@
 #Corsica (210000/52500 POPS)
 473 = {
 	aristocrats = {
+		culture = corsican
+		religion = catholic
+		size = 500
+	}
+
+	officers = {
+		culture = corsican
+		religion = catholic
+		size = 45
+	}
+
+	bureaucrats = {
+		culture = corsican
+		religion = catholic
+		size = 90
+	}
+
+	clergymen = {
+		culture = corsican
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = corsican
+		religion = catholic
+		size = 2250
+	}
+
+	soldiers = {
+		culture = corsican
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = corsican
+		religion = catholic
+		size = 43100
+	}
+	
+	aristocrats = {
 		culture = french
 		religion = catholic
-		size = 550
+		size = 55
 	}
 
 	officers = {
 		culture = french
 		religion = catholic
-		size = 50
+		size = 5
 	}
 
 	bureaucrats = {
 		culture = french
 		religion = catholic
-		size = 100
+		size = 10
 	}
 
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 500
+		size = 50
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 2500
+		size = 250
 	}
 
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1100
+		size = 110
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 47800
+		size = 4780
 	}
 
 }
