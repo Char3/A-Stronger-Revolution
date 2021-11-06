@@ -1,0 +1,88 @@
+political_decisions = {
+	claim_sudetenland = {
+		potential = {
+			tag = GER
+			NOT = { has_country_flag = sudetenland }
+		}
+		
+		allow = {
+			invention = national_fraternity
+			owns = 619
+		}
+		
+		effect = {
+			prestige = 10
+			badboy = 5
+			626 = {
+				add_core = GER
+			}
+			627 = {
+				add_core = GER
+			}
+			628 = {
+				add_core = GER
+			}
+			629 = {
+				add_core = GER
+			}
+			630 = {
+				add_core = GER
+			}
+			set_country_flag = sudetenland
+		}
+	}
+	scandinavian_border_ger = {
+		potential = {
+			tag = GER
+			NOT = { has_country_flag = scandinavian_border }
+		}
+		
+		allow = {
+			owns = 371
+			OR = {
+				SWE = { OR = { owns = 371 owns = 2557 } }
+				SCA = { OR = { owns = 371 owns = 2557 } }
+			}
+		}
+		
+		effect = {
+			SCA = { 
+				country_event = {
+					id = 8098
+					days = 5
+				}
+			}
+			SWE = { 
+				country_event = {
+					id = 8098
+					days = 5
+				}
+			}
+			set_country_flag = scandinavian_border
+		}
+	}
+	scandinavian_border_sca = {
+		potential = {
+			OR = { 
+				tag = SWE
+				tag = SCA
+			}
+			NOT = { has_country_flag = scandinavian_border }
+		}
+		
+		allow = {
+			OR = { owns = 370 owns = 2557 }
+			GER = { owns = 371 }
+		}
+		
+		effect = {
+			GER = { 
+				country_event = {
+					id = 8098
+					days = 5
+				}
+			}
+			set_country_flag = scandinavian_border
+		}
+	}
+}

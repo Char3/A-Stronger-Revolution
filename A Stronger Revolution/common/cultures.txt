@@ -261,7 +261,7 @@ british = {
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
 	scottish = {
-		color = { 100 260 220}
+		color = { 100 160 220}
 		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
 		Colin Cyril David Denis Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
 		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
@@ -316,6 +316,16 @@ italian = {
 		"della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
 		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
 		radicalism = 10
+	}
+	corsican = {
+		color = {140 180 140}
+		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
+		Ferdinando Francesco François Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Jacques Leopoldo Lorenzo
+		Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Paul Sigismondo Tommasso Vincenzo }
+		
+		last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis"
+		"della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Hoche Lanza Lombardo
+		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
 	}
 	maltese = { 
 		color = {100 150 120}

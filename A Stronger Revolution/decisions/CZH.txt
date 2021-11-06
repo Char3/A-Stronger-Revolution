@@ -5,7 +5,7 @@ political_decisions = {
 			tag = CZH
 			OR = { 
 			NOT = { has_accepted_culture = polish }
-			any_owned_province = { is_core = POL NOT = { province_id = 3251 } NOT = { is_core = CZH } 
+			any_owned_province = { AND = { is_core = POL NOT = { is_core = CZH } } NOT = { province_id = 3251 }  
 			}
 			}
 		}
@@ -28,7 +28,7 @@ political_decisions = {
 			tag = ZAP
 			OR = { 
 			NOT = { has_accepted_culture = polish }
-			any_owned_province = { is_core = POL NOT = { province_id = 3251 } NOT = { is_core = ZAP } 
+			any_owned_province = { AND = { is_core = POL NOT = { is_core = ZAP } } NOT = { province_id = 3251 } 
 			}
 			}
 		}
@@ -110,6 +110,7 @@ political_decisions = {
 				AND = { CZH = { alliance_with = POL } 
 				CZH = { relation = { who = POL value = 170 } }
 				}
+				POL = { vassal_of = CZH }
 			}
 		}
 		effect = {

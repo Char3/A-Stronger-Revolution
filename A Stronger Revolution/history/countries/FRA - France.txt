@@ -1,6 +1,8 @@
 capital = 425
 primary_culture = french
 culture = french_canadian
+culture = breton
+culture = corsican
 religion = catholic
 government = hms_government
 plurality = 25
