@@ -1246,25 +1246,25 @@
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 820
+		size = 780
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 6800
+		size = 6700
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 6800
+		size = 6700
 	}
 
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 865
+		size = 825
 	}
 
 	labourers = {
