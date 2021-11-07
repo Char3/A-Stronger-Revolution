@@ -1,0 +1,47 @@
+political_decisions = {
+	return_to_deutschland = {
+		potential = {
+			tag = UBD
+			vassal_of = RUS
+		}
+		
+		allow = {
+			invention = national_fraternity
+			GER = { owns = 365 }
+			truce_with = GER
+		}
+		
+		effect = {
+			prestige = 10
+			badboy = 20
+			GER = { create_vassal = UBD }
+			RUS_360 = {
+				add_core = GER
+			}
+			any_owned = {
+				add_core = GER
+			}
+			set_country_flag = UBD_switched_sides
+			GER = { 
+				diplomatic_influence = {
+					who = UBD
+					value = 200
+				}
+			}
+		}
+	}
+	join_germania = {
+		potential = {
+			tag = UBD
+			vassal_of = GER
+		}
+		
+		allow = {
+			in_sphere = GER
+		}
+		
+		effect = {
+			GER = { inherit = UBD }
+		}
+	}
+}
