@@ -38,7 +38,6 @@ liberate_newfoundland_title;Liberate Newfoundland;
 liberate_newfoundland_desc;When Canada was liberated decades ago many figures in the country had been content with our gains in the North, however since then we have become stronger than even the people just 30 years ago could imagine. Perhaps it would be prudent to fully liberate North American from British Rule once and for all.;
 engevent2;Since Canada was conquered by the American Rebels decades ago the evil rebels had their eyes on our last holdings in America, intent on seizing all of them. It appears they have finally acted on those ambitions as the Royal Newfoundland Border Guard has reported an incursion of American troops into the dense forests of Labrador.;
 PROV28;Pocanth City;
-PROV3255;Texas Oklahoma;x
 rail_focus;Colonial Policy;
 colonial_immigration;Encourage Colonial Migration;
 encourage_agriculture;Encourage Agriculture;
@@ -81,6 +80,8 @@ PROV3250;Kladsko;
 PROV3251;Novy Targ;
 PROV3252;Artsakh;
 PROV3253;Wiek;
+PROV3254;Belluno;
+PROV3255;Texan Oklahoma;x
 establish_caucasus_viceroyalty_title;Establish Caucasus Viceroyalty;
 establish_caucasus_viceroyalty_desc;For years Caucasia has had autonomy under Russian rule. It shall not remain this way any longer, they are a vital part of Russia;
 two_land_of_the_free;Land of the Free;
@@ -192,4 +193,3 @@ TUR_829;Thrace;
 TUR_860;Bosporus;
 claim_sudetenland_title;Claim Sudetenland;
 claim_sudetenland_desc;The Sudeten Germans have lived in the Sudetenland for centuries, since the days of the Holy Roman Empire. These Germans have been political unrepresented for most of history in their mostly Czech countries. We will liberate all Germans in Europe through careful maneuvering.;
-PROV3254;Belluno;
