@@ -38,6 +38,7 @@ liberate_newfoundland_title;Liberate Newfoundland;
 liberate_newfoundland_desc;When Canada was liberated decades ago many figures in the country had been content with our gains in the North, however since then we have become stronger than even the people just 30 years ago could imagine. Perhaps it would be prudent to fully liberate North American from British Rule once and for all.;
 engevent2;Since Canada was conquered by the American Rebels decades ago the evil rebels had their eyes on our last holdings in America, intent on seizing all of them. It appears they have finally acted on those ambitions as the Royal Newfoundland Border Guard has reported an incursion of American troops into the dense forests of Labrador.;
 PROV28;Pocanth City;
+PROV3255;Texas Oklahoma;x
 rail_focus;Colonial Policy;
 colonial_immigration;Encourage Colonial Migration;
 encourage_agriculture;Encourage Agriculture;
@@ -165,6 +166,8 @@ switzerland_expansionism_sgf_title;Swiss South German Irredentia;
 switzerland_expansionism_sgf_desc;Switzerland's common culture and geographic features with South Germany have made the more ambitious Swiss citizens eager to take the most southern of German territories.;
 switzerland_expansionism_fra_title;Swiss French Irredentia;
 switzerland_expansionism_fra_desc;Switzerland's common culture and geographic features with Southeastern France have made the more ambitious Swiss citizens eager to take the mountainous Southeast Part of France.;
+reclaim_greatness_title;Texas Greatness;
+reclaim_greatness_desc;Texas will gain lost.;
 PRU_682;Nord Schlesien;
 PRU_684;Sud Schlesian;
 czechoslovakia1;Many Bohemians and Slovaks have been calling for a union between Czech and Slovaks with the consent of both govermnents, forming into a union state called Czechoslovakia, shall we consent and hope our counterparts do the same?;
