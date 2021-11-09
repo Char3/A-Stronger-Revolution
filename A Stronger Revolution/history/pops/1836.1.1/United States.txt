@@ -2836,7 +2836,117 @@
 	}
 }
 #Texas Region (67400)
-#ruled by Texas in 1836
+#ruled by Texas in 1836 
+#Texas Oklahoma (14000/3500 POPS)
+3255 = {
+	aristocrats = {
+		culture = texan
+		religion = protestant
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = texan
+		religion = protestant
+		size = 150
+	}
+
+	officers = {
+		culture = texan
+		religion = protestant
+		size = 40
+	}
+
+	clergymen = {
+		culture = texan
+		religion = protestant
+		size = 100
+	}
+
+	artisans = {
+		culture = texan
+		religion = protestant
+		size = 250
+	}
+
+	soldiers = {
+		culture = texan
+		religion = protestant
+		size = 3000
+	}
+
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 4400
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = protestant
+		size = 500
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 225
+	}
+
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 3
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 15
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 225
+	}
+}
 #Houston (16000/4000 POPS)
 132 = {
 	aristocrats = {
