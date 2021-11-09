@@ -52,4 +52,41 @@ political_decisions = {
 			factor = 10
 		}
 	}
+
+	reclaim_greatness = {
+		picture = "texas_greatness"
+		potential = {
+			prestige 30
+			}
+	
+		allow = {
+			has_recently_lose_war = no
+			prestige = 50
+			has_unclaimed_core = no
+			is_great_power = no
+			is_mobilised = no
+			is_sphere_leader_of = USA
+			is_secondary_power = yes
+			war = no
+			}
+
+		effect = {
+			3255 = remove core = TEX
+			3255 = add_core = USA
+			3255 = secede_province = USA
+			add_core = 109
+			109 = secede_province = TEX
+			129 = secede_province = USA
+			129 = add_core = USA
+			130 = add_core = USA
+			131 = add_core = USA
+			130 = secede_province = USA
+			131 = secede_province = USA
+			prestige = 100
+			}
+		
+		ai_will_do = {
+			factor = 1
+			}
+	}
 }
