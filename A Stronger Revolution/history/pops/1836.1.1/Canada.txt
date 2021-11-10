@@ -4341,3 +4341,48 @@
 		size = 77
 	}
 }
+
+#Saguenay (18000/4500 POPS)
+3256 = {
+	clergymen = {
+		culture = french_canadian
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = french_canadian
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = french_canadian
+		religion = catholic
+		size = 100
+	}
+
+	labourers = {
+		culture = french_canadian
+		religion = catholic
+		size = 3000
+	}
+	
+	clergymen = {
+		culture = cree
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = cree
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = cree
+		religion = animist
+		size = 800
+	}
+}

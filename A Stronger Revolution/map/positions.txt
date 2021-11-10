@@ -2710,7 +2710,7 @@
 
     factory = {
         x = 1698.099976
-        y = 1787.599976
+        y = 1775.599976
     }
 
     building_position = {
@@ -122927,6 +122927,43 @@
             y = 1460.000000
         }
 
+    }
+
+}
+
+# Saguenay
+3256 = {
+    unit = {
+        x = 1691.000000
+        y = 1787.000000
+    }
+
+    text_position = {
+        x = 1698.300049
+        y = 1790.000000
+    }
+
+    text_scale = 2.799999
+    building_construction = {
+        x = 1686.000000
+        y = 1768.000000
+    }
+
+    factory = {
+        x = 1698.099976
+        y = 1787.599976
+    }
+
+    building_position = {
+        naval_base = {
+            x = 1717.199951
+            y = 1786.000000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 3.839724
     }
 
 }
