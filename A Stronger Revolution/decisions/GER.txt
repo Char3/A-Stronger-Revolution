@@ -72,7 +72,7 @@ political_decisions = {
 		
 		allow = {
 			OR = { owns = 370 owns = 2557 }
-			GER = { owns = 371 }
+			OR = { GER = { owns = 371 } GER = { owns = 369 } }
 		}
 		
 		effect = {
