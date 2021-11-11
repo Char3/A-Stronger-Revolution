@@ -50696,7 +50696,7 @@
 
     text_position = {
         x = 3785.000000
-        y = 1280.000000
+        y = 1286.000000
     }
 
     text_scale = 4.799998
@@ -122964,6 +122964,51 @@
 
     building_rotation = {
         naval_base = 3.839724
+    }
+
+}
+# Nimruz
+3257 = {
+    unit = {
+        x = 3771.000000
+        y = 1258.000000
+    }
+
+    text_position = {
+        x = 3770.000000
+        y = 1258.000000
+    }
+
+    text_scale = 2.799998
+    building_construction = {
+        x = 3772.000000
+        y = 1260.000000
+    }
+
+    military_construction = {
+        x = 3763.000000
+        y = 1257.000000
+    }
+
+    military_construction = {
+        x = 3778.000000
+        y = 1279.000000
+    }
+
+    building_position = {
+        fort = {
+            x = 3778.000000
+			y = 1281.000000
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 3786.395508
+            y = 1282.497925
+        }
+
     }
 
 }

@@ -3,4 +3,4 @@ controller = QUE
 add_core = QUE
 add_core = CAN
 trade_goods = fish
-life_rating = 54
+life_rating = 58
