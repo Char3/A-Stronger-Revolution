@@ -389,11 +389,12 @@ migration_chance =
 #general colonial migration mtth, same for all pops
 colonialmigration_chance = 
 {
-	factor = 0.25
+	factor = 2
 
 	modifier = {
 		factor = -0.5
 		is_primary_culture = no
+		is_accepted_culture = no
 	}
 	group = {
 		modifier = {
@@ -436,10 +437,18 @@ colonialmigration_chance =
 
 
 	modifier = {
-		factor = -0.3
+		factor = -0.2
 		state_scope = {
 			has_factories = yes
 			}
+	}
+	
+	modifier = {
+		factor = 0.2
+		location = { 
+			total_pops = 50000
+			is_colonial = no
+		}
 	}
 
 	group = {

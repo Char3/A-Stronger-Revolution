@@ -1,0 +1,44 @@
+political_decisions = { 
+	estonian_nords = {
+		potential = {
+			OR = { 
+				tag = SWE
+				tag = SCA
+			}
+			NOT = { accepted_culture = estonian }
+		}
+		
+		allow = {
+			any_owned_province = { is_core = EST }
+		}
+		
+		effect = {
+			any_country = { any_owned = { limit = { is_core = EST } add_core = THIS } }
+			add_accepted_culture = estonian
+			any_owned = { limit = { is_core = EST }
+			add_core = THIS
+			}
+		}
+	}
+	karelian_border = {
+		potential = {
+			OR = { 
+				tag = FIN
+				tag = SCA
+			}
+			NOT = { has_country_flag = karelia }
+		}
+		
+		allow = {
+			any_owned_province = { is_core = FIN }
+		}
+		
+		effect = {
+			RUS_339 = {
+				add_core = THIS
+			}
+			add_accepted_culture = ugrian
+			set_country_flag = karelia
+		}
+	}
+}

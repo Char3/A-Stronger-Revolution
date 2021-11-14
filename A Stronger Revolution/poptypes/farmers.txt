@@ -161,7 +161,7 @@ migration_target =
 		total_pops = 750000
 	}	
 	modifier = {
-		factor = 0
+		factor = 0.1
 		AND = {
 			state_scope = {
 				has_factories = no
@@ -237,6 +237,15 @@ migration_target =
 	modifier = {
 		factor = 2
 		life_rating = 50
+	}
+	modifier = {
+		factor = 5
+		NOT = { total_pops = 10000 }
+		is_colonial = yes
+	}
+	modifier = {
+		factor = 1.5
+		is_colonial = yes
 	}
 }
 

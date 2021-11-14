@@ -22,29 +22,6 @@ political_decisions = {
 		add_accepted_culture = polish
 		} 
 	}
-	zap_accept_polish_identity = {
-		picture = poland_czh
-		potential = { 
-			tag = ZAP
-			OR = { 
-			NOT = { has_accepted_culture = polish }
-			any_owned_province = { AND = { is_core = POL NOT = { is_core = ZAP } } NOT = { province_id = 3251 } 
-			}
-			}
-		}
-		allow = {
-		OR = {
-			ruling_party_ideology = liberal
-			ruling_party_ideology = conservative
-			}
-		}
-		effect = {
-		any_owned = { limit = { is_core = POL }
-			add_core = ZAP
-		}
-		add_accepted_culture = polish
-		}
-	}
 	zap_integrate_ukrainians = {
 		picture = poland_czh
 		potential = { 

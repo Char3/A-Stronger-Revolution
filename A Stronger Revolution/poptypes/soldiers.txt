@@ -221,6 +221,10 @@ migration_target =
 		factor = 2
 		life_rating = 50
 	}
+	modifier = {
+		factor = 4
+		is_colonial = yes
+	}
 }
 
 promote_to =

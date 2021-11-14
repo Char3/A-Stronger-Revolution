@@ -241,6 +241,29 @@ migration_target =
 		factor = 2
 		life_rating = 50
 	}
+	modifier = {
+		factor = 3
+		NOT = { total_pops = 10000 }
+		is_colonial = yes
+	}
+	modifier = {
+		factor = 3
+		NOT = { total_pops = 10000 }
+		is_colonial = yes
+	}
+	modifier = {
+		factor = 3
+		trade_goods = precious_metals
+		is_colonial = yes
+	}
+	modifier = {
+		factor = 1.5
+		trade_goods = precious_metals
+	}
+	modifier = {
+		factor = 1.3
+		is_colonial = yes
+	}
 }
 
 promote_to =
