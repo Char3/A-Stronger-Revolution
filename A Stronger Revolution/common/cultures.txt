@@ -168,8 +168,8 @@ beneluxian = {
 		"de Mérode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" 
 		"de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix 
 		"Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont
-		Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand 
-		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
+		Duquesne Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos  
+		Jottrand Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
 		Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
 	}
 }
@@ -262,17 +262,17 @@ british = {
 	}
 	scottish = {
 		color = { 100 160 220}
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
-		Colin Cyril David Denis Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
-		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
-		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		first_names = { Aed Alasdair Albert Alexander Archie Arthur Augustus Benjamin Bernard  
+		Charles Colin Cyril David Donald Douglas Duncan Edgard Edmund Edward Ferdinand 
+		Francis Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Kenneth Leopold Lester Louis Martin Nigel Percy Robert
+		Ronald Russell Stanley Thomas Wallace William Sachairi Zachary }
 		
-		last_names = { Allenby Argyl Battemberg Beresford Brown Buller Butler Campbell Cardigan
-		Cochrane Cockburn Culton Dundas Fisher French Gough Grant Grenfell Haig
-		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden McDougal 
-		Milne Montgomery Moresby Mundy Napier Odoni Plummer Ragland Roberts Seaton Seymour
-		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+		last_names = { Allenby Argyl Balliol Beresford Brown Buller Butler Campbell Cardigan Cleghorne
+		Cochrane Cockburn Culton Dalrimple Dundas Fisher French Gough Grant Grenfell Haig Hardinge
+		Havelock Hay Hope Jellicoe Kitchener Learmonth Lyons MacAlpin MacAonghais MacKenzie McCullagh   
+		Madden McDougal Milne Moresby Mundy Napier Odonald Ragland Roberts Scotland Scots Seaton Seymour   
+		Stuart Thesiger Tyron Tyrwhitt Williams Wolseley }
 	}
 	irish = { 
 		color = { 35 140 50}
