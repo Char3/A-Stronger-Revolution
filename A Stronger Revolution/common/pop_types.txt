@@ -307,6 +307,11 @@ migration_chance =
 			not = { consciousness = 8 } 
 		}
 	}
+	
+	modifier = {
+		factor = -0.2
+		culture = turkish
+	}
 
 	modifier = {
 		factor = -2.0
@@ -389,7 +394,7 @@ migration_chance =
 #general colonial migration mtth, same for all pops
 colonialmigration_chance = 
 {
-	factor = 2
+	factor = 2.5
 
 	modifier = {
 		factor = -0.5
@@ -638,6 +643,20 @@ assimilation_chance =
 	modifier = {
     	factor = -10
 		culture = sephardic
+	}
+	modifier = {
+    	factor = -6
+		OR = { 
+			culture = greek
+			culture = bulgarian
+			culture = bosniak
+			culture = albanian
+			culture = serb
+			culture = romanian
+			culture = armenian
+			culture = kurdish
+		}
+		country = { primary_culture = turkish }
 	}
 	modifier = {
     	factor = -10

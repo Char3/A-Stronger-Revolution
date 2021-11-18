@@ -1,0 +1,31 @@
+country_event = {
+	id = 5234
+	title = "2nd Greek Rebellion"
+	desc = "turkey1"
+	picture = "Administration"
+	trigger = {
+		tag = TUR
+		OR = { 
+			821 = { owned_by = GRE }
+			844 = { owned_by = GRE }
+			805 = { owned_by = GRE }
+			859 = { OR = { owned_by = AEG owned_by = GRE } }
+		}
+		NOT = { has_country_flag = greek_rebellion_2 }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	
+	option = {
+		name = "Perhaps we should eliminate the threat."
+		any_owned = { any_pop = { limit = { culture = greek } reduce_pop = 1.15 militancy = 4 } }
+		any_owned = { limit = { is_core = AEG } any_pop = { limit = { culture = greek } reduce_pop = 1.25 } }
+		set_country_flag = greek_rebellion_2
+		ai_chance = {
+			factor = 10
+		}
+	}
+}

@@ -1,0 +1,19 @@
+political_decisions = { 
+	NET_two_nation_solution = {
+		potential = { 
+			tag = NET
+		}
+		allow = {
+			400 = { owned_by = NET }
+			OR = {
+				ruling_party_ideology = liberal
+				ruling_party_ideology = conservative
+				ruling_party_ideology = socialist
+			}
+		}
+		effect = {
+			add_accepted_culture = wallonian
+			400 = { any_pop = { limit = { culture = french } decrease_pop = 0.85 } any_pop = { limit = { culture = flemish } decrease_pop = 2.0 } }
+		}
+	}
+}

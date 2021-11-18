@@ -65,6 +65,7 @@ WUR		= "countries/Wurttemberg.txt"
 # Italy
 LOM		= "countries/Lombardia.txt"
 LUC		= "countries/Lucca.txt"
+MAG		= "countries/Magna Graecia.txt"
 MOD		= "countries/Modena.txt"
 PAP		= "countries/Papal States.txt"
 PAR		= "countries/Parma.txt"
@@ -91,6 +92,7 @@ UKR		= "countries/Ukraine.txt"
 CZH		= "countries/Czechoslovakia.txt"
 
 # Balkans
+AEG		="countries/Aegeus.txt"
 ALB		="countries/Albania.txt"
 BOS		="countries/Bosnia-Herzegovina.txt"
 BUL		="countries/Bulgaria.txt"

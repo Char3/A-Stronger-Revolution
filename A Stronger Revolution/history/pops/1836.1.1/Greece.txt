@@ -115,7 +115,7 @@
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 750
+		size = 550
 	}
 
 	soldiers = {
@@ -127,7 +127,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 7500
+		size = 6500
 	}
 
 	clergymen = {
@@ -147,6 +147,12 @@
 		religion = orthodox
 		size = 1925
 	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
 
 	clergymen = {
 		culture = greek
@@ -157,13 +163,13 @@
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 450
+		size = 650
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 13400
+		size = 14400
 	}
 }
 #Kavala (160000/40000 POPS) #now part of Greece
@@ -250,6 +256,12 @@
 #under the rule of Ottoman Empire in 1836
 #Florina (116000/29000 POPS) #now part of Greece
 819 = {
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+	
 	clergymen = {
 		culture = greek
 		religion = orthodox
@@ -259,13 +271,13 @@
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 300
+		size = 900
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 12400
+		size = 8000
 	}
 
 	clergymen = {
@@ -277,19 +289,19 @@
 	artisans = {
 		culture = bulgarian
 		religion = orthodox
-		size = 50
+		size = 100
 	}
 
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 4900
+		size = 5400
 	}
 
 	aristocrats = {
 		culture = turkish
 		religion = sunni
-		size = 475
+		size = 400
 	}
 
 	clergymen = {
@@ -301,7 +313,7 @@
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 800
+		size = 600
 	}
 
 	soldiers = {
@@ -313,7 +325,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 9325
+		size = 5025
 	}
 }
 #Grevena (140000/35000 POPS) #now part of Greece
@@ -711,7 +723,7 @@
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 400
+		size = 350
 	}
 
 	soldiers = {
@@ -723,7 +735,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 5925
+		size = 4525
 	}
 
 	clergymen = {
@@ -735,25 +747,25 @@
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 450
+		size = 550
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 9450
+		size = 13000
 	}
 
 	artisans = {
 		culture = bulgarian
 		religion = orthodox
-		size = 50
+		size = 70
 	}
 
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 950
+		size = 1000
 	}
 }
 #Dedeagatch (72000/18000 POPS)
@@ -761,7 +773,7 @@
 	aristocrats = {
 		culture = turkish
 		religion = sunni
-		size = 450
+		size = 400
 	}
 
 	clergymen = {
@@ -773,7 +785,7 @@
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 400
+		size = 250
 	}
 
 	soldiers = {
@@ -785,7 +797,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 6900
+		size = 5200
 	}
 
 	clergymen = {
@@ -797,13 +809,13 @@
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 450
+		size = 500
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 7450
+		size = 8250
 	}
 
 	clergymen = {
@@ -815,13 +827,13 @@
 	artisans = {
 		culture = bulgarian
 		religion = orthodox
-		size = 50
+		size = 70
 	}
 
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 1925
+		size = 3025
 	}
 }
 #Thessaly Region (408000)  
@@ -1488,37 +1500,37 @@
 #Hania (72000/18000 POPS)
 847 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 375
 	}
 
 	bureaucrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 1300
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 200
 	}
@@ -1562,31 +1574,31 @@
 #Iraklion (68000/17000 POPS)
 848 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 550
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 5850
 	}

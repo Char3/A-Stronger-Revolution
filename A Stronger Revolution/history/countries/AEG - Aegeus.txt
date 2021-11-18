@@ -1,25 +1,25 @@
-capital = 834
+capital = 860
 primary_culture = greek
+culture = armenian
 culture = cypriot
 culture = griko
 religion = orthodox
-government = absolute_monarchy
-plurality = 25.0
-nationalvalue = nv_order
-literacy = 0.22
+government = hms_government
+plurality = 40.0
+nationalvalue = nv_liberty
+literacy = 0.24
 civilized = yes
 prestige = 5
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = universal_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = free_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = underground_parties
-social_mobility = full_mobility
+political_parties = harassment
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -28,14 +28,13 @@ safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
-
 school_reforms = no_schools
 
 ruling_party = GRE_conservative
 upper_house = {
 	fascist = 0
-	liberal = 35
-	conservative = 55
+	liberal = 40
+	conservative = 50
 	reactionary = 10
 	anarcho_liberal = 0
 	socialist = 0
@@ -64,36 +63,9 @@ publishing_industry = 1
 consciousness = 2
 nonstate_consciousness = 0
 
-oob = "GRE_oob.txt"
-
-1843.9.3 = {
-	decision = hellenic_parliament
-}
-
-1861.1.1 = {
-	oob = "/1861/GRE_oob.txt"
-	government = hms_government	
+1863.1.1 = {
 	plurality = 50
 	literacy = 0.27
-
-# Political reforms
-slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = universal_voting
-public_meetings = yes_meeting
-press_rights = free_press
-trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = harassment
-
-# Social Reforms
-wage_reform = no_minimum_wage
-work_hours = no_work_hour_limit
-safety_regulations = no_safety
-health_care = no_health_care
-unemployment_subsidies = no_subsidies
-pensions = no_pensions 
-school_reforms = no_schools
 	
 # Technologies
 	post_napoleonic_thought = 1

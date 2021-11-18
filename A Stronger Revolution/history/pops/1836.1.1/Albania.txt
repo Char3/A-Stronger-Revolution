@@ -231,19 +231,19 @@
 	artisans = {
 		culture = albanian
 		religion = sunni
-		size = 640
+		size = 600
 	}
 
 	soldiers = {
 		culture = albanian
 		religion = sunni
-		size = 425
+		size = 350
 	}
 
 	farmers = {
 		culture = albanian
 		religion = sunni
-		size = 18875
+		size = 16275
 	}
 
 	clergymen = {
@@ -261,25 +261,25 @@
 	farmers = {
 		culture = albanian
 		religion = orthodox
-		size = 8650
+		size = 9050
 	}
 
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 155
+		size = 200
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 1400
+		size = 1600
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 11775
+		size = 13000
 	}
 
 }

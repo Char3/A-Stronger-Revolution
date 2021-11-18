@@ -764,7 +764,7 @@ hellenic = {
         Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
         Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
         }
-        radicalism = 15
+        radicalism = 25
     }
 	
 	cypriot = {
@@ -783,7 +783,24 @@ hellenic = {
 		Staikopoulos Stanotas "tes Elladas" Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos 
 		Venizelos Voulgaris Zaimis Zymvrakakis
         }
-        radicalism = 20
+        radicalism = 30
+    }
+	
+	griko = {
+        color = { 90  170  160 }
+        first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
+        Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
+        Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+        Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+        Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+        }
+
+        last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+        Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos Mussolini
+        Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+        Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+        Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+        }
     }
 	
 	union = GRE

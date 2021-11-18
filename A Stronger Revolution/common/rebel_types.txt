@@ -852,7 +852,7 @@ nationalist_rebels = {
 	smart = yes					# Does not assault forts, tactically withdraw from battle, etc.
 	unit_transfer = yes				# Units do remain after enforcing demands.
 	
-	occupation_mult = 5.0			# The amount of strength this rebel gains from taking provinces	
+	occupation_mult = 6.0			# The amount of strength this rebel gains from taking provinces	
 
 	# triggers a general rising, modifier will be multiplied with the country's army strength and compared to the faction's strength
 	will_rise = 
@@ -912,6 +912,14 @@ nationalist_rebels = {
 						exists = no
 			 		}
 		 	}
+		}
+		modifier = {
+			factor = 1.2
+			pop_majority_issue = jingoism
+		}
+		modifier = {
+			factor = 1.1
+			pop_majority_culture = greek
 		}
 		modifier = {
 			factor = 0

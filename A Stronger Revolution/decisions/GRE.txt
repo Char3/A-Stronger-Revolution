@@ -141,4 +141,44 @@ political_decisions = {
 			badboy = -10
 		}
 	}
+	
+	unite_the_aegean = {
+		potential = { 
+			tag = GRE
+			exists = AEG 
+		}
+		allow = {
+			OR = { 
+				AEG = { in_sphere = GRE } 
+				AND = { 
+					GRE = { alliance_with = AEG } 
+					GRE = { relation = { who = AEG value = 170 } }
+				}
+				AEG = { vassal_of = GRE }
+			}
+		}
+		effect = {
+			inherit = AEG 
+		}
+	}
+	
+	unite_the_hellenosphere = {
+		potential = { 
+			tag = GRE
+			exists = MAG 
+		}
+		allow = {
+			OR = { 
+				MAG = { in_sphere = GRE } 
+				AND = { 
+					GRE = { alliance_with = MAG } 
+					GRE = { relation = { who = MAG value = 170 } }
+				}
+				MAG = { vassal_of = GRE }
+			}
+		}
+		effect = {
+			inherit = MAG 
+		}
+	}
 }

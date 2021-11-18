@@ -49,6 +49,7 @@ mafia = {
 	active = yes
 
 	local_factory_output = -0.05
+	pop_militancy_modifier = 0.1
 	icon = 5	
 	
 	trigger = {
