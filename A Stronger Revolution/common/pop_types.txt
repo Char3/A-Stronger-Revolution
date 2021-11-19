@@ -307,11 +307,6 @@ migration_chance =
 			not = { consciousness = 8 } 
 		}
 	}
-	
-	modifier = {
-		factor = -0.2
-		culture = turkish
-	}
 
 	modifier = {
 		factor = -2.0
@@ -357,6 +352,11 @@ migration_chance =
 			factor = 0.2
 			is_coastal = yes
 		}
+		
+		modifier = {
+			factor = 0.6
+			has_culture_core = yes 
+		}
 	}
 	
 	group = {
@@ -397,9 +397,13 @@ colonialmigration_chance =
 	factor = 2.5
 
 	modifier = {
-		factor = -0.5
+		factor = -0.8
 		is_primary_culture = no
 		is_accepted_culture = no
+	}
+	modifier = {
+		factor = -0.8
+		culture = russian
 	}
 	group = {
 		modifier = {
@@ -556,6 +560,11 @@ emigration_chance =
 	}
 	
 	modifier = {
+		factor = -0.2
+		culture = turkish
+	}
+	
+	modifier = {
 		factor = -0.1
 		NOT = { year = 1850 }
 	}
@@ -635,6 +644,10 @@ assimilation_chance =
 	modifier = {
     	factor = -20
 		has_culture_core = yes
+	}
+	modifier = {
+    	factor = -8
+		culture = yemeni
 	}
 	modifier = {
     	factor = -8
