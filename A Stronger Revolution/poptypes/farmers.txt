@@ -1126,6 +1126,10 @@ ideologies = {
 	conservative = {
 		factor = 1.3
 		modifier = {
+			factor = 1.1
+			culture = dixie
+		}
+		modifier = {
 			factor = 0.5
 			militancy = 6
 		}
@@ -1219,6 +1223,10 @@ ideologies = {
 			factor = 1.1
 			nationalvalue = nv_equality
 			NOT = { ruling_party_ideology = communist }
+		}
+		modifier = {
+			factor = 1.1
+			culture = french
 		}
 		modifier = {
 			factor = 0.5
@@ -1371,6 +1379,14 @@ ideologies = {
 	}
 	liberal = {
 		factor = 1.1
+		modifier = {
+			factor = 1.1
+			culture = yankee
+		}
+		modifier = {
+			factor = 1.1
+			religion = jewish
+		}
 		modifier = {
 			factor = 1.2
 			consciousness = 9 
