@@ -4269,73 +4269,73 @@
 	aristocrats = {
 		culture = south_german
 		religion = catholic
-		size = 1350 
+		size = 950 
 	}
 
 	bureaucrats = {
 		culture = south_german
 		religion = catholic
-		size = 1050 
+		size = 800 
 	}
 
 	officers = {
 		culture = south_german
 		religion = catholic
-		size = 450 
+		size = 350 
 	}
 
 	clergymen = {
 		culture = south_german
 		religion = catholic
-		size = 1125 
+		size = 875 
 	}
 
 	artisans = {
 		culture = south_german
 		religion = catholic
-		size = 4500
+		size = 3400
 	}
 
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 2000 
-	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 85375 
-	}
-
-	aristocrats = {
-		culture = south_german
-		religion = protestant
-		size = 1450 
-	}
-
-	clergymen = {
-		culture = south_german
-		religion = protestant
-		size = 1375
-	}
-
-	artisans = {
-		culture = south_german
-		religion = protestant
-		size = 5500
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = protestant
 		size = 1500 
 	}
 
 	farmers = {
 		culture = south_german
+		religion = catholic
+		size = 64375 
+	}
+
+	aristocrats = {
+		culture = south_german
 		religion = protestant
-		size = 91275
+		size = 1150 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = protestant
+		size = 1100
+	}
+
+	artisans = {
+		culture = south_german
+		religion = protestant
+		size = 4400
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = protestant
+		size = 1200 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = protestant
+		size = 738275
 	}
 
 	clergymen = {
@@ -4347,7 +4347,93 @@
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
-		size = 9800
+		size = 8200
+	}
+}
+#Ansbach (904000/226000 POPS)
+3258 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 400 
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 250 
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 100 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 350 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 500 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 21375 
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = protestant
+		size = 300 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = protestant
+		size = 375
+	}
+
+	artisans = {
+		culture = south_german
+		religion = protestant
+		size = 1100
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = protestant
+		size = 300 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = protestant
+		size = 23275
+	}
+
+	clergymen = {
+		culture = ashkenazi
+		religion = jewish
+		size = 50       
+	}
+
+	artisans = {
+		culture = ashkenazi
+		religion = jewish
+		size = 2000
 	}
 }
 #Aschaffenburg (136000/34000 POPS)

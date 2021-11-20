@@ -52,6 +52,29 @@ political_decisions = {
 			factor = 10
 		}
 	}
+	
+	rio_join_texas = {
+		potential = {	
+			exists = TEX
+			tag = RIO
+		}
+		allow = {
+			primary_culture = texan
+			war = no
+			TEX = {
+				war = no
+			}
+		}
+		effect = {
+		set_country_flag = texasmembership_we_have_applied
+			TEX = {
+				country_event = { id=16590 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 10
+		}
+	}
 
 	reclaim_greatness = {
 		picture = "form_union_nation"

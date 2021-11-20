@@ -123012,3 +123012,48 @@
     }
 
 }
+
+# Ansbach
+3258 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+		x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+			y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+}

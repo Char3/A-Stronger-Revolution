@@ -99,7 +99,7 @@ country_event = {
 }
 
 country_event = {
-    id = 1645
+    id = 16450
     title = "The Yucatan Rebellion"
     desc = "YUC_event_1"
 	picture = "Administration"
@@ -152,7 +152,7 @@ country_event = {
 }
 
 country_event = {
-	id = 1649
+	id = 16490
 	title = "EVTNAME16400"
 	desc = "EVTDESC16400"
 	picture = "Administration"
@@ -172,7 +172,7 @@ country_event = {
 		ai_chance = {
 			factor = 10
 		}
-	
+	}
 	option = {
 		name = "EVTOPTB16400"
 		relation = {
@@ -199,7 +199,8 @@ country_event = {
 		RIO = {
 			any_owned_province = {
 			remove_core = RIO
-			add_core = USA
+			add_core = TEX
+			add_core = USA 
 			}
 		}
 		inherit = RIO
