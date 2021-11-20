@@ -8,7 +8,6 @@ political_decisions = {
 		allow = {
 			invention = national_fraternity
 			GER = { owns = 365 }
-			truce_with = GER
 		}
 		
 		effect = {

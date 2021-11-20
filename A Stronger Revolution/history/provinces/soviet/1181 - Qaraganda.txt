@@ -3,4 +3,9 @@ controller = KAZ
 add_core = KAZ
 add_core = RUS
 trade_goods = coal
-life_rating = 35
+life_rating = 25
+1861.1.1 = {
+	owner = RUS
+	controller = RUS
+	colonial = 2
+}

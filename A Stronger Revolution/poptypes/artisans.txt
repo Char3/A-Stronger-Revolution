@@ -1393,6 +1393,14 @@ ideologies = {
 	liberal = {
 		factor = 1.1
 		modifier = {
+			factor = 1.1
+			religion = jewish
+		}
+		modifier = {
+			factor = 0.9
+			culture = bedouin
+		}
+		modifier = {
 			factor = 1.2
 			consciousness = 9 
 		}

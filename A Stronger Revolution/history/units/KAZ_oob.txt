@@ -1,0 +1,24 @@
+leader = {
+    name = "Ablai Khan"
+    date = 1836.1.1
+    type = land
+    personality = moral_crusader
+    background = cavalry_school
+    prestige = 0.8
+}
+
+army = {
+	name = "Kazakh Horsemen"
+	location = 1181
+	regiment = {
+		name= "1 Qazaq Atti Asker"
+		type = cavalry
+		home = 1181
+	}
+	regiment = {
+		name= "2 Qazaq Atti Asker"
+		type = cavalry
+		home = 1184
+	}
+
+}

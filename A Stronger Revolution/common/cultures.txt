@@ -59,14 +59,6 @@ germanic = {
 		last_names = { Brenner Deucher Funk Haab Herzog Knüsel Munzinger Näff Schneider Siegwart-Müller
 		"von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" }
 	}
-	ashkenazi = { 
-		color = { 130 100 100}
-		first_names = { Abraham Albert Benjamin Daniel David Franz Gustav Heinrich Hermann Isaak Ignatz Jakob Jeremias Josef Leonhard Michael Mose Salomon Saul Shmuel
-		Sigmund Simon Theodor }
-
-		last_names = { Abramovitch Ashkenazi Bernstein Birnbaum Bloch Cantor Cohen Frank Friedländer Ginsberg Goldstein Horowitz Israel Jacobsohn Kagan Kaplan Klein
-		Levin Luria Morgenstern Nathan Oren Rosenthal Sachs Schapiro Schwartz Weinstein Weiss }
-	}
 	
 	union = GER
 }
@@ -168,8 +160,8 @@ beneluxian = {
 		"de Mérode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Sécus" "de Selys Longchamps" 
 		"de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix 
 		"Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont
-		Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand 
-		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
+		Duquesne Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos  
+		Jottrand Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
 		Orban Pétillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermée Wyvekens Zoude }
 	}
 }
@@ -262,17 +254,17 @@ british = {
 	}
 	scottish = {
 		color = { 100 160 220}
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert
-		Colin Cyril David Denis Donald Douglas Edmund Edwar Fairfax Ferdinand Francis
-		Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald
-		Percy Reginald Richard Robert Russell Stanley Thomas Wallace William Winston Zachary }
+		first_names = { Aed Alasdair Albert Alexander Archie Arthur Augustus Benjamin Bernard  
+		Charles Colin Cyril David Donald Douglas Duncan Edgard Edmund Edward Ferdinand 
+		Francis Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Kenneth Leopold Lester Louis Martin Nigel Percy Robert
+		Ronald Russell Stanley Thomas Wallace William Sachairi Zachary }
 		
-		last_names = { Allenby Argyl Battemberg Beresford Brown Buller Butler Campbell Cardigan
-		Cochrane Cockburn Culton Dundas Fisher French Gough Grant Grenfell Haig
-		Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden McDougal 
-		Milne Montgomery Moresby Mundy Napier Odoni Plummer Ragland Roberts Seaton Seymour
-		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
+		last_names = { Allenby Argyl Balliol Beresford Brown Buller Butler Campbell Cardigan Cleghorne
+		Cochrane Cockburn Culton Dalrimple Dundas Fisher French Gough Grant Grenfell Haig Hardinge
+		Havelock Hay Hope Jellicoe Kitchener Learmonth Lyons MacAlpin MacAonghais MacKenzie McCullagh   
+		Madden McDougal Milne Moresby Mundy Napier Odonald Ragland Roberts Scotland Scots Seaton Seymour   
+		Stuart Thesiger Tyron Tyrwhitt Williams Wolseley }
 	}
 	irish = { 
 		color = { 35 140 50}
@@ -838,16 +830,6 @@ levantine = {
 		Kaloian Kamalian Khachaturian Khatchaturiants Konstandyan Konstanian Mamikonian Mardvian Matinian Melik-Aghamalian
 		Mkhitarian Mussiniants Pahlevanian Peleshyan Safrazpekian Sahakiam Sarksyan Sekoyan Shadunts Shahsuvarian
 		Tavakyalian Tchartichian Tcholakhian Ter-Sarkayan Terzian Tigraniants Tigranov Toshian Varapetian Vartanian
-		}
-	}
-	sephardic = {
-		color = {50 60 10}
-		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe 
-		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
-		}
-
-		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban 
-		Sassoon Sebag
 		}
 	}
 }
@@ -1769,6 +1751,13 @@ american_cultures = {
 		}
 		radicalism = 10
 	}
+	french_canadian = { 
+		color = {172 200 255}
+		first_names = { Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
+		}
+		last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
+		}
+	}
 	union = USA
 }
 
@@ -1962,13 +1951,6 @@ neo_european_cultures = {
 		first_names = { Charles John Frederick Douglas Patrick Leonard Henry Arthur Alexander Campbell Gilbert Albert Victor Julian Francis James
 		}
 		last_names = { Grey Elliot Hamilton Gordon Stanley Campbell Ross Petty-Fitzmaurice Windham Young Doyle Hastings Blackwood MacDougall
-		}
-	}
-	french_canadian = { 
-		color = {172 200 255}
-		first_names = { Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
-		}
-		last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
 		}
 	}
 }
@@ -2747,4 +2729,39 @@ bears = {
 		last_names = { Beliy Medved Bjorn Rawrrorr Rrrrr Grrr Gyp Qoi Styrbjorn Blomstfjellet }
 	}
 	union = SCA
+}
+
+jewish = {
+	leader = european
+	is_overseas = no
+	unit = europeanGC
+	yemeni = {
+		color = {70 15 15}
+		primary = YEM
+		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe 
+		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar}
+
+		last_names = { Ashri Ba'adani Banai Barak Bashiri "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Israel Levy Maimon Mizrachi Montefiore Okashi   
+		Peretz Rafaeli Ramadan Saban Sassoon Sebag }
+	}
+	sephardic = {
+		color = {50 60 10}
+		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe 
+		Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar
+		}
+
+		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban 
+		Sassoon Sebag
+		}
+	}
+	ashkenazi = { 
+		color = { 130 100 100}
+		primary = GER
+		first_names = { Abraham Albert Benjamin Daniel David Franz Gustav Heinrich Hermann Isaak Ignatz Jakob Jeremias Josef Leonhard Michael Mose Salomon Saul Shmuel
+		Sigmund Simon Theodor }
+
+		last_names = { Abramovitch Ashkenazi Bernstein Birnbaum Bloch Cantor Cohen Frank Friedländer Ginsberg Goldstein Horowitz Israel Jacobsohn Kagan Kaplan Klein
+		Levin Luria Morgenstern Nathan Oren Rosenthal Sachs Schapiro Schwartz Weinstein Weiss }
+	}
+	union = ISR
 }
