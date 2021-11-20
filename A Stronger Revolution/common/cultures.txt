@@ -253,7 +253,7 @@ british = {
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
 	scottish = {
-		color = { 100 160 220}
+		color = { 80 130 200}
 		first_names = { Aed Alasdair Albert Alexander Archie Arthur Augustus Benjamin Bernard  
 		Charles Colin Cyril David Donald Douglas Duncan Edgard Edmund Edward Ferdinand 
 		Francis Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian

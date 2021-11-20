@@ -763,7 +763,11 @@ conversion_chance =
 			literacy = 0.6
 		}
 	}
-
+	
+	modifier = { 
+		factor = -0.6
+		religion = jewish
+	}
 
 	group = {
 		modifier = {

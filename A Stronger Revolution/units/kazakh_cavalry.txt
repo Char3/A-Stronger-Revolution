@@ -1,0 +1,43 @@
+kazakh_cavalry = {
+	icon = 22
+	
+	type = land
+	sprite = Cavalry
+	active = no
+	unit_type = kazakh_cavalry
+	floating_flag = yes
+	
+	#Avatar
+	sprite_mount = GenericMount
+	sprite_mount_attach_node = Saddle_Node
+
+	#Core Abilities
+	priority = -10
+	max_strength = 5
+	default_organisation = 30
+	maximum_speed = 6.00
+	weighted_value = -10.0
+
+
+	#Building Costs
+	build_time = 120
+	build_cost = {
+		wool = 20000
+		wine = 10000
+	}
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		wool = 0.2
+	}
+	
+
+	#Land Abilties
+	reconnaissance = 3
+	attack = 10
+	defence = 2
+	discipline = 2.5
+	support = 0.5
+	maneuver = 3
+	
+}

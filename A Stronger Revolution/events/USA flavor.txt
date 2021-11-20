@@ -201,7 +201,6 @@ country_event = {
 			remove_core = RIO
 			add_core = TEX
 			add_core = USA 
-			add_core = THIS
 			}
 		}
 		inherit = RIO

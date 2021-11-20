@@ -38,6 +38,12 @@ upper_house = {
 	communist = 0
 }
 
+# Technologies
+flintlock_rifles = 1
+
+# Unciv Reforms
+foreign_weapons = yes_foreign_weapons
+
 1861.1.1 = {
 	civlized = yes
 # Technologies

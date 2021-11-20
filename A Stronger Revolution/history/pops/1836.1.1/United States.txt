@@ -2574,7 +2574,7 @@
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 1800
+		size = 2000
 	}
 	
 	soldiers = {
@@ -2586,7 +2586,43 @@
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 500
+		size = 700
+	}
+	
+	soldiers = {
+		culture = scottish
+		religion = protestant
+		size = 20
+	}
+	
+	clergymen = {
+		culture = scottish
+		religion = protestant
+		size = 20
+	}
+
+	farmers = {
+		culture = scottish
+		religion = protestant
+		size = 200
+	}
+	
+	soldiers = {
+		culture = irish
+		religion = catholic
+		size = 20
+	}
+	
+	clergymen = {
+		culture = irish
+		religion = catholic
+		size = 20
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 200
 	}
 }
 #Goodland (8000/2000 POPS)
@@ -6190,7 +6226,7 @@
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 13050
+		size = 11050
 	}
 
 	clergymen = {
@@ -6208,7 +6244,13 @@
 	farmers = {
 		culture = irish
 		religion = catholic
-		size = 4675
+		size = 5175
+	}
+	
+	farmers = {
+		culture = scottish
+		religion = protestant
+		size = 2000
 	}
 
 	aristocrats = {
@@ -6238,7 +6280,7 @@
 	farmers = {
 		culture = dixie
 		religion = protestant
-		size = 8125
+		size = 7525
 	}
 
 	clergymen = {
@@ -9309,6 +9351,24 @@
 		religion = catholic
 		size = 2950
 	}
+	
+	clergymen = {
+		culture = scottish
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = scottish
+		religion = protestant
+		size = 5000
+	}
+
+	farmers = {
+		culture = scottish
+		religion = protestant
+		size = 3100
+	}
 
 	clergymen = {
 		culture = afro_american
@@ -9391,7 +9451,7 @@
 	farmers = {
 		culture = pennsylvania_dutch
 		religion = protestant
-		size = 65172
+		size = 68172
 	}
 }
 #Scranton (164000/41000 POPS)
@@ -9937,7 +9997,7 @@
 	artisans = {
 		culture = yankee
 		religion = protestant
-		size = 8375
+		size = 4375
 	}
 
 	soldiers = {
@@ -10003,7 +10063,7 @@
 	artisans = {
 		culture = irish
 		religion = catholic
-		size = 3950
+		size = 4000
 	}
 
 	clergymen = {
@@ -10015,7 +10075,19 @@
 	artisans = {
 		culture = yankee
 		religion = jewish
-		size = 490
+		size = 5000
+	}
+	
+	clergymen = {
+		culture = scottish
+		religion = protestant
+		size = 50
+	}
+
+	artisans = {
+		culture = scottish
+		religion = protestant
+		size = 4000
 	}
 }
 #Islip (100000/25000 POPS)

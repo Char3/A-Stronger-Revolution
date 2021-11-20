@@ -12,12 +12,22 @@ army = {
 	location = 1181
 	regiment = {
 		name= "1 Qazaq Atti Asker"
-		type = cavalry
+		type = kazakh_cavalry
 		home = 1181
 	}
 	regiment = {
 		name= "2 Qazaq Atti Asker"
-		type = cavalry
+		type = kazakh_cavalry
+		home = 1184
+	}
+	regiment = {
+		name= "3 Qazaq Atti Asker"
+		type = kazakh_cavalry
+		home = 1181
+	}
+	regiment = {
+		name= "4 Qazaq Atti Asker"
+		type = kazakh_cavalry
 		home = 1184
 	}
 
