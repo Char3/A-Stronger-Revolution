@@ -1055,13 +1055,25 @@
 	artisans = {
 		culture = cypriot
 		religion = orthodox
-		size = 900
+		size = 1000
 	}
 
 	soldiers = {
 		culture = cypriot
 		religion = orthodox
 		size = 100
+	}
+	
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 150
+	}
+	
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1000
 	}
 }
 #Amfissa (76000/19000 POPS)
