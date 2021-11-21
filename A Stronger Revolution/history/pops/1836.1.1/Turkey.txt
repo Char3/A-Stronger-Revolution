@@ -651,31 +651,31 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 65400
+		size = 50400
 	}
 	
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 130
 	}
 
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 200
+		size = 250
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 5600
+		size = 7600
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 9900
+		size = 22900
 	}
 
 	clergymen = {
