@@ -67,7 +67,7 @@ beneluxian = {
 	leader = european
 	unit = EuropeanGC
 	dutch = { 
-		color = { 230 130 50}
+		color = { 200 90 20}
 		first_names = { 
 			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
 			Barthout
@@ -107,7 +107,7 @@ beneluxian = {
 			Janssens
 			Köhler Kool Kruys Kater "van Keppel" Kortenaer
 			List Lucas
-			Michiels "van Marnix" Martena "de Moor" "Melvill van Carnbee" 
+			Marten Michiels "van Marnix" Martena "de Moor" "Melvill van Carnbee" 
 			Nepveu Nachtegaal "van Nieuwenaar" "van Noort"
 			Ongerboer 
 			"van Pallandt"
@@ -116,14 +116,14 @@ beneluxian = {
 
 			Steltman Stuyvesant
 			Tasman "van Troyen" Trip
-			"van Dambenoy" "van den Bosch" "van der Heijden" "van Hoensbroeck" "van Oranje-Nassau" "van Swieten" 
+			"van Buren" "van Dambenoy" "van den Bosch" "van der Heijden" "van Hoensbroeck" "van Oranje-Nassau" "van Swieten" 
 			"van Vredenburch" Verspijck Vetter Weitzel "Van Utenhove"
 			"van Walbeeck" "van Wassenaer" "van der Werff" "van Wesembeke" "van Wingle" "van der Wijck" "van Wijngaarden" "de Winter"
 			Wolterbeek
 		}
 	}
 	flemish = { 
-		color = { 190 90 20}
+		color = { 160 50 10}
 		first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas 
 		Camille Charles Constant David Désiré Diederik Edmond Emmanuel Etienne Eugène Félix Filip Frans Ferdinand François Frederik 
 		Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-François Jean-Louis Jean-Jacques 
@@ -146,7 +146,7 @@ beneluxian = {
 		Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
 	}
 	wallonian = { 
-		color = { 250 180 80}
+		color = { 70 40 130 }
 		first_names = { Albert Alexandre Alexis Alphonse André Antoine Auguste Barthélémy Baudouin Blaise Camille Clément Charles Constant 
 		Damien David Désiré Didier Edmond Édouard Emmanuel Émile Etienne Eugène Félix Fernand Feullien Florent François Frédéric Georges 
 		Gérard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-François Jean-Louis 

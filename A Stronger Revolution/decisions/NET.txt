@@ -17,4 +17,20 @@ political_decisions = {
 			400 = { any_pop = { limit = { culture = french } decrease_pop = 0.85 } any_pop = { limit = { culture = flemish } decrease_pop = 2.0 } }
 		}
 	}
+	
+	proclaim_greater_lowlands = {
+		potential = {
+			OR = { tag = BEL tag = NET }
+		}
+		allow = {
+			375 = { owned_by = THIS }
+			387 = { owned_by = THIS }
+			393 = { owned_by = THIS }
+		}
+		effect = {
+			399 = { add_core = THIS }
+			400 = { add_core = THIS }
+			404 = { add_core = THIS }
+		}
+	}
 }

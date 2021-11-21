@@ -3,6 +3,7 @@ primary_culture = french
 culture = french_canadian
 culture = breton
 culture = corsican
+culture = wallonian 
 religion = catholic
 government = hms_government
 plurality = 25
