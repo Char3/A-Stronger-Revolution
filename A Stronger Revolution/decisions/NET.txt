@@ -1,5 +1,6 @@
 political_decisions = { 
 	NET_two_nation_solution = {
+		picture = belgium_divide
 		potential = { 
 			tag = NET
 		}
