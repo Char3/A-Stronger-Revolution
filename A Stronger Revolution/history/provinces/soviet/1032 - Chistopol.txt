@@ -1,0 +1,6 @@
+owner = RUS
+controller = RUS
+add_core = RUS
+add_core = TAT
+trade_goods = timber
+life_rating = 35
