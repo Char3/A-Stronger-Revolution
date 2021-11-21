@@ -4335,7 +4335,7 @@
 	farmers = {
 		culture = south_german
 		religion = protestant
-		size = 738275
+		size = 78275
 	}
 
 	clergymen = {
