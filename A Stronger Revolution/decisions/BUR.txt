@@ -24,4 +24,25 @@ political_decisions = {
 			factor = 100
 		}
 	}
+	
+	mindon_reform = {
+		picture = mindon
+		potential = {	
+			tag = BUR
+		}
+		allow = {
+			year = 1853
+			1330 = { owned_by = BUR }
+			prestige = 5
+		}
+		effect = {
+			research_points = 12000
+			military_reform = yes_foreign_weapons
+			economic_reform = yes_admin_reform
+			economic_reform = yes_finance_reform
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
 }
