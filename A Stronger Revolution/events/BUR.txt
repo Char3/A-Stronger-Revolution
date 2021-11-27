@@ -1,0 +1,27 @@
+country_event = {
+	id = 34715
+	title = "burma2"
+	desc = "burmadesc2"
+	picture = "Administration"
+	trigger = {
+		tag = BUR
+		NOT = { year = 1856 }
+		NOT = { has_country_modifier = uncentralized_administration }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	
+	option = {
+		name = "Well we ought to fix that."
+		add_country_modifier = {
+			name = uncentralized_administration
+			duration = 7300
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+}
