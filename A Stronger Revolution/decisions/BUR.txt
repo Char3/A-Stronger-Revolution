@@ -1,0 +1,27 @@
+political_decisions = {
+	repurchase_former_territories = {
+		potential = {	
+			tag = BUR
+			1330 = { owned_by = BUR }
+			1343 = { owned_by = ENG }
+			1344 = { owned_by = ENG }
+			1345 = { owned_by = ENG }
+		}
+		allow = {
+			civilized = yes
+			money = 1000000
+		}
+		effect = {
+			treasury = -1000000
+			ENG = { 
+				country_event = {
+					id = 1344
+					days = 2
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 100
+		}
+	}
+}

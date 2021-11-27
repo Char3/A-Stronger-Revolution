@@ -649,29 +649,6 @@ fabric_factory = {
 	}
 }
 
-fabric_factory_wool = {       
-	template = factory_template
-	input_goods = {     
-		wool = 20		
-		dye = 2			
-	}
-	output_goods = fabric 
-	value = 42			#81
-	bonus = {
-		trigger = { trade_goods_in_state = wool }
-		value = 0.25
-	}
-	bonus = {
-		trigger = {
-			OR = {
-				has_building = dye_factory 
-				trade_goods_in_state = dye
-				}
-			}
-		value = 0.15
-	}
-}
-
 
 cement_factory = {       
 	template = cement_template

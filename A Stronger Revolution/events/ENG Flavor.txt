@@ -32,3 +32,24 @@ country_event = {
         name = "For Queen and Country!"
 	}
 }
+
+country_event = {
+    id = 1344
+    title = "burma1"
+    desc = "burmadesc1"
+	picture = "Administration"
+	
+	is_triggered_only = yes
+
+    option = {
+        name = "Well If they ensist..."
+		any_owned = {	
+			limit = { is_core = BUR }
+			secede_province = BUR
+		}
+	}
+	
+	option = {
+        name = "We give them nothing!"
+	}
+}
