@@ -1,2 +1,2 @@
-trade_goods = grain
+trade_goods = sugar
 life_rating = 15
