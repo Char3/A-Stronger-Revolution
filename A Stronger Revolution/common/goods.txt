@@ -221,4 +221,8 @@ consumer_goods = {
 		available_from_start = no
 		color = { 129 63 6 }
 	}
+	sugar = {	
+		cost = 7.0
+		color = { 255 255 255 }
+	}
 }

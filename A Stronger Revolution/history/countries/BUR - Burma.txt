@@ -41,6 +41,8 @@ upper_house = {
 
 # Inventions
 
+	
+
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
@@ -48,8 +50,8 @@ nonstate_consciousness = 0
 oob = "BUR_oob.txt"
 1861.1.1 = {
 	oob = "/1861/BUR_oob.txt"
-	literacy = 0.07
-	non_state_culture_literacy = 0.06
+	literacy = 0.65
+	non_state_culture_literacy = 0.35
 }
 1861.1.1 = {
 	#Military Reforms

@@ -649,6 +649,29 @@ fabric_factory = {
 	}
 }
 
+fabric_factory_wool = {       
+	template = factory_template
+	input_goods = {     
+		wool = 20		
+		dye = 2			
+	}
+	output_goods = fabric 
+	value = 42			#81
+	bonus = {
+		trigger = { trade_goods_in_state = wool }
+		value = 0.25
+	}
+	bonus = {
+		trigger = {
+			OR = {
+				has_building = dye_factory 
+				trade_goods_in_state = dye
+				}
+			}
+		value = 0.15
+	}
+}
+
 
 cement_factory = {       
 	template = cement_template
@@ -707,8 +730,8 @@ RGO_template_farmers = {
 		}
 		{ 
 			poptype = slaves 
-			effect = output
-			amount = 1
+			effect = throughput
+			amount = 1.1
 		}
 	}
 	
@@ -731,7 +754,7 @@ RGO_template_labourers = {
 		}
 		{ 
 			poptype = slaves 
-			effect = output
+			effect = throughput
 			amount = 1
 		}
 	}
@@ -878,6 +901,42 @@ tropical_wood_lodge = {
 	template = RGO_template_labourers
 	output_goods = tropical_wood 
 	value = 4
+	farm = yes
+}
+
+sugar_plantation = {
+	template = RGO_template_farmers
+	output_goods = sugar 
+	value = 2.0
+	bonus = {
+		trigger = { state_id = 2213 }
+		value = 10.0
+	}
+	bonus = {
+		trigger = { state_id = 139 }
+		value = 2.4
+	}
+	bonus = {
+		trigger = { state_id = 658 }
+		value = 2.0
+	}
+	bonus = {
+		trigger = { state_id = 200 }
+		value = 1.2
+	}
+	bonus = {
+		trigger = { state_id = 2162 }
+		value = 1.4
+	}
+	bonus = {
+		trigger = { state_id = 2209 }
+		value = 1.1
+	}
+	bonus = {
+		trigger = { state_id = 1237 }
+		value = -0.7
+	}
+	
 	farm = yes
 }
 
@@ -1412,4 +1471,17 @@ artisan_fertilizer = {
 	type = artisan
 	
 	workforce = 10000
+}
+
+wool_clothes_factory = {       
+	template = factory_template
+	input_goods = {  
+		wool = 60		#18	total input+maint = 72
+	}
+	output_goods = regular_clothes 
+	value = 20			#87
+	bonus = {
+		trigger = { trade_goods_in_state = wool }
+		value = 0.25
+	}
 }

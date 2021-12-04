@@ -28,6 +28,7 @@ political_decisions = {
 	mindon_reform = {
 		picture = mindon
 		potential = {	
+			NOT = { has_country_flag = mindon }
 			tag = BUR
 		}
 		allow = {
@@ -40,6 +41,7 @@ political_decisions = {
 			military_reform = yes_foreign_weapons
 			economic_reform = yes_admin_reform
 			economic_reform = yes_finance_reform
+			set_country_flag = mindon
 		}
 		ai_will_do = {
 			factor = 100

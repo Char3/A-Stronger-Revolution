@@ -795,3 +795,14 @@ city_of_liberty = {
 	assimilation_rate = 2
 	icon = 11
 }
+
+uncentralized_administration = {
+	research_points_modifier = -0.5
+	icon = 10
+}
+
+cuba_plantations = {
+	pop_militancy_modifier = 0.01
+	farm_rgo_eff = 1.05
+	icon = 4
+}

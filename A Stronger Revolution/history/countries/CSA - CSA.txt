@@ -1,8 +1,10 @@
 capital = 211
 primary_culture = dixie
+culture = cuban
 culture = texan
 culture = french_canadian
 culture = mayan
+culture = pennsylvania_dutch
 religion = protestant
 government = democracy
 plurality = 25.1

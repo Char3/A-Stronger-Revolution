@@ -1,5 +1,5 @@
 owner = HAW
 controller = HAW
 add_core = HAW
-trade_goods = fish
+trade_goods = sugar
 life_rating = 35
