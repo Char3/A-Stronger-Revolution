@@ -365,6 +365,25 @@ luxury_furniture_factory = {
 	}
 }
 
+
+chocolate_factory = {       
+	template = factory_template
+	input_goods = { 
+		sugar = 3	 	#45.08
+		paper = 1.5
+	}
+	output_goods = chocolate 
+	value = 3.6
+	bonus = {
+		trigger = { has_building = paper_mill }
+		value = 0.2
+	}
+	bonus = {
+		trigger = { trade_goods_in_state = sugar }
+		value = 0.1
+	}
+}
+
 ############# MEDIUM FACTORIES
 
 steel_factory = {       
@@ -893,7 +912,7 @@ timber_lodge = {
 tobacco_plantation = {
 	template = RGO_template_farmers
 	output_goods = tobacco 
-	value = 2.5
+	value = 2.7
 	farm = yes
 }
 
@@ -907,14 +926,14 @@ tropical_wood_lodge = {
 sugar_plantation = {
 	template = RGO_template_farmers
 	output_goods = sugar 
-	value = 2.0
+	value = 3
 	bonus = {
 		trigger = { state_id = 2213 }
 		value = 10.0
 	}
 	bonus = {
 		trigger = { state_id = 139 }
-		value = 2.4
+		value = 3.6
 	}
 	bonus = {
 		trigger = { state_id = 658 }
@@ -935,6 +954,10 @@ sugar_plantation = {
 	bonus = {
 		trigger = { state_id = 1237 }
 		value = -0.7
+	}
+	bonus = {
+		trigger = { state_id = 2432 }
+		value = 1.4
 	}
 	
 	farm = yes

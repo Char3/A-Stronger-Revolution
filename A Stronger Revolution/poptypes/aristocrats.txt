@@ -47,6 +47,7 @@ luxury_needs = {
 	steamer_convoy = 2
 	tea = 4
 	sugar = 3
+	chocolate = 2
 }
 
 

@@ -9253,7 +9253,7 @@
 	clerks = {
 		culture = yankee
 		religion = protestant
-		size = 60
+		size = 120
 	}
 
 	craftsmen = {
@@ -9307,7 +9307,7 @@
 	clerks = {
 		culture = yankee
 		religion = catholic
-		size = 5
+		size = 20
 	}
 
 	craftsmen = {
@@ -9442,10 +9442,22 @@
 		size = 687
 	}
 	
+	clerks = {
+		culture = pennsylvania_dutch
+		religion = protestant
+		size = 100
+	}
+	
 	soldiers = {
 		culture = pennsylvania_dutch
 		religion = protestant
 		size = 3021
+	}
+	
+	craftsmen = {
+		culture = pennsylvania_dutch
+		religion = protestant
+		size = 800
 	}
 
 	farmers = {
@@ -9472,6 +9484,12 @@
 		culture = yankee
 		religion = protestant
 		size = 191
+	}
+	
+	craftsmen = {
+		culture = yankee
+		religion = protestant
+		size = 500
 	}
 
 	farmers = {

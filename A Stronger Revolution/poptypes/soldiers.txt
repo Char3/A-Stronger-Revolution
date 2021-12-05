@@ -64,6 +64,7 @@ luxury_needs = {
 	tobacco = 0.95
 	#dye = 0.5
 	sugar = 0.5
+	chocolate = 0.2
 }
 
 

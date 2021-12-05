@@ -45,6 +45,7 @@ luxury_needs = {
 	fuel = 0.2
 	coffee = 2
 	sugar = 2
+	chocolate = 1
 }
 
 everyday_needs = {

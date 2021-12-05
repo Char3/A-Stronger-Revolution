@@ -314,6 +314,26 @@ mechanized_slaughtering_block = {
 		}
 	}
 }
+mass_chocolate_production = {
+	limit = { mechanical_production = 1 }
+	chance = {
+		base = 2
+		modifier = {
+			factor = 2
+			invention = work_classification
+		}
+		modifier = {
+			factor = 2
+			stock_exchange = 1
+		}
+	}
+	effect = {
+		activate_building = chocolate_factory
+		rgo_goods_output = {
+			sugar = 0.4
+		}
+	}
+}
 #interchangeable_parts
 precision_work = {
 	limit = { mechanical_production = 1 }
@@ -435,6 +455,21 @@ jiggs = {
 		}
 		factory_goods_output = {
 			luxury_furniture = 0.02
+		}
+	}
+}
+dutch_cocoa = {
+	limit = { interchangeable_parts = 1 }
+	chance = {
+		base = 0
+		modifier = {
+			factor = 4
+			year = 1842
+		}
+	}
+	effect = {
+		factory_goods_output = {
+			chocolate = 0.2 
 		}
 	}
 }

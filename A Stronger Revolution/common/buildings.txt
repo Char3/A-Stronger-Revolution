@@ -294,6 +294,26 @@ luxury_furniture_factory = {
 	pop_build_factory = yes
 }
 
+chocolate_factory = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 200
+		iron = 200
+		cement = 200
+	}
+	time = 730
+	visibility = yes
+	onmap = no
+
+	production_type = chocolate_factory
+	pop_build_factory = yes
+}
+
 ############# MEDIUM FACTORIES
 
 steel_factory = {

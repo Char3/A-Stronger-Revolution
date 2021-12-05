@@ -225,4 +225,8 @@ consumer_goods = {
 		cost = 7.0
 		color = { 255 255 255 }
 	}
+	chocolate = {	
+		cost = 10.0
+		color = { 25 16 4 }
+	}
 }
