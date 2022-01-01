@@ -2853,61 +2853,61 @@
 #Saarbrucken (308000/77000 POPS)
 573 = {
 	aristocrats = {
-		culture = north_german
+		culture = saarlander
 		religion = protestant
 		size = 250 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saarlander
 		religion = protestant
 		size = 225
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saarlander
 		religion = protestant
 		size = 1250
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saarlander
 		religion = protestant
 		size = 250 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = saarlander
 		religion = protestant
 		size = 22025
 	}
 
 	aristocrats = {
-		culture = north_german
+		culture = saarlander
 		religion = catholic
 		size = 450 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = saarlander
 		religion = catholic
 		size = 550 
 	}
 
 	artisans = {
-		culture = north_german
+		culture = saarlander
 		religion = catholic
 		size = 2600
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = saarlander
 		religion = catholic
 		size = 1500 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = saarlander
 		religion = catholic
 		size = 45900 
 	}

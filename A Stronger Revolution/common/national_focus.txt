@@ -111,7 +111,7 @@ diplomatic_focus =
 		has_flashpoint = yes
 		own_provinces = no
 
-		flashpoint_tension = 0.20
+		flashpoint_tension = 0.25
 
 		limit = {
 			is_core = THIS

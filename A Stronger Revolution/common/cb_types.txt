@@ -2022,10 +2022,6 @@ demand_concession_capital = {
         #Restrictions to non-African State conquering
         OR = {
             continent = africa
-            continent = central_africa
-            continent = west_africa
-            continent = east_africa
-            continent = south_west_africa
 
             NOT = { total_pops = 500000 }
 

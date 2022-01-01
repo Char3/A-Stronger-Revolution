@@ -59,6 +59,20 @@ germanic = {
 		last_names = { Brenner Deucher Funk Haab Herzog Knüsel Munzinger Näff Schneider Siegwart-Müller
 		"von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" }
 	}
+	saarlander = {
+		color = { 120 100 120}
+		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian
+		Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
+		Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
+		Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
+		Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
+		
+		last_names = { Beck-Rzikowsky Blos Dankl Eisner Geiss Goering Hainisch Haus Held Hellpach
+		Hoffmann Hummel Köhler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb
+		Stolzer Trunk "von Baden" "von Benedek" "von Böhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
+		"von Grünne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hötzendorf" "von Kirbach"
+		"von Kobratin" "von Schönburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Württemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
+	}
 	
 	union = GER
 }
@@ -2411,6 +2425,14 @@ central_african = {
 		last_names = { Mussa Mutato Bowelle Makeda Nzinga Sundiata 
 		}
 	}
+	mandinka  = {
+		color = {214 112 56}
+		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
+		}
+
+		last_names = { Mussa Mutato Bowelle Makeda Nzinga Sundiata 
+		}
+	}
 }
 
 east_african = {
@@ -2744,7 +2766,7 @@ bears = {
 jewish = {
 	leader = european
 	is_overseas = no
-	unit = europeanGC
+	unit = EuropeanGC
 	yemeni = {
 		color = {70 15 15}
 		primary = YEM

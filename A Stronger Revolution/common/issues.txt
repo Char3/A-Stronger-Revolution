@@ -391,25 +391,33 @@ social_reforms = {
 		no_minimum_wage = {
 		}
 		trinket_wage = {
-			minimum_wage = 0.20
-			administrative_multiplier = 1
-			global_immigrant_attract = 0.01
-		}
-		low_minimum_wage = {
-			minimum_wage = 0.40
-			administrative_multiplier = 2
-			global_immigrant_attract = 0.02
-		}
-		acceptable_minimum_wage = {
-			minimum_wage = 0.60
-			administrative_multiplier = 3
-			global_immigrant_attract = 0.03
-		}
-		good_minimum_wage = {
-			minimum_wage = 0.80
-			administrative_multiplier = 4
-			global_immigrant_attract = 0.04
-		}
+            minimum_wage = 0.20
+            administrative_multiplier = 1
+            global_immigrant_attract = 0.01
+			factory_throughput = 0.01
+            RGO_throughput = 0.01
+        }
+        low_minimum_wage = {
+            minimum_wage = 0.40
+            administrative_multiplier = 2
+            global_immigrant_attract = 0.02
+			factory_throughput = 0.02
+            RGO_throughput = 0.02
+        }
+        acceptable_minimum_wage = {
+            minimum_wage = 0.60
+            administrative_multiplier = 3
+            global_immigrant_attract = 0.03
+			factory_throughput = 0.03
+            RGO_throughput = 0.03
+        }
+        good_minimum_wage = {
+            minimum_wage = 0.80
+            administrative_multiplier = 4
+            global_immigrant_attract = 0.04
+			factory_throughput = 0.04
+            RGO_throughput = 0.04
+        }
 	}
 	work_hours = {
 		administrative = yes

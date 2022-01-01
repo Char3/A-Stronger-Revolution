@@ -4575,13 +4575,13 @@
 	soldiers = {
 		culture = circassian
 		religion = sunni
-		size = 2200
+		size = 7200
 	}
 
 	farmers = {
 		culture = circassian
 		religion = sunni
-		size = 12825
+		size = 7825
 	}
 }
 #Stavropol (188000/47000 POPS)
@@ -4613,13 +4613,13 @@
 	soldiers = {
 		culture = circassian
 		religion = sunni
-		size = 4000
+		size = 10000
 	}
 
 	farmers = {
 		culture = circassian
 		religion = sunni
-		size = 17075
+		size = 11075
 	}
 	
 	clergymen = {
@@ -5145,13 +5145,13 @@
 	soldiers = {
 		culture = circassian
 		religion = sunni
-		size = 3000
+		size = 27000
 	}
 
 	farmers = {
 		culture = circassian
 		religion = sunni
-		size = 33875
+		size = 9875
 	}
 	
 	aristocrats = {

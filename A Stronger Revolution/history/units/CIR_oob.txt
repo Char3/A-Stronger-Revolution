@@ -9,10 +9,10 @@ leader = {
 
 army = {
 	name = "Circassian Army"
-	location = 1051
+	location = 1049
 	regiment = {
 		name= "4.Chernomoriya"
-		type = cavalry
+		type = kazakh_cavalry
 		home = 1051
 	}
 	regiment = {
@@ -44,6 +44,42 @@ army = {
 		name= "12.Chernomoriya"
 		type = cavalry
 		home = 1051
+	}
+	
+	regiment = {
+		name= "15.Chernomoriya"
+		type = cavalry
+		home = 1056
+	}
+	
+	regiment = {
+		name= "16.Chernomoriya"
+		type = cavalry
+		home = 1056
+	}
+	
+	regiment = {
+		name= "17.Chernomoriya"
+		type = cavalry
+		home = 1056
+	}
+	
+	regiment = {
+		name= "18.Chernomoriya"
+		type = cavalry
+		home = 1056
+	}
+	
+	regiment = {
+		name= "19.Chernomoriya"
+		type = cavalry
+		home = 1056
+	}
+	
+	regiment = {
+		name= "20.Chernomoriya"
+		type = cavalry
+		home = 1056
 	}
 
 }
@@ -79,5 +115,58 @@ army = {
 		type = cavalry
 		home = 1050
 	}
+	
+	regiment = {
+		name= "13.Chernomoriya"
+		type = cavalry
+		home = 1049
+	}
+	
+	regiment = {
+		name= "26.Chernomoriya"
+		type = cavalry
+		home = 1050
+	}
 
+}
+
+army = { 
+	name = "Chernomoriya 2"
+	location = 1051
+	regiment = {
+		name= "14.Chernomoriya"
+		type = cavalry
+		home = 1049
+	}
+	
+	regiment = {
+		name= "21.Chernomoriya"
+		type = cavalry
+		home = 1050
+	}
+	
+	regiment = {
+		name= "22.Chernomoriya"
+		type = cavalry
+		home = 1050
+	}
+	
+	regiment = {
+		name= "23.Chernomoriya"
+		type = cavalry
+		home = 1050
+	}
+	
+	regiment = {
+		name= "24.Chernomoriya"
+		type = cavalry
+		home = 1056
+	}
+	
+	regiment = {
+		name= "24.Chernomoriya"
+		type = cavalry
+		home = 1056
+	}
+	
 }
