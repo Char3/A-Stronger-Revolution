@@ -300,55 +300,55 @@
 	aristocrats = {
 		culture = north_german
 		religion = protestant
-		size = 50 
+		size = 150 
 	}
 
 	bureaucrats = {
 		culture = north_german
 		religion = protestant
-		size = 25 
+		size = 50 
 	}
 
 	officers = {
 		culture = north_german
 		religion = protestant
-		size = 5 
+		size = 10 
 	}
 
 	clergymen = {
 		culture = north_german
 		religion = protestant
-		size = 75 
+		size = 100 
 	}
 
 	artisans = {
 		culture = north_german
 		religion = protestant
-		size = 5950
+		size = 7460
 	}
 
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size = 1100
+		size = 1375
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 2395 
+		size = 2995 
 	}
 
 	artisans = {
 		culture = north_german
 		religion = catholic
-		size = 300
+		size = 375
 	}
 
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 200 
+		size = 250 
 	}
 }
 #under the Rule of Mecklenburg 1836 
@@ -1419,7 +1419,7 @@
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 71200
+		size = 60200
 	}
 
 	clergymen = {
@@ -1443,7 +1443,37 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 5600     
+		size = 5000     
+	}
+	
+	clergymen = {
+		culture = sorbian
+		religion = catholic
+		size = 345      
+	}
+
+	craftsmen = {
+		culture = sorbian
+		religion = catholic
+		size = 300
+	}
+
+	artisans = {
+		culture = sorbian
+		religion = catholic
+		size = 2505
+	}
+
+	soldiers = {
+		culture = sorbian
+		religion = catholic
+		size = 415        
+	}
+
+	farmers = {
+		culture = sorbian
+		religion = catholic
+		size = 12300       
 	}
 }
 #Anhalt Region (1527000) 
@@ -3660,31 +3690,37 @@
 	aristocrats = {
 		culture = north_german
 		religion = protestant
-		size = 200 
+		size = 500 
+	}
+	
+	bureaucrats = {
+		culture = north_german
+		religion = protestant
+		size = 50 
 	}
 
 	clergymen = {
 		culture = north_german
 		religion = protestant
-		size = 175 
+		size = 200 
 	}
 
 	artisans = {
 		culture = north_german
 		religion = protestant
-		size = 950
+		size = 1150
 	}
 
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size = 1400 
+		size = 1720 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 16275 
+		size = 17275 
 	}
 
 	aristocrats = {

@@ -52,21 +52,21 @@ spriteTypes = {
 	spriteType = {
 		name = "religionslider_leftbutton"
 		texturefile = "gfx\\interface\\scrollbar_leftbutton.tga"
-		noOfFrames = 4
+		noOfFrames = 5
 		loadType = "INGAME"
 	}
 
 	spriteType = {
 		name = "religionslider_rightbutton"
 		texturefile = "gfx\\interface\\scrollbar_rightbutton.tga"
-		noOfFrames = 4
+		noOfFrames = 5
 		loadType = "INGAME"
 	}
 
 	spriteType = {
 		name = "religionslider_slider"
 		texturefile = "gfx\\interface\\scrollbar_slider.tga"
-		noOfFrames = 4
+		noOfFrames = 5
 		loadType = "INGAME"
 	}
 
@@ -90,7 +90,7 @@ spriteTypes = {
 	spriteType = {
 		name = "slider_noslider"
 		texturefile = "gfx\\interface\\transparency.tga"
-		noOfFrames = 4
+		noOfFrames = 5
 #		loadType = "INGAME"
 	}
 
@@ -99,7 +99,7 @@ spriteTypes = {
 	spriteType = {
 		name = "slider_slider"
 		texturefile = "gfx\\interface\\scrollbar_slider_2.tga"
-		noOfFrames = 4
+		noOfFrames = 5
 #		loadType = "INGAME"
 	}
 
@@ -108,7 +108,7 @@ spriteTypes = {
 	spriteType = {
 		name = "slider_upbutton"
 		texturefile = "gfx\\interface\\scrollbar_upbutton.tga"
-		noOfFrames = 4
+		noOfFrames = 5
 #		loadType = "INGAME"
 		norefcount = yes
 	}
@@ -116,7 +116,7 @@ spriteTypes = {
 	spriteType = {
 		name = "slider_downbutton"
 		texturefile = "gfx\\interface\\scrollbar_downbutton.tga"
-		noOfFrames = 4
+		noOfFrames = 5
 #		loadType = "INGAME"
 		norefcount = yes
 	}
@@ -150,21 +150,21 @@ spriteTypes = {
 	spriteType = {
 		name = "investmentmentslider_leftbutton"
 		texturefile = "gfx\\interface\\scrollbar_leftbutton.tga"
-		noOfFrames = 4
+		noOfFrames = 5
 		loadType = "INGAME"
 	}
 
 	spriteType = {
 		name = "investmentmentslider_rightbutton"
 		texturefile = "gfx\\interface\\scrollbar_rightbutton.tga"
-		noOfFrames = 4
+		noOfFrames = 5
 		loadType = "INGAME"
 	}
 
 	spriteType = {
 		name = "investmentmentslider_slider"
 		texturefile = "gfx\\interface\\scrollbar_slider.tga"
-		noOfFrames = 4
+		noOfFrames = 5
 		loadType = "INGAME"
 	}
 	

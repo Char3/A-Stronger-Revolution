@@ -638,6 +638,14 @@ polish_culture_group = {
 		Straizys Stulginkis Svedas Terleckas Urbsys Vagnorius Valeska Voldemaras Zemaitis Zuokas
 		}
 	}
+	sorbian = {
+		color = {200 60 140}
+		first_names = { Adam Arnošt Božidar Cecilija Jan Jurij Kito Lukaš Nišan Ota Tomašj
+		}
+
+		last_names = { Hurban Jenc Klasky Kozak Lukaš Mach Mješicy Nadolny Nischan Tillich Tomaš
+		}
+	}
 	
 	union = PLC
 }

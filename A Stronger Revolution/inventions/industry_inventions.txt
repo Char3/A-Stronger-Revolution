@@ -1413,6 +1413,22 @@ rotherham_plough = {
 	
 }
 
+brazilian_coffee_plantations = {
+	limit = { practical_steam_engine = 1 }
+	chance = {
+		base = 0
+		modifier = {
+			factor = 4
+			tag = BRZ
+		}
+	}
+	effect = {
+		rgo_goods_output = {
+			coffee = 0.4
+		}
+	}
+}
+
 telephone_switchboard = {
 	limit = { 
 		electricity = 1

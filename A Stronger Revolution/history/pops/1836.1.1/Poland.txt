@@ -250,6 +250,30 @@
 		size = 46125
 	}
 
+	clergymen = {
+		culture = sorbian
+		religion = catholic
+		size = 110 
+	}
+
+	artisans = {
+		culture = sorbian
+		religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = sorbian
+		religion = catholic
+		size = 600 
+	}
+
+	farmers = {
+		culture = sorbian
+		religion = catholic
+		size = 500
+	}
+
 	artisans = {
 		culture = north_german
 		religion = jewish
