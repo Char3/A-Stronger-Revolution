@@ -3,6 +3,7 @@ primary_culture = north_german
 culture = south_german
 culture = alsatian
 culture = baltic_german
+culture = saarlander
 religion = protestant
 government = democracy
 plurality = 0.15

@@ -676,6 +676,7 @@ assimilation_chance =
 		OR = { 
 			culture = flemish
 			culture = wallonian
+			culture = alsatian
 		}
 		country = { primary_culture = french }
 	}

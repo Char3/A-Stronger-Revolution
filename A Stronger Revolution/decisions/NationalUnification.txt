@@ -134,6 +134,7 @@ political_decisions = {
 				primary_culture = north_german
 				primary_culture = baltic_german
 				primary_culture = alsatian
+				primary_culture = saarlander
 			}
 			NOT = {
 				exists = GER
@@ -167,6 +168,7 @@ political_decisions = {
 						primary_culture = north_german
 						primary_culture = baltic_german
 						primary_culture = alsatian
+						primary_culture = saarlander
 						tag = SCH 
 					}
 					in_sphere = THIS
