@@ -1,0 +1,20 @@
+political_decisions = {
+	colonize_patagonia = {
+		potential = {
+			tag = ARG
+			NOT = { 2400 = { owned_by = ARG } }
+		}
+		allow = {
+			state_n_government = 1
+		}
+		effect = {
+			2400 = { secede_province = ARG }
+			2399 = { secede_province = ARG }
+			2398 = { secede_province = ARG }
+			2397 = { secede_province = ARG }
+			2396 = { secede_province = ARG }
+			2392 = { secede_province = ARG }
+			prestige = 5
+		}
+	}
+}

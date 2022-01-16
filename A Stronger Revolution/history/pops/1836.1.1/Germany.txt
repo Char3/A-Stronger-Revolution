@@ -3189,7 +3189,7 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 72100
+		size = 70400
 	}
 
 	aristocrats = {
@@ -3220,6 +3220,30 @@
 		culture = north_german
 		religion = protestant
 		size = 8275
+	}
+	
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 150      
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 500
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 50       
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 1000       
 	}
 
 }
