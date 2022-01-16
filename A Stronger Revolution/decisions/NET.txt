@@ -3,6 +3,7 @@ political_decisions = {
 		picture = belgium_divide
 		potential = { 
 			tag = NET
+			NOT = { accepted_culture = wallonian }
 		}
 		allow = {
 			400 = { owned_by = NET }
@@ -21,6 +22,7 @@ political_decisions = {
 	proclaim_greater_lowlands = {
 		potential = {
 			OR = { tag = BEL tag = NET }
+			NOT = { 399 = { is_core = NET }
 		}
 		allow = {
 			375 = { owned_by = THIS }
