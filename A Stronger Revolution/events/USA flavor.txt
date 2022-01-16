@@ -204,6 +204,7 @@ country_event = {
 			}
 		}
 		inherit = RIO
+		RIO = { end_war = ENG }
 		ai_chance = {
 			factor = 10
 		}

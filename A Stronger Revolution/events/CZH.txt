@@ -64,6 +64,8 @@ country_event = {
 				call_ally = no
 			}
 		}
+		BOH = { end_war = AUS }
+		SLV = { end_war = AUS }
 		ai_chance = {
 			factor = 10
 		}
