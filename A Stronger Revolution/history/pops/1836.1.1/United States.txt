@@ -2656,6 +2656,18 @@
 		religion = animist
 		size = 1800
 	}
+	
+	soldiers = {
+		culture = pennsylvania_dutch
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = pennsylvania_dutch
+		religion = protestant
+		size = 10
+	}
 }
 #Wichita (8000/2000 POPS)
 128 = {
