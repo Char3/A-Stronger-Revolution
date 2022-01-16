@@ -672,6 +672,14 @@ assimilation_chance =
 		country = { primary_culture = turkish }
 	}
 	modifier = {
+    	factor = -1.3
+		OR = { 
+			culture = flemish
+			culture = wallonian
+		}
+		country = { primary_culture = french }
+	}
+	modifier = {
     	factor = -10
 		culture = afro_american
 	}

@@ -225,9 +225,24 @@ navy = {
 		name= "Doggersbank"
 		type = manowar
 	}
+	
+	ship = {
+		name= "Van Buren"
+		type = manowar
+	}
 
 	ship = {
 		name= "Amsterdam"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Brussels"
+		type = manowar
+	}
+	
+	ship = {
+		name= "Vlaanderen"
 		type = manowar
 	}
 

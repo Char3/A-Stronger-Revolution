@@ -1,6 +1,8 @@
 capital = 549
 primary_culture = north_german
 culture = south_german
+culture = alsatian
+culture = baltic_german
 religion = protestant
 government = democracy
 plurality = 0.15
