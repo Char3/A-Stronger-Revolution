@@ -7,6 +7,7 @@ country_event = {
 		NOT = { has_country_flag = texans_blocked }
 		NOT = { tag = USA }
 		NOT = { tag = CSA }
+		NOT = { tag = TEX }
 		any_owned_province = {
 			is_core = TXS
 		}
@@ -114,6 +115,7 @@ country_event = {
 	picture = "Administration"
 	trigger = {
 		tag = TEX
+		NOT = { year = 1842 }
 	}
 	
 	mean_time_to_happen = {
