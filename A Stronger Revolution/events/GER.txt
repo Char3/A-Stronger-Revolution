@@ -9,8 +9,39 @@ country_event = {
 
     option = {
         name = "An honorable agreement."
-		370 = { remove_core = SCA remove_core = DEN secede_province = GER any_pop = { limit = { culture = danish } reduce_pop = 0.5 } any_pop = { limit = { culture = north_german } reduce_pop = 1.10 } }
-		371 = { remove_core = GER secede_province = THIS any_pop = { limit = { culture = danish } reduce_pop = 1.45 } any_pop = { limit = { culture = north_german } reduce_pop = 0.5 } }
+		370 = {
+			remove_core = SCA
+			remove_core = DEN
+			random_country = {
+				limit = {
+					tag = NGF
+					exists = NGF
+					NOT = { exists = GER }
+				}
+				secede_province = NGF
+			}
+			random_country = {
+				limit = {
+					tag = GER
+					exists = GER
+					NOT = { exists = NGF }
+				}
+				secede_province = GER
+			}
+			any_pop = {
+				limit = {
+					culture = danish
+				}
+				reduce_pop = 0.5
+			}
+			any_pop = {
+				limit = {
+					culture = north_german
+				}
+				reduce_pop = 1.10
+			}
+		}
+		371 = { remove_core = GER remove_core = NGF secede_province = SCA any_pop = { limit = { culture = danish } reduce_pop = 1.45 } any_pop = { limit = { culture = north_german } reduce_pop = 0.5 } }
 		set_country_flag = scandinavian_border
     }
 	
