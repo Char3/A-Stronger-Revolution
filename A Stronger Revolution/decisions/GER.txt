@@ -91,4 +91,21 @@ political_decisions = {
 			set_country_flag = scandinavian_border
 		}
 	}
+	integrate_switzerland = {
+		potential = {
+			OR = { tag = GER tag = SGF } 
+			NOT = { accepted_culture = swiss_german }
+		}
+		
+		allow = {
+			invention = national_fraternity 
+			owns = 603
+			owns = 605
+		}
+		
+		effect = {
+			prestige = 5
+			add_accepted_culture = swiss_german
+		}
+	}
 }
