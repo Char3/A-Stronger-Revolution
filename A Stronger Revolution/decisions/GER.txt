@@ -33,7 +33,7 @@ political_decisions = {
 	}
 	scandinavian_border_ger = {
 		potential = {
-			tag = GER
+			OR = { tag = GER tag = NGF }
 			NOT = { has_country_flag = scandinavian_border }
 		}
 		
@@ -72,11 +72,17 @@ political_decisions = {
 		
 		allow = {
 			OR = { owns = 370 owns = 2557 }
-			OR = { GER = { owns = 371 } GER = { owns = 369 } }
+			OR = { GER = { owns = 371 } GER = { owns = 369 } NGF = { owns = 371 } NGF = { owns = 369 } }
 		}
 		
 		effect = {
 			GER = { 
+				country_event = {
+					id = 8098
+					days = 5
+				}
+			}
+			NGF = { 
 				country_event = {
 					id = 8098
 					days = 5

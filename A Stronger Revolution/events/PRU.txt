@@ -1,0 +1,23 @@
+country_event = {
+    id = 3125
+    title = "PRU_event_1_title"
+    desc = "PRU_event_1_desc"
+	picture = "Administration"
+	trigger = {
+		tag = PRU
+		year = 1838
+		NOT = { has_country_flag = bessel } 
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+
+    option = {
+        name = "Another advancement for science at the hands of Prussian scientists."
+		research_points = 550
+		prestige = 2
+		set_country_flag = bessel
+    }
+}
