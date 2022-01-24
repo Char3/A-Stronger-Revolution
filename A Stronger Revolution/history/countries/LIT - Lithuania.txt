@@ -1,8 +1,8 @@
-capital = 706
-primary_culture = polish
+capital = 360
+primary_culture = lithuanian
 culture = ashkenazi
 religion = catholic
-government = democracy
+government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_order
 literacy = 0.6
@@ -11,14 +11,13 @@ civilized = yes
 
 # Political reforms
 slavery = no_slavery
-upper_house_composition = population_equal_weight
-vote_franschise = landed_voting
+upper_house_composition = appointed
+vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = non_secret_ballots
-social_mobility = full_mobility
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -29,19 +28,19 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = POL_conservative
+ruling_party = LIT_conservative
 upper_house = {
 	fascist = 0
-	liberal = 36
-	conservative = 40
-	reactionary = 12
-	anarcho_liberal = 12
+	liberal = 25
+	conservative = 60
+	reactionary = 10
+	anarcho_liberal = 5
 	socialist = 0
 	communist = 0
 }
 
 1861.1.1 = {
-	oob = "/1861/POL_oob.txt"
+	oob = "/1861/LIT_oob.txt"
 }
 1861.1.1 = {
 # Technologies

@@ -3,6 +3,7 @@ primary_culture = czech
 culture = polish
 culture = slovak
 culture = south_german
+culture = ashkenazi
 religion = catholic
 government = democracy
 plurality = 28.0

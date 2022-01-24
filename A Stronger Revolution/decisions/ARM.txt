@@ -8,12 +8,7 @@ political_decisions = {
 			war_policy = jingoism
 		}
 		effect = {
-		853 = { remove_core = GRE }
-		relation = {
-		who = ALB
-		value = 100
-		}
-		badboy = -6
+			853 = { add_core = ARM }
 		}
 		ai_will_do = {
 			factor = 100

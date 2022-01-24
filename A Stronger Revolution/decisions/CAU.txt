@@ -1,0 +1,49 @@
+political_decisions = {
+    form_transcaucasia = {
+        potential = {    
+            OR = { 
+				tag = ARM
+				tag = AZB
+				tag = GEO
+			}
+        }
+        allow = {
+            AZB = { all_core = { OR = { owned_by = THIS owned_by = PER owned_by = TUR } } }
+            ARM = { all_core = { OR = { owned_by = THIS owned_by = PER owned_by = TUR } } }
+            GEO = { all_core = { OR = { owned_by = THIS owned_by = PER owned_by = TUR } } }
+        }
+        effect = {
+			change_tag = TCA
+			any_country = { any_owned = { limit = { OR = { is_core = AZB is_core = ARM is_core = GEO } } add_core = TCA } }
+			THIS = { any_owned = { limit = { OR = { is_core = AZB is_core = ARM is_core = GEO } } add_core = TCA } }
+			add_accepted_culture = azerbaijani
+			add_accepted_culture = armenian
+			add_accepted_culture = georgian
+			any_owned = { 
+				any_pop = {
+					limit = {
+						culture = russian
+					}
+					reduce_pop = 0.5
+				}
+				any_pop = {
+					limit = {
+						NOT = { culture = russian }
+					}
+					reduce_pop = 1.1
+				}
+			}
+			1008 = { 
+				any_pop = {
+					limit = {
+						culture = russian
+					}
+					reduce_pop = 1.01
+				}
+			}
+        }
+        ai_will_do = {
+            factor = 100
+        }
+    }
+}

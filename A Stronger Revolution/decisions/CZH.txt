@@ -20,6 +20,7 @@ political_decisions = {
 			add_core = CZH
 		}
 		add_accepted_culture = polish
+		add_accepted_culture = ashkenazi
 		} 
 	}
 	zap_integrate_ukrainians = {
@@ -99,6 +100,7 @@ political_decisions = {
 			inherit = POL 
 			}
 			add_accepted_culture = polish
+			add_accepted_culture = ashkenazi
 			change_tag = ZAP
 			prestige = 50
 		}
