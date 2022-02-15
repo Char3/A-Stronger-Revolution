@@ -1,0 +1,23 @@
+country_event = {
+    id = 99999
+    title = "Utility"
+    desc = "German Empire"
+	picture = "Administration"
+	
+	trigger = {
+		any_neighbor_country = {
+			invention = german_empire
+		}
+		NOT = { GER = { has_country_modifier = grossdeutschland } }
+		ai = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+    option = {
+        name = "Utility."
+		GER = { add_country_modifier = { name = grossdeutschland duration = -1 } }
+	}
+}

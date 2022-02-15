@@ -8,6 +8,14 @@ government_sanitarium = {
 	icon = 19
 }
 
+grossdeutschland  = {
+	ruling_party_support = 0.1
+	global_immigrant_attract = 0.50
+	research_points_modifier = 0.05
+	tax_efficiency = 0.1
+	icon = 17
+}
+
 ##### TECH SCHOOLS ######
 academic_confusion = {
 	research_points_modifier = -0.01

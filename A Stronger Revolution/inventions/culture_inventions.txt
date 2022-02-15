@@ -1246,6 +1246,30 @@ national_fraternity = {
 		plurality = 0.05
 	}
 }
+german_empire = {
+	limit = { nationalism_n_imperialism = 1 }
+	news = no
+	chance = {
+		base = 0
+		modifier = {
+			factor = 3
+			tag = GER
+			is_greater_power = yes
+			625 = { owned_by = THIS }
+			605 = { owned_by = THIS }
+			619 = { owned_by = THIS }
+			549 = { owned_by = THIS }
+			599 = { owned_by = THIS }
+			706 = { owned_by = THIS }
+		}
+	}
+	effect = {
+		pop_growth = 0.0002
+		rgo_output = 0.05
+		rgo_throughput = 0.05
+		factory_throughput = 0.05
+	}
+}
 biased_multiculturalism = {
 	limit = { nationalism_n_imperialism = 1 }
 	news = no

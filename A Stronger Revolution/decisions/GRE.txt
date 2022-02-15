@@ -67,6 +67,9 @@ political_decisions = {
 				add_core = GRE
 			}
 			set_country_flag = greece_has_got_brand_new_bags
+			any_owned = {
+				remove_core = TUR 
+			}
 		}
 	}
 	

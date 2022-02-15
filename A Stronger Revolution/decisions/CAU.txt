@@ -29,11 +29,13 @@ political_decisions = {
 				any_pop = {
 					limit = {
 						NOT = { culture = russian }
+						NOT = { culture = ukrainian }
+						NOT = { culture = byelorussian }
 					}
 					reduce_pop = 1.1
 				}
 			}
-			1008 = { 
+			994 = { 
 				any_pop = {
 					limit = {
 						culture = russian
@@ -41,6 +43,45 @@ political_decisions = {
 					reduce_pop = 1.01
 				}
 			}
+        }
+        ai_will_do = {
+            factor = 100
+        }
+    }
+	north_caucasia_liberated = {
+        potential = {    
+            tag = CAU
+			NOT = { has_country_flag = northcaucasia_scourge }
+        }
+        allow = {
+            CAU = { all_core = { OR = { owned_by = THIS owned_by = TCA owned_by = CIR owned_by = AZB owned_by = GEO owned_by = ARM } } }
+        }
+        effect = {
+			any_owned = { 
+				any_pop = {
+					limit = {
+						culture = russian
+					}
+					reduce_pop = 0.5
+				}
+				any_pop = {
+					limit = {
+						NOT = { culture = russian }
+						NOT = { culture = ukrainian }
+						NOT = { culture = byelorussian }
+					}
+					reduce_pop = 1.1
+				}
+			}
+			994 = { 
+				any_pop = {
+					limit = {
+						culture = russian
+					}
+					reduce_pop = 1.01
+				}
+			}
+			set_country_flag = northcaucasia_scourge
         }
         ai_will_do = {
             factor = 100

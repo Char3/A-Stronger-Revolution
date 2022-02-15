@@ -11,7 +11,7 @@ tank = {
 	priority = 50
 	max_strength = 3
 	default_organisation = 40
-	maximum_speed = 4.00
+	maximum_speed = 4.20
 	weighted_value = 10.0
 
 
@@ -35,11 +35,11 @@ tank = {
 
 	#Land Abilties
 	reconnaissance = 0
-	attack = 16
+	attack = 18
 	defence = 6
-	discipline = 1
-	support = 0.0
-	maneuver = 1
-	siege = 1
+	discipline = 1.1
+	support = 1.5
+	maneuver = 3
+	siege = 2
 	
 }

@@ -1654,6 +1654,24 @@ lighting = {
 		factory_output = 0.025
 	}
 }
+standardized_timezones = {
+	limit = { time_saving_measures = 1 }
+	news = no
+	chance = {
+		base = 3
+		modifier = {
+			factor = 3
+			economic_policy = laissez_faire
+		}
+		modifier = {
+			factor = 2
+			nationalvalue = nv_libertarian
+		}
+	}
+	effect = {
+		factory_output = 0.030
+	}
+}
 #management_strategy
 old_style_family_business = {
 	limit = { management_strategy = 1 }

@@ -67,10 +67,11 @@ political_decisions = {
 			war_with = FRA
 		}
 		effect = {
-			410 = { add_core = SWI }
-			432 = { add_core = SWI }
 			465 = { add_core = SWI }
 			466 = { add_core = SWI }
+			FRA_451 = {
+				add_core = SWI
+			}
 			set_country_flag = swiss_iridentia_fra
 			prestige = 10
 		}

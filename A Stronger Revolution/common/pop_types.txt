@@ -87,7 +87,7 @@ promotion_chance =
 		not = { religion = this }
 	}
 	modifier = {
-		factor = -0.1
+		factor = 0.1
 		OR = { culture = yankee culture = dixie culture = texan culture = cuban culture = afro_american culture = french_canadian culture = pennsylvania_dutch culture = mayan culture = cherokee }
 	}
 	modifier = {
@@ -382,12 +382,12 @@ migration_chance =
 			location = { controlled_by = owner }
 		}		
 		modifier = {
-			factor = 0.3
+			factor = 0.4
 			unemployment = 0.5
 			location = { controlled_by = owner }
 		}		
 		modifier = {
-			factor = 0.3
+			factor = 0.4
 			unemployment = 0.6
 			location = { controlled_by = owner }
 		}	
@@ -674,6 +674,10 @@ assimilation_chance =
 			culture = kurdish
 		}
 		country = { primary_culture = turkish }
+	}
+	modifier = {
+    	factor = 2
+		culture = turkish
 	}
 	modifier = {
     	factor = -1.3

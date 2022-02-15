@@ -1301,6 +1301,10 @@ ideologies = {
 			NOT = { ruling_party_ideology = communist }
 		}
 		modifier = {
+			factor = 0.9
+			nationalvalue = nv_libertarian
+		}
+		modifier = {
 			factor = 0.5
 			militancy = 6
 		}
@@ -1319,6 +1323,26 @@ ideologies = {
 		modifier = {
 			factor = 1.1	
 			social_reform_want = 0.08
+		}
+		modifier = {
+			factor = 0.95
+			culture = yankee
+		}
+		modifier = {
+			factor = 0.85
+			culture = dixie
+		}
+		modifier = {
+			factor = 0.75
+			culture = texan
+		}
+		modifier = {
+			factor = 0.80
+			culture = pennsylvania_dutch
+		}
+		modifier = {
+			factor = 0.95
+			culture = french_canadian
 		}
 		modifier = {
 			factor = 0.9

@@ -1,6 +1,7 @@
 capital = 425
 primary_culture = french
 culture = french_canadian
+culture = arpitan
 culture = breton
 culture = corsican
 culture = wallonian 
