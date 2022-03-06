@@ -24,6 +24,7 @@ political_decisions = {
 		potential = {	
 			tag = GRE
 			money = 100000
+			NOT = { has_country_flag = athensreno }
 		}
 		allow = {
 			iron_railroad = 1 
@@ -31,6 +32,7 @@ political_decisions = {
 		effect = {
 			834 = { life_rating = 5 }
 			treasury = -100000
+			set_country_flag = athensreno
 		}
 		ai_will_do = {
 			factor = 100

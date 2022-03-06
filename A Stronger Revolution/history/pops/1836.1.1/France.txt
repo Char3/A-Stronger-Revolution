@@ -3775,43 +3775,43 @@
 #Corsica (210000/52500 POPS)
 473 = {
 	aristocrats = {
-		culture = corsican
+		culture = sardinian
 		religion = catholic
 		size = 500
 	}
 
 	officers = {
-		culture = corsican
+		culture = sardinian
 		religion = catholic
 		size = 45
 	}
 
 	bureaucrats = {
-		culture = corsican
+		culture = sardinian
 		religion = catholic
 		size = 90
 	}
 
 	clergymen = {
-		culture = corsican
+		culture = sardinian
 		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = corsican
+		culture = sardinian
 		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
-		culture = corsican
+		culture = sardinian
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = corsican
+		culture = sardinian
 		religion = catholic
 		size = 43100
 	}

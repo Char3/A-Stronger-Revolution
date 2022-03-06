@@ -1,4 +1,4 @@
-rail_focus = { #Now called Colonial Policy
+development_focus = { 
     colonial_immigration = {
         immigrant_attract = 4.0
         pop_militancy_modifier = 0.02
@@ -85,6 +85,44 @@ rail_focus = { #Now called Colonial Policy
             is_overseas = yes
         }
     }
+	
+	support_local_industry = 
+	{
+		local_factory_throughput = 0.1
+		local_artisan_output = 0.1
+		local_ruling_party_support = 0.1
+		icon = 22
+	}
+	
+	support_families = 
+	{
+		population_growth = 0.001
+		assimilation_rate = 0.01
+		ideology = conservative
+		loyalty_value = 0.001
+		pop_militancy_modifier = -0.01
+		icon = 12
+	}
+	
+	assimilate = 
+	{
+		assimilation_rate = 0.1
+		pop_militancy_modifier = 0.03
+		icon = 4
+	}
+	
+	suppress_revolution = 
+	{
+		pop_militancy_modifier = -0.03
+		icon = 4
+	}
+	
+	displace_population = 
+	{
+		immigrant_push = 10
+		immigrant_attract = 10
+		icon = 4
+	}
 }
 
 immigration_focus = 
@@ -215,7 +253,7 @@ promotion_focus =
 
 	promote_soldiers =
 	{
-		soldiers = 0.20 #20% more likeley to become this type
+		soldiers = 0.40 #40% more likeley to become this type
 		icon = 15
 		outliner_show_as_percent = yes
 	}
@@ -325,6 +363,7 @@ production_focus =
 		railroads = 0.5 #Capitalists 50% more likeley to choose railroads
 		icon = 2
 	}
+	
 }
 
 party_loyalty_focus =

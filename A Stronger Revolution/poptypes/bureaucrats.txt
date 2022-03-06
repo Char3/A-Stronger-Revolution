@@ -3,7 +3,6 @@ color = { 136 136 136 }
 strata = middle
 state_capital_only = yes
 
-demote_migrant = yes
 
 rebel =
 {
@@ -53,7 +52,7 @@ everyday_needs = {
 	liquor = 5
 	regular_clothes = 5
 	furniture = 4
-	paper = 5
+	paper = 6
 	glass = 1
 	tobacco = 3
 	tea = 5

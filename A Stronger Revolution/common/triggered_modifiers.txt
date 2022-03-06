@@ -1,0 +1,9 @@
+expelling_population  = {
+	trigger = {
+		any_state = { 
+			has_national_focus = displace_population
+		}
+	}
+	infamy = 0.2
+	icon = 11
+}

@@ -282,7 +282,7 @@ pitts_threshing_machine = {
 	}
 	effect = {
 		rgo_goods_output = {
-			grain = 0.2
+			grain = 0.30
 		}
 		rgo_goods_output = {
 			fruit = 0.2

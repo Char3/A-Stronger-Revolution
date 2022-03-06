@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 capital = 749
 primary_culture = north_italian
 culture = south_italian
-culture = corsican
+culture = sardinian
 religion = catholic
 government = hms_government
 plurality = 0.12
@@ -28,7 +27,6 @@ work_hours = twelve_hours
 safety_regulations = no_safety
 health_care = trinket_health_care
 unemployment_subsidies = no_subsidies
-=======
 capital = 749
 primary_culture = north_italian
 culture = south_italian

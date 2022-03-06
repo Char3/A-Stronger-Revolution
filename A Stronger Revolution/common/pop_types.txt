@@ -1,7 +1,7 @@
 #general promote mtth, same for all pops
 promotion_chance = 
 {
-	factor = 0.25
+	factor = 0.3
 	group = {
 		modifier = {
 			factor = 0.02
@@ -68,7 +68,6 @@ promotion_chance =
 		modifier = {
 			factor = 0.1
 			life_needs = 0.9
-	
 		}
 		modifier = {
 			factor = 0.1
@@ -401,7 +400,7 @@ colonialmigration_chance =
 	factor = 2.5
 
 	modifier = {
-		factor = -0.8
+		factor = -0.5
 		is_primary_culture = no
 		is_accepted_culture = no
 	}
@@ -676,7 +675,23 @@ assimilation_chance =
 		country = { primary_culture = turkish }
 	}
 	modifier = {
-    	factor = 2
+    	factor = 20
+		country = { 
+			OR = { 
+			primary_culture = greek
+			primary_culture = bulgarian
+			primary_culture = bosniak
+			primary_culture = albanian
+			primary_culture = serb
+			primary_culture = romanian
+			primary_culture = armenian
+			primary_culture = kurdish
+			}
+		}
+		culture = turkish 
+	}
+	modifier = {
+    	factor = 4
 		culture = turkish
 	}
 	modifier = {
@@ -779,6 +794,19 @@ conversion_chance =
 			factor = 0.05
 			literacy = 0.6
 		}
+	}
+	
+	modifier = { 
+		factor = -0.8
+		country = { 
+			OR = {
+				primary_culture = yankee
+				primary_culture = texan
+				primary_culture = dixie
+				primary_culture = french_canadian
+			}
+		}
+		NOT = { religion = animist }
 	}
 	
 	modifier = { 

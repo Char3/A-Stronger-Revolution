@@ -566,46 +566,34 @@
 }
 #Arta (220000/55000 POPS)
 825 = {
-	aristocrats = {
-		culture = turkish
-		religion = sunni
-		size = 750
+	soldiers = {
+		culture = yankee
+		religion = orthodox
+		size = 1000
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 650
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 675
-	}
-
-	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = greek
+		religion = orthodox
 		size = 550
 	}
 
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 425
-	}
-
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 2150
+		size = 3105
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 50425
+		size = 6025
 	}
 }
 #Ionian Islands Region (188000)
@@ -1213,6 +1201,12 @@
 		religion = orthodox
 		size = 1100
 	}
+	
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 1100
+	}
 
 	farmers = {
 		culture = greek
@@ -1548,7 +1542,7 @@
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 5950
 	}

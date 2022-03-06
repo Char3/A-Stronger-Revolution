@@ -5,6 +5,12 @@ alliance = {
 	end_date = 1844.1.1
 }
 alliance = {
+	first = USA
+	second = GRE
+	start_date = 1836.1.1
+	end_date = 1848.1.1
+}
+alliance = {
 	first = PRU
 	second = NET
 	start_date = 1836.1.1

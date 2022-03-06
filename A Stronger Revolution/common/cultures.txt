@@ -347,7 +347,7 @@ italian = {
 		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
 		radicalism = 10
 	}
-	corsican = {
+	sardinian = {
 		color = {140 180 140}
 		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
 		Ferdinando Francesco François Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Jacques Leopoldo Lorenzo
