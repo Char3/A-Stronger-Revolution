@@ -1672,6 +1672,18 @@
 		religion = animist
 		size = 1800
 	}
+	
+	soldiers = {
+		culture = pennsylvania_dutch
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = pennsylvania_dutch
+		religion = protestant
+		size = 10
+	}
 }
 #Grand Junction (4000/1000 POPS)
 107 = {
@@ -2534,13 +2546,13 @@
 	soldiers = {
 		culture = yankee
 		religion = protestant
-		size = 125
+		size = 175
 	}
 
 	farmers = {
 		culture = yankee
 		religion = protestant
-		size = 509
+		size = 709
 	}
 }
 #Kansas Region (24000)
@@ -4925,6 +4937,18 @@
 		culture = native_american_minor
 		religion = animist
 		size = 900
+	}
+	
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 10
+	}
+
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 600
 	}
 }
 #Duluth (8000/2000 POPS)

@@ -95,7 +95,7 @@ political_decisions = {
 			3255 = add_core = USA
 			3255 = { secede_province = USA }
 			add_core = 109
-			109 = { secede_province = USA }
+			109 = { secede_province = TEX }
 			129 = { secede_province = USA }
 			129 = add_core = USA
 			130 = add_core = USA

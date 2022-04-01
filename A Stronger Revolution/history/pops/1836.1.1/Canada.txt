@@ -2132,6 +2132,42 @@
 		religion = catholic
 		size = 910
 	}
+	
+	soldiers = {
+		culture = french_canadian
+		religion = catholic
+		size = 20
+	}
+	
+	farmers = {
+		culture = french_canadian
+		religion = catholic
+		size = 400
+	}
+	
+	artisans = {
+		culture = french_canadian
+		religion = catholic
+		size = 20
+	}
+	
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 5
+	}
+	
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 100
+	}
+	
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 10
+	}
 }
 #Pembina (8000/2000 POPS)
 42 = {
@@ -2189,10 +2225,40 @@
 		size = 910
 	}
 	
+	soldiers = {
+		culture = french_canadian
+		religion = catholic
+		size = 100
+	}
+	
 	farmers = {
 		culture = french_canadian
 		religion = catholic
-		size = 910
+		size = 2000
+	}
+	
+	artisans = {
+		culture = french_canadian
+		religion = catholic
+		size = 100
+	}
+	
+	soldiers = {
+		culture = yankee
+		religion = protestant
+		size = 50
+	}
+	
+	farmers = {
+		culture = yankee
+		religion = protestant
+		size = 1000
+	}
+	
+	artisans = {
+		culture = yankee
+		religion = protestant
+		size = 50
 	}
 
 }
