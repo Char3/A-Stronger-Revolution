@@ -11,6 +11,7 @@ country_event = {
 		any_owned_province = {
 			is_core = TXS
 		}
+		132 = { owned_by = TEX }
 	}
 	
 	mean_time_to_happen = {
@@ -47,6 +48,7 @@ country_event = {
 		}
 		NOT = { tag = CSA }
 		in_sphere = USA
+		132 = { owned_by = TEX }
 	}
 	
 	mean_time_to_happen = {

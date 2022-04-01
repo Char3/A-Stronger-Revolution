@@ -427,6 +427,9 @@ political_decisions = {
 			MEX_100 = {
 				add_core = USA
 			}
+			USA_111 = {
+				add_core = USA
+			}
 	
 		}
 	}
