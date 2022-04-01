@@ -89,7 +89,6 @@ country_event = {
 		any_owned_province = {
 			culture = texan
 		}
-		NOT = { year = 1852 }
 		in_sphere = USA
 		NOT = { tag = TEX }
 		NOT = { tag = CSA }
