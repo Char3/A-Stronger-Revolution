@@ -8,6 +8,7 @@ country_event = {
 		NOT = { tag = USA }
 		NOT = { tag = CSA }
 		NOT = { tag = TEX }
+		NOT = { year = 1842 }
 		any_owned_province = {
 			is_core = TXS
 		}
