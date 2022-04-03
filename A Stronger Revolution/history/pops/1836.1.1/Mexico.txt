@@ -544,9 +544,9 @@
 		size = 2700
 	}
 }
-#Coahuila Region (160000)
+#Coahuila y Nuevo Leon Region (160000)
 #ruled by Mexico 1836
-#Morelos (12000/3000 POPS)
+#Anhahuac (12000/3000 POPS)
 2147 = {
 	aristocrats = {
 		culture = mexican
@@ -1270,7 +1270,7 @@
 		size = 6325
 	}
 }
-#Zacatecas-Aguascalientes Region (568000)
+#Zacatecas-Arandas Region (568000)
 #ruled by Mexico 1836
 #Zacatecas (340000/85000 POPS)
 2158 = {
@@ -1340,7 +1340,7 @@
 		size = 40200
 	}
 }
-#Aguascalientes (152000/38000 POPS)
+#Arandas (152000/38000 POPS)
 2160 = {
 	aristocrats = {
 		culture = mexican
@@ -1704,7 +1704,7 @@
 		size = 9350
 	}
 }
-#Tampico (80000/20000 POPS)
+#Altamira (80000/20000 POPS)
 2163 = {
 	aristocrats = {
 		culture = mexican
@@ -1760,7 +1760,7 @@
 		size = 16850
 	}
 }
-#Minatitlan (48000/12000 POPS)
+#Catemaco (48000/12000 POPS)
 2164 = {
 	aristocrats = {
 		culture = mexican
@@ -2006,7 +2006,7 @@
 }
 #Michoacan Region (568000)
 #ruled by Mexico 1836
-#Colima (108000/27000 POPS)
+#Maruata (108000/27000 POPS)
 2169 = {
 	aristocrats = {
 		culture = mexican
@@ -2106,7 +2106,7 @@
 		size = 33650
 	}
 }
-#Los Alaniles (112000/28000 POPS)
+#Atoyac (112000/28000 POPS)
 2171 = {
 	aristocrats = {
 		culture = mexican
@@ -2164,7 +2164,7 @@
 }
 #Mexico Region (720000)
 #ruled by Mexico 1836
-#Mexico City (508000/127000 POPS)
+#Distrito Federal (508000/127000 POPS)
 2172 = {
 	aristocrats = {
 		culture = mexican
@@ -2686,7 +2686,7 @@
 }
 #Chiapas Region (124000)
 #ruled by Mexico 1836
-#Tuxtla (84000/21000 POPS)
+#Palenque (84000/21000 POPS)
 2181 = {
 	aristocrats = {
 		culture = mexican

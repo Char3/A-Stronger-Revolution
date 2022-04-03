@@ -3284,7 +3284,7 @@
 		size = 225
 	}
 }
-#Laredo (6000/1500 POPS)
+#Carrizo Springs (6000/1500 POPS)
 138 = {
 	aristocrats = {
 		culture = native_american_minor
