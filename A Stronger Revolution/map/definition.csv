@@ -2137,7 +2137,7 @@ province;red;green;blue;x;x
 2136;32;239;1;Canary Islands;x
 2137;223;80;192;Hermosillo;x
 2138;32;80;64;Loreto;x
-2139;33;170;157;Rosarito;x
+2139;0;136;130;Rosarito;x
 2140;96;208;192;Nogales;x
 2141;223;208;192;Guaymas;x
 2142;0;48;128;Chihuahua;x
@@ -3257,33 +3257,33 @@ province;red;green;blue;x;x
 3256;90;120;90;Saguenay;x
 3257;57;14;236;Nimruz;x
 3258;250;100;70;Ansbach;x
-3259;;;Santa Maria Del Oro;x
-3260;;;Victoria de Durango;x
-3261;;;Tamazula de Victoria;x
-3262;;;Laredo;x
-3263;;;Piedras Negras;x
-3264;;;Mazapil;x
-3265;;;Sombrerete;x
-3266;;;Ojocaliente;x
-3267;;;Orange Walk;x
-3268;;;Guasave;x
-3269;;;San Felipe;x
-3270;;;Tijuana;x
-3271;;;La Paz;x
-3272;;;Ciudad Obregon;x
-3273;;;Aguascalientes;x
-3274;;;Minatitlan;x
-3275;;;Tuxtla Gutierrez;x
-3276;;;Tampico;x
-3277;;;Colima;x
-3278;;;Tlaxcala;x
-3279;;;Nazas;x
-3280;;;Jaumave;x
-3281;;;Bocabarra;x
-3282;;;Matehuala;x
-3283;;;Ciudad Valles;x
-3284;;;Escarcega;x
-3285;;;Cancun;x
+3259;147;14;232;Santa Maria Del Oro;x
+3260;54;14;202;Victoria de Durango;x
+3261;114;176;128;Tamazula de Victoria;x
+3262;48;97;145;Laredo;x
+3263;128;140;128;Piedras Negras;x
+3264;155;103;35;Mazapil;x
+3265;132;137;35;Sombrerete;x
+3266;155;72;35;Ojocaliente;x
+3267;208;127;36;Orange Walk;x
+3268;89;112;1;Guasave;x
+3269;33;170;157;San Felipe;x
+3270;33;170;109;Tijuana;x
+3271;32;97;100;La Paz;x
+3272;54;45;212;Ciudad Obregon;x
+3273;42;82;69;Aguascalientes;x
+3274;189;89;89;Minatitlan;x
+3275;148;124;142;Tuxtla Gutierrez;x
+3276;117;240;127;Tampico;x
+3277;109;139;163;Colima;x
+3278;84;25;20;Tlaxcala;x
+3279;27;48;128;Nazas;x
+3280;63;182;60;Jaumave;x
+3281;51;85;121;Bocabarra;x
+3282;80;92;128;Matehuala;x
+3283;80;92;91;Ciudad Valles;x
+3284;219;209;176;Escarcega;x
+3285;63;106;118;Cancun;x
 ;59;14;244;x;
 ;60;14;248;x;
 ;61;14;232;x;
