@@ -1068,9 +1068,9 @@
 		size = 130
 	}
 }
-#Durango-Sinaloa Region (252000)
+#Mezquital-Sinaloa Region (252000)
 #ruled by Mexico 1836
-#Durango (64000/16000 POPS)
+#Mezquital (64000/16000 POPS)
 2153 = {
 	aristocrats = {
 		culture = mexican
@@ -1132,7 +1132,7 @@
 		size = 1800
 	}
 }
-#Santa Maria del Oro (44000/11000 POPS)
+#Mapimi (44000/11000 POPS)
 2154 = {
 	aristocrats = {
 		culture = mexican

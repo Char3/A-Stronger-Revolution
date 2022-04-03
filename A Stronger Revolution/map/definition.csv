@@ -136,7 +136,7 @@ province;red;green;blue;x;x
 135;0;176;192;Lubbock;x
 136;208;128;112;El Paso;x
 137;128;176;64;San Antonio;x
-138;0;48;192;Laredo;x
+138;0;48;192;Carrizo Springs;x
 139;76;108;123;New Orleans;x
 140;79;163;196;Baton Rouge;x
 141;192;240;128;Lake Charles;x
@@ -2145,32 +2145,32 @@ province;red;green;blue;x;x
 2144;128;176;1;Delicias;x
 2145;96;80;192;Parral;x
 2146;169;134;32;Monterrey;x
-2147;0;176;1;Morelos;x
+2147;0;176;1;Anhahuac;x
 2148;76;155;77;Reynosa;x
 2149;128;48;192;Matamoros;x
 2150;80;239;128;Ciudad Victoria;x
 2151;192;48;1;Saltillo;x
 2152;128;176;128;Monclova;x
-2153;64;48;128;Durango;x
-2154;0;176;128;Santa Maria del Oro;x
+2153;64;48;128;Mezquital;x
+2154;0;176;128;Mapimi;x
 2155;192;176;1;Torreon;x
 2156;192;176;128;Mazatlan;x
 2157;0;112;1;Culiacan;x
 2158;155;137;35;Zacatecas;x
 2159;80;48;128;San Luis Potosi;x
-2160;80;176;128;Aguascalientes;x
+2160;80;176;128;Arandas;x
 2161;80;176;0;Tepic;x
 2162;68;119;144;Veracruz;x
-2163;208;239;128;Tampico;x
-2164;144;48;192;Mintatitlan;x
+2163;208;239;128;Altamira;x
+2164;144;48;192;Catemaco;x
 2165;16;176;192;Villahermosa;x
 2166;16;112;1;Guadalajara;x
 2167;208;176;128;Guanajuato;x
 2168;144;176;128;Puerto Vallarta;x
-2169;144;112;1;Colima;x
+2169;144;112;1;Maruata;x
 2170;16;239;1;Morelia;x
-2171;1;239;180;Los Alaniles;x
-2172;90;76;91;Mexico City;x
+2171;1;239;180;Atoyac;x
+2172;90;76;91;Distrito Federal;x
 2173;208;48;128;Queretaro;x
 2174;144;48;64;Toluca;x
 2175;16;176;128;Tulacingo;x
@@ -2179,7 +2179,7 @@ province;red;green;blue;x;x
 2178;144;176;64;Collataro;x
 2179;192;192;112;Acapuilco;x
 2180;223;80;64;Chilpancingo;x
-2181;208;48;64;Tuxtla;x
+2181;208;48;64;Palenque;x
 2182;16;48;192;Tapachula;x
 2183;80;48;192;Merida;x
 2184;219;133;176;Campeche;x
@@ -2197,7 +2197,7 @@ province;red;green;blue;x;x
 2196;144;112;128;Puerto Lempira;x
 2197;144;112;192;Managua;x
 2198;16;239;192;Rivas;x
-2199;16;112;192;León;x
+2199;16;112;192;Leï¿½n;x
 2200;16;112;128;Bluefields;x
 2201;16;239;128;San Jose;x
 2202;216;131;105;Liberia;x
@@ -2701,17 +2701,17 @@ province;red;green;blue;x;x
 2700;10;120;195;Usogorsk;x
 2701;94;15;21;Cunyja;x
 2702;4;78;135;Aralsk;x
-2703;1;200;200;Vänern;x
-2704;2;200;250;Vättern;x
+2703;1;200;200;Vï¿½nern;x
+2704;2;200;250;Vï¿½ttern;x
 2705;3;220;250;Gulf of Bothnia;x
-2706;4;250;250;Ålands Hav;x
+2706;4;250;250;ï¿½lands Hav;x
 2707;5;200;200;Gulf of Finland;x
 2708;6;200;250;Western Baltic Sea;x
 2709;7;220;250;Gulf of Riga;x
 2710;8;250;250;Southern Baltic Sea;x
-2711;9;200;200;Öresund;x
+2711;9;200;200;ï¿½resund;x
 2712;10;200;250;Kattegat;x
-2713;11;220;250;Peipsi Järv;x
+2713;11;220;250;Peipsi Jï¿½rv;x
 2714;12;250;250;Ladoga;x
 2715;13;200;200;Onega;x
 2716;14;200;250;White Sea;x
@@ -2960,7 +2960,7 @@ province;red;green;blue;x;x
 2959;1;202;202;Apalachee Bay;x
 2960;2;202;252;Mobile Bay;x
 2961;3;222;252;Galveston Bay;x
-2962;4;252;252;Tampico Bay;x
+2962;4;252;252;Altamira Bay;x
 2963;5;202;202;Yucatan Sea;x
 2964;6;202;252;Gulf of Mexico;x
 2965;7;222;252;Yucatan Channel;x
@@ -3257,6 +3257,33 @@ province;red;green;blue;x;x
 3256;90;120;90;Saguenay;x
 3257;57;14;236;Nimruz;x
 3258;250;100;70;Ansbach;x
+3259;;;Santa Maria Del Oro;x
+3260;;;Victoria de Durango;x
+3261;;;Tepehuanes;x
+3262;;;Laredo;x
+3263;;;Piedras Negras;x
+3264;;;Mazapil;x
+3265;;;Sombrerete;x
+3266;;;Ojocaliente;x
+3267;;;Orange Walk;x
+3268;;;Guasave;x
+3269;;;San Felipe;x;
+3270;;;Tijuana;x
+3271;;;La Paz;x
+3272;;;Ciudad Obregon;x
+3273;;;Aguascalientes;x
+3274;;;Minatitlan;x
+3275;;;Tuxtla Gutierrez;x
+3276;;;Tampico;x;
+3277;;;Colima;x
+3278;;;Tlaxcala;x
+3279;;;Nazas;x
+3280;;;Jaumave;x
+3281;;;Bocabarra;x
+3282;;;Matehuala;x
+3283;;;Ciudad Valles;x
+3284;;;Escarcega;x
+3285;;;Cancun;x
 ;59;14;244;x;
 ;60;14;248;x;
 ;61;14;232;x;
