@@ -123071,3 +123071,1243 @@
     }
 
 }
+
+# Santa Maria Del Oro
+3259 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Victoria de Durango
+3260 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Tamazula de Victoria
+3261 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Laredo
+3262 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Piedras Negras
+3263 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Mazapil
+3264 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Sombrerete
+3265 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Ojocaliente
+3266 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Orange Walk
+3267 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Guasave
+3268 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# San Felipe
+3269 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Tijuana
+3270 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# La Paz
+3271 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Ciudad Obregon
+3272 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Aguascalientes
+3273 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Minatitlan
+3274 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Tuxtla Gutierrez
+3275 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+# Tampico
+3276 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Colima
+3277 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Tlaxcala
+3278 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Nazas
+3279 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Jaumave
+3280 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Bocabarra
+3281 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Matehuala
+3282 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Ciudad Valles
+3283 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+# Escarcega
+3284 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
+
+# Cancun
+3285 = {
+    unit = {
+        x = 2974.000000
+        y = 1610.400024
+    }
+
+    text_position = {
+        x = 2972.000000
+        y = 1607.000000
+    }
+
+    text_scale = 1.50000
+    building_construction = {
+        x = 2969.300049
+        y = 1608.099976
+    }
+
+    military_construction = {
+        x = 2969.899902
+        y = 1603.599976
+    }
+
+    factory = {
+        x = 2970.899902
+        y = 1605.599976
+    }
+
+    building_position = {
+        fort = {
+            x = 2972.899902
+            y = 1608.599976
+        }
+
+    }
+
+    spawn_railway_track = {
+        {
+            x = 2966.902832
+            y = 1603.099976
+        }
+
+    }
+
+}
