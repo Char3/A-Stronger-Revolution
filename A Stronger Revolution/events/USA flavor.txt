@@ -61,6 +61,10 @@ country_event = {
 		2137 = { add_core = USA secede_province = USA }
 		2140 = { add_core = USA secede_province = USA }
 		2141 = { add_core = USA secede_province = USA }
+		3272 = { add_core = USA secede_province = USA }
+		3270 = { add_core = USA secede_province = USA }
+		3271 = { add_core = USA secede_province = USA }
+		3269 = { add_core = USA secede_province = USA }
 		MEX = {
 		country_event = { id=26652 days=0 }
 		}
@@ -114,6 +118,9 @@ country_event = {
 		2184 = { owned_by = YUC }
 		2185 = { owned_by = YUC }
 		2183 = { owned_by = YUC }
+		3285 = { owned_by = YUC }
+		2165 = { owned_by = YUC }
+		3284 = { owned_by = YUC }
 	}
 	
 	mean_time_to_happen = {
@@ -233,6 +240,10 @@ country_event = {
 		2184 = { owned_by = YUC }
 		2185 = { owned_by = YUC }
 		2183 = { owned_by = YUC }
+		3285 = { owned_by = YUC }
+		2165 = { owned_by = YUC }
+		3284 = { owned_by = YUC }
+		2183 = { owned_by = YUC }
 	}
 	
 	mean_time_to_happen = {
@@ -324,6 +335,7 @@ country_event = {
 	option = {
 		name = "Excellent"
 		2190 = { secede_province = USA add_core = USA }
+		3267 = { secede_province = USA add_core = USA }
 	}
 }
 

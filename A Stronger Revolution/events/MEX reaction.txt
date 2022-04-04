@@ -38,6 +38,9 @@ country_event = {
 		2165 = { secede_province = YUC add_core = YUC }
 		2181 = { secede_province = YUC add_core = YUC }
 		2182 = { secede_province = YUC add_core = YUC }
+		3285 = { secede_province = YUC add_core = YUC }
+		3284 = { secede_province = YUC add_core = YUC }
+		2183 = { secede_province = YUC add_core = YUC }
 		YUC = {
 		capital = 2183
 			any_pop = {
@@ -77,13 +80,16 @@ country_event = {
 	option = {
 		name = "The Texans shall not win this time!"
 		set_country_flag = rio_grande_rebellion
-		2144 = { secede_province = RIO add_core = RIO }
 		2152 = { secede_province = RIO add_core = RIO }
 		2147 = { secede_province = RIO add_core = RIO }
 		2146 = { secede_province = RIO add_core = RIO }
 		2150 = { secede_province = RIO add_core = RIO }
+		2151 = { secede_province = RIO add_core = RIO }
+		2155 = { secede_province = RIO add_core = RIO }
 		2149 = { secede_province = RIO add_core = RIO }
 		2148 = { secede_province = RIO add_core = RIO }
+		2148 = { secede_province = RIO add_core = RIO }
+		2163 = { secede_province = RIO add_core = RIO }
 		RIO = {
 		capital = 2148
 			any_pop = {
