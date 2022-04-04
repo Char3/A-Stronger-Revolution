@@ -90,6 +90,7 @@ country_event = {
 		2148 = { secede_province = RIO add_core = RIO }
 		2148 = { secede_province = RIO add_core = RIO }
 		2163 = { secede_province = RIO add_core = RIO }
+		RIO = {
 		capital = 2148
 			any_pop = {
 				limit = { type = soldiers }
