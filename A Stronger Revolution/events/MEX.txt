@@ -133,6 +133,20 @@ country_event = {
 		2148 = { secede_province = RIO add_core = RIO }
 		2148 = { secede_province = RIO add_core = RIO }
 		2163 = { secede_province = RIO add_core = RIO }
+		3260 = { secede_province = RIO add_core = RIO }
+		3259 = { secede_province = RIO add_core = RIO }
+		3261 = { secede_province = RIO add_core = RIO }
+		3279 = { secede_province = RIO add_core = RIO }
+		2158 = { secede_province = RIO add_core = RIO }
+		3264 = { secede_province = RIO add_core = RIO }
+		3265 = { secede_province = RIO add_core = RIO }
+		3266 = { secede_province = RIO add_core = RIO }
+		2144 = { secede_province = RIO add_core = RIO }
+		2143 = { secede_province = RIO add_core = RIO }
+		2145 = { secede_province = RIO add_core = RIO }
+		3273 = { secede_province = RIO add_core = RIO }
+		104 = { secede_province = RIO add_core = RIO }
+		3280 = { secede_province = RIO add_core = RIO }
 		RIO = {
 		capital = 2148
 			any_pop = {
