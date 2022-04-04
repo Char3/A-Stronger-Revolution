@@ -2560,7 +2560,7 @@
 }
 #Guerrero Region (246000)
 #ruled by Mexico 1836
-#Acapulco (156000/44000 POPS)
+#Marquelia (156000/44000 POPS)
 2179 = {
 	aristocrats = {
 		culture = mexican
