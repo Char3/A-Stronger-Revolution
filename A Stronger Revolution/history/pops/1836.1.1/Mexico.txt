@@ -1874,7 +1874,7 @@
 }
 #Jalisco Region (448000)
 #ruled by Mexico 1836
-#Guadalajara (300000/75000 POPS)
+#Zamora de Hidalgo (300000/75000 POPS)
 2166 = {
 	aristocrats = {
 		culture = mexican
@@ -2880,7 +2880,7 @@
 		size = 36525
 	}
 }
-#Camnpeche (108000/27000 POPS)
+#Campeche (108000/27000 POPS)
 2184 = {
 	aristocrats = {
 		culture = mexican
