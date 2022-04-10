@@ -2,6 +2,6 @@ owner = RUS
 controller = RUS
 add_core = CIR
 add_core = CAU
-add_Core = GEO
+add_core = GEO
 trade_goods = silk
 life_rating = 35

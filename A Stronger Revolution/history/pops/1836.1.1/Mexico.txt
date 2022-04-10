@@ -3234,7 +3234,7 @@
 		culture = mexican
 		religion = catholic
 		size = 490
-
+	}
 	clergymen = {
 		culture = native_american_minor
 		religion = animist
