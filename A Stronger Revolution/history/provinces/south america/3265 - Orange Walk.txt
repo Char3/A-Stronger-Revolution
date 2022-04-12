@@ -1,0 +1,8 @@
+owner = ENG
+controller = ENG
+add_core = GUA
+add_core = UCA
+add_core = MEX
+trade_goods = sugar
+life_rating = 30
+colonial = 2
