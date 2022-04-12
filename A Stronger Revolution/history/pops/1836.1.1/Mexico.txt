@@ -544,9 +544,9 @@
 		size = 2700
 	}
 }
-#Coahuila y Nuevo Leon Region (160000)
+#Coahuila Region (160000)
 #ruled by Mexico 1836
-#Anhahuac (12000/3000 POPS)
+#Morelos (12000/3000 POPS)
 2147 = {
 	aristocrats = {
 		culture = mexican
@@ -808,7 +808,7 @@
 }
 #Nuevo Leon-Tamaulipas Region (172000)
 #ruled by Mexico 1836
-#Galeana (104000/26000 POPS)
+#Monterrey (104000/26000 POPS)
 2146 = {
 	aristocrats = {
 		culture = mexican
@@ -900,7 +900,7 @@
 		size = 500
 	}
 }
-#Monterrey (16000/4000 POPS)
+#Reynosa (16000/4000 POPS)
 2148 = {
 	aristocrats = {
 		culture = mexican
@@ -1068,10 +1068,10 @@
 		size = 130
 	}
 }
-#Mezquital-Sinaloa Region (252000)
+#Durango-Sinaloa Region (252000)
 #ruled by Mexico 1836
-#V De Durango (64000/16000 POPS)
-3260 = {
+#Durango (64000/16000 POPS)
+2153 = {
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -1133,7 +1133,7 @@
 	}
 }
 #Santa Maria del Oro (44000/11000 POPS)
-3259 = {
+2154 = {
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -1270,7 +1270,7 @@
 		size = 6325
 	}
 }
-#Zacatecas-Arandas Region (568000)
+#Zacatecas-Aguascalientes Region (568000)
 #ruled by Mexico 1836
 #Zacatecas (340000/85000 POPS)
 2158 = {
@@ -1340,7 +1340,7 @@
 		size = 40200
 	}
 }
-#Arandas (152000/38000 POPS)
+#Aguascalientes (152000/38000 POPS)
 2160 = {
 	aristocrats = {
 		culture = mexican
@@ -1704,8 +1704,8 @@
 		size = 9350
 	}
 }
-#Altamira (80000/20000 POPS)
-3276 = {
+#Tampico (80000/20000 POPS)
+2163 = {
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -1760,7 +1760,7 @@
 		size = 16850
 	}
 }
-#Catemaco (48000/12000 POPS)
+#Minatitlan (48000/12000 POPS)
 2164 = {
 	aristocrats = {
 		culture = mexican
@@ -1874,7 +1874,7 @@
 }
 #Jalisco Region (448000)
 #ruled by Mexico 1836
-#Zamora de Hidalgo (300000/75000 POPS)
+#Guadalajara (300000/75000 POPS)
 2166 = {
 	aristocrats = {
 		culture = mexican
@@ -2006,7 +2006,7 @@
 }
 #Michoacan Region (568000)
 #ruled by Mexico 1836
-#Maruata (108000/27000 POPS)
+#Colima (108000/27000 POPS)
 2169 = {
 	aristocrats = {
 		culture = mexican
@@ -2106,7 +2106,7 @@
 		size = 33650
 	}
 }
-#Atoyac (112000/28000 POPS)
+#Los Alaniles (112000/28000 POPS)
 2171 = {
 	aristocrats = {
 		culture = mexican
@@ -2164,7 +2164,7 @@
 }
 #Mexico Region (720000)
 #ruled by Mexico 1836
-#Distrito Federal (508000/127000 POPS)
+#Mexico City (508000/127000 POPS)
 2172 = {
 	aristocrats = {
 		culture = mexican
@@ -2560,7 +2560,7 @@
 }
 #Guerrero Region (246000)
 #ruled by Mexico 1836
-#Marquelia (156000/44000 POPS)
+#Acapulco (156000/44000 POPS)
 2179 = {
 	aristocrats = {
 		culture = mexican
@@ -2686,8 +2686,8 @@
 }
 #Chiapas Region (124000)
 #ruled by Mexico 1836
-#Tuxtla Gutierrez (84000/21000 POPS)
-3275 = {
+#Tuxtla (84000/21000 POPS)
+3264 = {
 	aristocrats = {
 		culture = mexican
 		religion = catholic
@@ -2880,7 +2880,7 @@
 		size = 36525
 	}
 }
-#Campeche (108000/27000 POPS)
+#Camnpeche (108000/27000 POPS)
 2184 = {
 	aristocrats = {
 		culture = mexican
@@ -2993,800 +2993,13 @@
 	}
 
 }
-#San Felipe
-3269 = {
+
+#Escarcega (92000/23000 POPS)
+3260 = {
 	aristocrats = {
 		culture = mexican
 		religion = catholic
-		size = 35
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 1
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 1
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 875
-	}
-
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 900
-	}
-}
-
-#Tijuana
-3270 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 20
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 8
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 1
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 85
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 980
-	}
-
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 10
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 1000
-	}
-}
-#Ciudad Obregon
-3272 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 125
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 20
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 3225
-	}
-
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 1350
-	}
-}
-#La paz
-3271 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 10
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 20
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 15
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 490
-	}
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 200
-	}
-}
-#Aguascalientes
-3273 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 10
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 95
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 15
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 129
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 2900
-	}
-}
-#Guasave
-3268 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 790
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 75
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 50
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 300
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 800
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 2620
-	}
-}
-#Ojocaliente
-3266 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 896
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 225
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 175
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 425
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 1890
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 425
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 11560
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 200
-	}
-
-	artisans = {
-		culture = nahua
-		religion = catholic
-		size = 1260
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 450
-	}
-
-	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 8600
-	}
-}
-#Sombrerete
-3265 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 200
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 225
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 175
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 425
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 880
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 425
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 6708
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 200
-	}
-
-	artisans = {
-		culture = nahua
-		religion = catholic
-		size = 786
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 450
-	}
-
-	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 3955
-	}
-}
-#Mazapil
-3264 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 256
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 80
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 68
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 290
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 950
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 425
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 2504
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 200
-	}
-
-	artisans = {
-		culture = nahua
-		religion = catholic
-		size = 1099
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 450
-	}
-
-	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 2070
-	}
-}
-#Piedras Negras 
-3263 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 275
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 490
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 125
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 2604
-	}
-	
-	soldiers = {
-		culture = texan
-		religion = protestant
-		size = 26
-	}
-
-	farmers = {
-		culture = texan
-		religion = protestant
-		size = 540
-	}
-	
-	soldiers = {
-		culture = texan
-		religion = catholic
-		size = 26
-	}
-
-	farmers = {
-		culture = texan
-		religion = catholic
-		size = 550
-	}
-}
-#Tamazula
-3261 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 225
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 3753
-	}
-
-	aristocrats = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = native_american_minor
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = native_american_minor
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = native_american_minor
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = native_american_minor
-		religion = animist
-		size = 985
-	}
-}
-#Mapimi
-2154 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 120
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 201
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 1481
-	}
-
-	aristocrats = {
-		culture = nahua
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nahua
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = nahua
-		religion = animist
-		size = 499
-	}
-}
-#Mezquital
-2153 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 120
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 201
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 323
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 2954
-	}
-
-	aristocrats = {
-		culture = nahua
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nahua
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = nahua
-		religion = animist
-		size = 1024
-	}
-}
-#Altamira
-2163 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 425
+		size = 475
 	}
 
 	clergymen = {
@@ -3798,326 +3011,219 @@
 	artisans = {
 		culture = mexican
 		religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 1175
+	}
+
+	clergymen = {
+		culture = mayan
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = mayan
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = mayan
+		religion = catholic
+		size = 225
+	}
+
+	farmers = {
+		culture = mayan
+		religion = catholic
+		size = 10034
+	}
+
+}
+
+#Campeche (108000/27000 POPS)
+3261 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
 		size = 100
 	}
 
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 3507
+		size = 3125
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
-		size = 50
+		size = 100
 	}
 
 	artisans = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
-		size = 753
+		size = 900
 	}
 
 	soldiers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = nahua
+		culture = mayan
 		religion = catholic
-		size = 2104
+		size = 6312
 	}
 }
-#Colima 
-3277 = {
+
+#Collataro (100000/25000 POPS)
+3262 = {
 	aristocrats = {
 		culture = mexican
 		religion = catholic
-		size = 124
+		size = 525
 	}
 
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 43
+		size = 150
 	}
 
 	artisans = {
 		culture = mexican
 		religion = catholic
-		size = 46
+		size = 250
 	}
 
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 25
+		size = 50
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 379
+		size = 706
 	}
 
 	clergymen = {
-		culture = nahua
+		culture = zapotec
 		religion = catholic
-		size = 50
+		size = 100
 	}
 
 	artisans = {
-		culture = nahua
+		culture = zapotec
+		religion = catholic
+		size = 432
+	}
+
+	soldiers = {
+		culture = zapotec
 		religion = catholic
 		size = 200
 	}
 
+	farmers = {
+		culture = zapotec
+		religion = catholic
+		size = 6023
+	}
+}
+
+#Collataro (100000/25000 POPS)
+3263 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 353
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 250
+	}
+
 	soldiers = {
-		culture = nahua
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 1040
-	}
-}
-#Tlaxcala
-3278 = {
-	aristocrats = {
 		culture = mexican
 		religion = catholic
-		size = 350
+		size = 952
 	}
 
 	clergymen = {
-		culture = mexican
+		culture = zapotec
 		religion = catholic
-		size = 216
+		size = 100
 	}
 
 	artisans = {
-		culture = mexican
+		culture = zapotec
 		religion = catholic
-		size = 46
+		size = 1100
 	}
 
 	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 2562
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = nahua
+		culture = zapotec
 		religion = catholic
 		size = 200
 	}
 
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
 	farmers = {
-		culture = nahua
+		culture = zapotec
 		religion = catholic
-		size = 1480
+		size = 2510
 	}
 }
-#Nazas
-3279 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 146
-	}
 
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 43
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 46
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 685
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = nahua
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 1950
-	}
-}
-#Jaumave
-3280 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 124
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 43
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 46
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 3520
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = nahua
-		religion = catholic
-		size = 170
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 345
-	}
-}
-#Minatitlan
-3274 = {
-	aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 124
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 296
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 46
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 759
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 4064
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = nahua
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 2012
-	}
-}
-#Palenque
+#Palenque (84000/21000 POPS)
 2181 = {
 	aristocrats = {
 		culture = mexican
@@ -4140,74 +3246,6 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 532
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 5543
-	}
-
-	clergymen = {
-		culture = mayan
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = mayan
-		religion = catholic
-		size = 850
-	}
-
-	soldiers = {
-		culture = mayan
-		religion = catholic
-		size = 175
-	}
-
-	farmers = {
-		culture = mayan
-		religion = catholic
-		size = 3785
-	}
-}
-#Bocabarra
-3281 = {
-aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 450
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
 		size = 150
 	}
 
@@ -4226,211 +3264,7 @@ aristocrats = {
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 1420
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = nahua
-		religion = catholic
-		size = 850
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 175
-	}
-
-	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 4120
-	}
-}
-#Matehuala
-3282 = {
-aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 450
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 150
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 2590
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = nahua
-		religion = catholic
-		size = 300
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 175
-	}
-
-	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 3270
-	}
-}
-#Ciudad Valles
-3283 = {
-aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 450
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 150
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 1160
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = nahua
-		religion = catholic
-		size = 201
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 175
-	}
-
-	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 2160
-	}
-}
-#Escarcega
-3284 = {
-aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 450
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 150
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 1231
+		size = 2513
 	}
 
 	clergymen = {
@@ -4442,7 +3276,7 @@ aristocrats = {
 	artisans = {
 		culture = mayan
 		religion = catholic
-		size = 438
+		size = 432
 	}
 
 	soldiers = {
@@ -4454,118 +3288,6 @@ aristocrats = {
 	farmers = {
 		culture = mayan
 		religion = catholic
-		size = 2660
-	}
-}
-#Cancun
-3285 = {
-aristocrats = {
-		culture = mexican
-		religion = catholic
-		size = 450
-	}
-
-	bureaucrats = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	officers = {
-		culture = mexican
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = mexican
-		religion = catholic
-		size = 150
-	}
-
-	artisans = {
-		culture = mexican
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = mexican
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 3220
-	}
-
-	clergymen = {
-		culture = nahua
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = nahua
-		religion = catholic
-		size = 376
-	}
-
-	soldiers = {
-		culture = nahua
-		religion = catholic
-		size = 175
-	}
-
-	farmers = {
-		culture = nahua
-		religion = catholic
-		size = 5120
-	}
-}
-#Orange Walk
-3267 = {
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 15
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 100
-	}
-
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 10
-	}
-
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 1650
-	}
-
-	farmers = {
-		culture = mexican
-		religion = catholic
-		size = 567
-	}
-
-	farmers = {
-		culture = mayan
-		religion = animist
-		size = 212
+		size = 2515
 	}
 }

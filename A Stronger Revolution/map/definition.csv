@@ -136,7 +136,7 @@ province;red;green;blue;x;x
 135;0;176;192;Lubbock;x
 136;208;128;112;El Paso;x
 137;128;176;64;San Antonio;x
-138;94;0;0;Carrizo Springs;x
+138;0;48;192;Laredo;x
 139;76;108;123;New Orleans;x
 140;79;163;196;Baton Rouge;x
 141;192;240;128;Lake Charles;x
@@ -2137,49 +2137,49 @@ province;red;green;blue;x;x
 2136;32;239;1;Canary Islands;x
 2137;223;80;192;Hermosillo;x
 2138;32;80;64;Loreto;x
-2139;0;136;130;Rosarito;x
+2139;33;170;157;Rosarito;x
 2140;96;208;192;Nogales;x
 2141;223;208;192;Guaymas;x
 2142;0;48;128;Chihuahua;x
 2143;128;48;128;Paso del Norte;x
 2144;128;176;1;Delicias;x
 2145;96;80;192;Parral;x
-2146;169;134;32;Galeana;x
-2147;0;176;1;Anhahuac;x
-2148;76;155;77;Monterrey;x
+2146;169;134;32;Monterrey;x
+2147;0;176;1;Morelos;x
+2148;76;155;77;Reynosa;x
 2149;128;48;192;Matamoros;x
 2150;80;239;128;Ciudad Victoria;x
 2151;192;48;1;Saltillo;x
 2152;128;176;128;Monclova;x
-2153;64;48;128;Mezquital;x
-2154;0;176;128;Mapimi;x
+2153;64;48;128;Durango;x
+2154;0;176;128;Santa Maria del Oro;x
 2155;192;176;1;Torreon;x
 2156;192;176;128;Mazatlan;x
 2157;0;112;1;Culiacan;x
 2158;155;137;35;Zacatecas;x
 2159;80;48;128;San Luis Potosi;x
-2160;80;176;128;Arandas;x
+2160;80;176;128;Aguascalientes;x
 2161;80;176;0;Tepic;x
 2162;68;119;144;Veracruz;x
-2163;208;239;128;Altamira;x
-2164;144;48;192;Catemaco;x
+2163;208;239;128;Tampico;x
+2164;144;48;192;Mintatitlan;x
 2165;16;176;192;Villahermosa;x
-2166;16;112;1;Zamora de Hidalgo;x
+2166;16;112;1;Guadalajara;x
 2167;208;176;128;Guanajuato;x
 2168;144;176;128;Puerto Vallarta;x
-2169;144;112;1;Maruata;x
+2169;144;112;1;Colima;x
 2170;16;239;1;Morelia;x
-2171;1;239;180;Atoyac;x
-2172;90;76;91;Distrito Federal;x
+2171;1;239;180;Los Alaniles;x
+2172;90;76;91;Mexico City;x
 2173;208;48;128;Queretaro;x
 2174;144;48;64;Toluca;x
 2175;16;176;128;Tulacingo;x
 2176;16;176;64;Puebla;x
 2177;144;176;192;Oaxaca;x
 2178;144;176;64;Collataro;x
-2179;192;192;112;Marquelia;x
+2179;192;192;112;Acapuilco;x
 2180;223;80;64;Chilpancingo;x
-2181;208;48;64;Palenque;x
+2181;208;48;64;Tuxtla;x
 2182;16;48;192;Tapachula;x
 2183;80;48;192;Merida;x
 2184;219;133;176;Campeche;x
@@ -2960,7 +2960,7 @@ province;red;green;blue;x;x
 2959;1;202;202;Apalachee Bay;x
 2960;2;202;252;Mobile Bay;x
 2961;3;222;252;Galveston Bay;x
-2962;4;252;252;Altamira Bay;x
+2962;4;252;252;Tampico Bay;x
 2963;5;202;202;Yucatan Sea;x
 2964;6;202;252;Gulf of Mexico;x
 2965;7;222;252;Yucatan Channel;x
@@ -3001,7 +3001,7 @@ province;red;green;blue;x;x
 3000;42;202;252;Coast of Ecuador;x
 3001;43;222;252;Gulf of Panama;x
 3002;44;252;252;Bay of Costa Rica;x
-3003;45;202;202;Marquelia Bay;x
+3003;45;202;202;Acapulco Bay;x
 3004;46;202;252;Manzazilla Bay;x
 3005;47;222;252;Mazatlan Bay;x
 3006;48;252;252;Gulf of California;x
@@ -3257,33 +3257,12 @@ province;red;green;blue;x;x
 3256;90;120;90;Saguenay;x
 3257;57;14;236;Nimruz;x
 3258;250;100;70;Ansbach;x
-3259;147;14;232;Santa Maria Del Oro;x
-3260;54;14;202;Victoria de Durango;x
-3261;114;176;128;Tamazula de Victoria;x
-3262;48;97;145;Laredo;x
-3263;128;140;128;Piedras Negras;x
-3264;155;103;35;Mazapil;x
-3265;132;137;35;Sombrerete;x
-3266;155;72;35;Ojocaliente;x
-3267;208;127;36;Orange Walk;x
-3268;89;112;1;Guasave;x
-3269;33;170;157;San Felipe;x
-3270;33;170;109;Tijuana;x
-3271;32;97;100;La Paz;x
-3272;54;45;212;Ciudad Obregon;x
-3273;42;82;69;Aguascalientes;x
-3274;189;89;89;Minatitlan;x
-3275;148;124;142;Tuxtla Gutierrez;x
-3276;117;240;127;Tampico;x
-3277;109;139;163;Colima;x
-3278;84;25;20;Tlaxcala;x
-3279;27;48;128;Nazas;x
-3280;63;182;60;Jaumave;x
-3281;51;85;121;Bocabarra;x
-3282;80;92;128;Matehuala;x
-3283;80;92;91;Ciudad Valles;x
-3284;219;209;176;Escarcega;x
-3285;63;106;118;Cancun;x
+3259;48;97;145;Laredo;x
+3260;219;209;176;Escarcega;x
+3261;63;106;118;Cancun;x
+3262;189;89;89;Coatzacoalcos;x
+3263;51;85;121;Bocabarra;x
+3264;148;124;142;Tuxtla Gutierrez;x
 ;59;14;244;x;
 ;60;14;248;x;
 ;61;14;232;x;

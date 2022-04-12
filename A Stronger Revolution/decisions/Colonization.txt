@@ -14,7 +14,7 @@ political_decisions = {
 			2397 = { secede_province = ARG }
 			2396 = { secede_province = ARG }
 			2392 = { secede_province = ARG }
-			prestige = 5
+			prestige = 5.5
 		}
 	}
 }

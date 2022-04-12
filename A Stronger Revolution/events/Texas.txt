@@ -8,12 +8,13 @@ country_event = {
 		NOT = { tag = USA }
 		NOT = { tag = CSA }
 		NOT = { tag = TEX }
-		NOT = { year = 1842 }
 		any_owned_province = {
 			is_core = TXS
 		}
+		132 = { owned_by = TEX }
+		NOT = { year = 1852 }
 	}
-
+	
 	mean_time_to_happen = {
 		years = 1
 	}
@@ -48,6 +49,8 @@ country_event = {
 		}
 		NOT = { tag = CSA }
 		in_sphere = USA
+		132 = { owned_by = TEX }
+		NOT = { year = 1852 }
 	}
 	
 	mean_time_to_happen = {

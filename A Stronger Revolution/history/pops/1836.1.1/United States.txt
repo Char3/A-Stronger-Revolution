@@ -3285,7 +3285,7 @@
 	}
 }
 #Laredo (6000/1500 POPS)
-3262 = {
+3259 = {
 	aristocrats = {
 		culture = native_american_minor
 		religion = animist
@@ -3423,7 +3423,7 @@
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 400
+		size = 530
 	}
 
 	aristocrats = {
@@ -3453,7 +3453,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 450
+		size = 320
 	}
 	
 	aristocrats = {
@@ -3477,7 +3477,7 @@
 	farmers = {
 		culture = texan
 		religion = catholic
-		size = 370
+		size = 259
 	}
 	
 	aristocrats = {
@@ -3501,7 +3501,7 @@
 	farmers = {
 		culture = texan
 		religion = protestant
-		size = 1000
+		size = 860
 	}
 }
 #ruled by Texas

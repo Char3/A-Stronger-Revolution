@@ -1,6 +1,9 @@
 owner = MEX
+
 controller = MEX
+
 add_core = MEX
-add_core = RIO
-trade_goods = iron
+add_core = YUC
+
+trade_goods = timber
 life_rating = 30
