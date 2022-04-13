@@ -1099,6 +1099,68 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
+		size = 6325
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1800
+	}
+}
+
+3268 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 350
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 700
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
 		size = 12650
 	}
 
@@ -1161,6 +1223,68 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
+		size = 3210
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 953
+	}
+}
+
+3269 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 225
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
 		size = 8250
 	}
 
@@ -1194,6 +1318,7 @@
 		size = 1800
 	}
 }
+
 #Mazatlan (116000/29000 POPS)
 2156 = {
 	aristocrats = {
