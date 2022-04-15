@@ -4,5 +4,5 @@ controller = MEX
 
 add_core = MEX
 
-trade_goods = cattle
+trade_goods = iron
 life_rating = 35
