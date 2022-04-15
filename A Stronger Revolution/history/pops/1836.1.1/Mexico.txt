@@ -1360,7 +1360,53 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 26200
+		size = 10539
+	}
+	
+}
+
+#Guasave (116000/29000 POPS)
+3270 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 650
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 75
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 275
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 1450
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 8450
 	}
 }
 #Culiacan (28000/7000 POPS)
@@ -1392,7 +1438,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 6325
+		size = 9218
 	}
 }
 #Zacatecas-Aguascalientes Region (568000)
@@ -1438,7 +1484,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 35175
+		size = 29052
 	}
 
 	clergymen = {
@@ -1462,9 +1508,79 @@
 	farmers = {
 		culture = nahua
 		religion = catholic
-		size = 40200
+		size = 26021
 	}
 }
+
+#Mazapil (340000/85000 POPS)
+3271 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1725
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 225
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 175
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 425
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 3850
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 425
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 20156
+	}
+
+	clergymen = {
+		culture = nahua
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = nahua
+		religion = catholic
+		size = 2150
+	}
+
+	soldiers = {
+		culture = nahua
+		religion = catholic
+		size = 450
+	}
+
+	farmers = {
+		culture = nahua
+		religion = catholic
+		size = 8342
+	}
+}
+
 #Aguascalientes (152000/38000 POPS)
 2160 = {
 	aristocrats = {
