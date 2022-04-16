@@ -4218,3 +4218,360 @@
 		size = 20
 	}
 }
+
+#Tijuana (16000/4000 POPS)
+3282 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 70
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 3
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 1432
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1125
+	}
+}
+
+#Rosarito (16000/4000 POPS)
+3283 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 70
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 3
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 1570
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1080
+	}
+}
+
+#Rosarito (16000/4000 POPS)
+3284 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 70
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 3
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 2754
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 1400
+	}
+}
+
+#Ciudad Obregon (16000/4000 POPS)
+3286 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 70
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = catholic
+		size = 2
+	}
+
+	officers = {
+		culture = mexican
+		religion = catholic
+		size = 3
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 4750
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 2800
+	}
+}
+
+#Tlaxcala (212000/53000 POPS)
+3285 = {
+	aristocrats = {
+		culture = mexican
+		religion = catholic
+		size = 1050
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = mexican
+		religion = catholic
+		size = 950
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = mexican
+		religion = catholic
+		size = 10215
+	}
+
+	clergymen = {
+		culture = nahua
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = nahua
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = nahua
+		religion = catholic
+		size = 350
+	}
+
+	farmers = {
+		culture = nahua
+		religion = catholic
+		size = 9800
+	}
+}
