@@ -4211,4 +4211,10 @@
 		religion = animist
 		size = 523
 	}
+
+	farmers = {
+		culture = texan
+		religion = protestant
+		size = 20
+	}
 }
