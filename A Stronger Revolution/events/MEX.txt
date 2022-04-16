@@ -40,6 +40,7 @@ country_event = {
 		2182 = { secede_province = YUC add_core = YUC }
 		3260 = { secede_province = YUC add_core = YUC }
 		3261 = { secede_province = YUC add_core = YUC }
+		3264 = { secede_province = YUC add_core = YUC }
 		YUC = {
 		capital = 2183
 			any_pop = {
@@ -79,17 +80,18 @@ country_event = {
 	option = {
 		name = "The Texans shall not win this time!"
 		set_country_flag = rio_grande_rebellion
-		2144 = { secede_province = RIO add_core = RIO }
 		2152 = { secede_province = RIO add_core = RIO }
 		2147 = { secede_province = RIO add_core = RIO }
 		2146 = { secede_province = RIO add_core = RIO }
 		2151 = { secede_province = RIO add_core = RIO }
+		2155 = { secede_province = RIO add_core = RIO }
 		2150 = { secede_province = RIO add_core = RIO }
 		2149 = { secede_province = RIO add_core = RIO }
 		2148 = { secede_province = RIO add_core = RIO }
 		2163 = { secede_province = RIO add_core = RIO }
 		3275 = { secede_province = RIO add_core = RIO }
 		3281 = { secede_province = RIO add_core = RIO }
+		3280 = { secede_province = RIO add_core = RIO }
 		RIO = {
 		capital = 2148
 			any_pop = {
@@ -123,15 +125,18 @@ country_event = {
 	option = {
 		name = "Glory to Rio Grande!!"
 		set_country_flag = rio_grande_rebellion
-		2143 = { secede_province = RIO add_core = RIO }
-		2144 = { secede_province = RIO add_core = RIO }
 		2152 = { secede_province = RIO add_core = RIO }
 		2147 = { secede_province = RIO add_core = RIO }
 		2146 = { secede_province = RIO add_core = RIO }
 		2151 = { secede_province = RIO add_core = RIO }
+		2155 = { secede_province = RIO add_core = RIO }
 		2150 = { secede_province = RIO add_core = RIO }
 		2149 = { secede_province = RIO add_core = RIO }
 		2148 = { secede_province = RIO add_core = RIO }
+		2163 = { secede_province = RIO add_core = RIO }
+		3275 = { secede_province = RIO add_core = RIO }
+		3281 = { secede_province = RIO add_core = RIO }
+		3280 = { secede_province = RIO add_core = RIO }
 		RIO = {
 		capital = 2148
 			any_pop = {
