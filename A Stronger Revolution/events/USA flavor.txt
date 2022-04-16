@@ -61,6 +61,10 @@ country_event = {
 		2137 = { add_core = USA secede_province = USA }
 		2140 = { add_core = USA secede_province = USA }
 		2141 = { add_core = USA secede_province = USA }
+		3282 = { add_core = USA secede_province = USA }
+		3283 = { add_core = USA secede_province = USA }
+		3284 = { add_core = USA secede_province = USA }
+		3286 = { add_core = USA secede_province = USA }
 		MEX = {
 		country_event = { id=26652 days=0 }
 		}

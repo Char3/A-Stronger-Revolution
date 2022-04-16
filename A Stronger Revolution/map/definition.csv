@@ -2197,7 +2197,7 @@ province;red;green;blue;x;x
 2196;144;112;128;Puerto Lempira;x
 2197;144;112;192;Managua;x
 2198;16;239;192;Rivas;x
-2199;16;112;192;León;x
+2199;16;112;192;Leï¿½n;x
 2200;16;112;128;Bluefields;x
 2201;16;239;128;San Jose;x
 2202;216;131;105;Liberia;x
@@ -2701,17 +2701,17 @@ province;red;green;blue;x;x
 2700;10;120;195;Usogorsk;x
 2701;94;15;21;Cunyja;x
 2702;4;78;135;Aralsk;x
-2703;1;200;200;Vänern;x
-2704;2;200;250;Vättern;x
+2703;1;200;200;Vï¿½nern;x
+2704;2;200;250;Vï¿½ttern;x
 2705;3;220;250;Gulf of Bothnia;x
-2706;4;250;250;Ålands Hav;x
+2706;4;250;250;ï¿½lands Hav;x
 2707;5;200;200;Gulf of Finland;x
 2708;6;200;250;Western Baltic Sea;x
 2709;7;220;250;Gulf of Riga;x
 2710;8;250;250;Southern Baltic Sea;x
-2711;9;200;200;Öresund;x
+2711;9;200;200;ï¿½resund;x
 2712;10;200;250;Kattegat;x
-2713;11;220;250;Peipsi Järv;x
+2713;11;220;250;Peipsi Jï¿½rv;x
 2714;12;250;250;Ladoga;x
 2715;13;200;200;Onega;x
 2716;14;200;250;White Sea;x
@@ -3257,6 +3257,34 @@ province;red;green;blue;x;x
 3256;90;120;90;Saguenay;x
 3257;57;14;236;Nimruz;x
 3258;250;100;70;Ansbach;x
+3259;48;97;145;Laredo;x
+3260;219;209;176;Escarcega;x
+3261;63;106;118;Cancun;x
+3262;189;89;89;Coatzacoalcos;x
+3263;51;85;121;Bocabarra;x
+3264;148;124;142;Tuxtla Gutierrez;x
+3265;208;127;36;Orange Walk;x
+3266;27;48;128;Nazas;x
+3267;114;176;128;Tamazula de Victoria;x
+3268;54;14;202;Victoria de Durango;x
+3269;147;14;232;Santa Maria del Oro;x
+3270;89;112;1;Guasave;x
+3271;155;103;35;Mazapil;x
+3272;132;137;35;Sombrerete;x
+3273;155;72;35;Ojocaliente;x
+3274;80;92;128;Matehuala;x
+3275;63;182;60;Jaumavel;x
+3276;80;92;91;Ciudad Valles;x
+3277;117;240;127;Tampico;x
+3278;42;82;69;Aguascalientes;x
+3279;109;139;163;Colima;x
+3280;60;127;128;Cuatrocienagas;x
+3281;60;214;221;Piedritas;x
+3282;33;170;109;Tijuana;x
+3283;0;136;130;Rosarito;x
+3284;32;97;100;La Paz;x
+3285;84;25;20;Tlaxcala;x
+3286;54;45;212;Ciudad Obregon;x
 ;59;14;244;x;
 ;60;14;248;x;
 ;61;14;232;x;
