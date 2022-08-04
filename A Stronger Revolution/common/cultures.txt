@@ -1939,7 +1939,7 @@ native_american = {
 		}
 	}
 	dakota = {
-		color = {150 163 224}
+		color = {165 163 224}
 		first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
 		}
 		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
