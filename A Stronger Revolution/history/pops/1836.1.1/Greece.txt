@@ -1063,6 +1063,12 @@
 		religion = jewish
 		size = 1000
 	}
+	
+	artisans = {
+		culture = turkish
+		religion = sunni
+		size = 800
+	}
 }
 #Amfissa (76000/19000 POPS)
 835 = {
