@@ -1,0 +1,57 @@
+political_decisions = {
+	bureaux_arabes = {
+		picture = "apply_for_USA_statehood"
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = bureaux_arabes }
+		}
+		allow = {
+			year = 1844
+			prestige = 200
+			is_greater_power = yes
+		}
+		effect = {
+			FRA_1700 = {
+				any_pop = {
+					limit = { 
+						culture = french
+					}
+					reduce_pop = 0.50
+				}
+				any_pop = {
+					limit = { 
+						culture = pied_noir
+					}
+					reduce_pop = 1.20
+				}
+				any_pop = {
+					limit = { 
+						culture = pied_noir 
+						pop_type = officers 
+					}
+					reduce_pop = 3.50
+				}
+				any_pop = {
+					limit = { 
+						culture = pied_noir 
+						pop_type = soldiers 
+					}
+					reduce_pop = 1.50
+				}
+				any_pop = {
+					limit = { 
+						culture = maghrebi
+					}
+					militancy = 0.50
+				}
+				any_pop = {
+					limit = { 
+						culture = berber
+					}
+					militancy = 1.50
+				}
+			}
+			set_country_flag = bureaux_arabes
+		}
+	}
+}

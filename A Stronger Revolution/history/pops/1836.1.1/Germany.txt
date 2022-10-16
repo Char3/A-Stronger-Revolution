@@ -4863,6 +4863,36 @@
 		religion = catholic
 		size = 3680  
 	}
+	
+	clergymen = {
+		culture = sorbian
+		religion = catholic
+		size = 200      
+	}
+
+	craftsmen = {
+		culture = sorbian
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = sorbian
+		religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = sorbian
+		religion = catholic
+		size = 80        
+	}
+
+	farmers = {
+		culture = sorbian
+		religion = catholic
+		size = 3300       
+	}
 }
 
 #East Prussia Region (712000) #see Poland.txt and Lithuania.txt for balance of region

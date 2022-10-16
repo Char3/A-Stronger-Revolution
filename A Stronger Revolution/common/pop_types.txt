@@ -315,6 +315,16 @@ migration_chance =
 		factor = -2.0
 		state_scope = { is_colonial = yes }
 	}
+	
+	modifier = {
+		factor = -0.4
+		AND = { culture = turkish province_scope = { continent = europe } }
+	}
+	
+	modifier = {
+		factor = 0.4
+		OR = { region = TUR_829 province = 860 }
+	}
 
 	group = {
 		modifier = {
@@ -339,10 +349,15 @@ migration_chance =
 
 
 	modifier = {
-		factor = -0.3
+		factor = 0.3
 		state_scope = {
 			has_factories = yes
-			}
+		}
+	}
+	
+	modifier = {
+		factor = -1.5
+		province_scope = { terrain = arctic }
 	}
 	
 	group = { 

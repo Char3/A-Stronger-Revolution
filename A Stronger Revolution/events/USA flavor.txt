@@ -200,6 +200,9 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA16400"
+		RIO = { end_war = ENG }
+		RIO = { end_war = MEX }
+		RIO = { end_war = FRA }
 		RIO = {
 			any_owned_province = {
 			remove_core = RIO
@@ -208,7 +211,6 @@ country_event = {
 			}
 		}
 		inherit = RIO
-		RIO = { end_war = ENG }
 		ai_chance = {
 			factor = 10
 		}

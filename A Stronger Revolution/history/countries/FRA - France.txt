@@ -5,6 +5,7 @@ culture = arpitan
 culture = breton
 culture = sardinian
 culture = wallonian 
+culture = pied_noir
 religion = catholic
 government = hms_government
 plurality = 25

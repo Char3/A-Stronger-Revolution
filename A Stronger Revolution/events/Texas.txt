@@ -47,6 +47,7 @@ country_event = {
 		any_owned_province = {
 			is_core = TXS
 		}
+		NOT = { any_owned_province = RIO }
 		NOT = { tag = CSA }
 		in_sphere = USA
 		132 = { owned_by = TEX }
@@ -130,12 +131,22 @@ country_event = {
 	option = {
 		name = "Welcome!"
 		any_owned = { 
+			limit = { 
+				NOT = {
+					has_core = RIO 
+				}
+			}
 			any_pop = {
 				limit = { culture = texan }
 				reduce_pop = 1.30
 			}
 		}
 		any_owned = { 
+			limit = { 
+				NOT = {
+					has_core = RIO 
+				}
+			}
 			any_pop = {
 				limit = { culture = mexican }
 				militancy = 0.2
